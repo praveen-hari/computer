@@ -8,28 +8,28 @@
 ### Definition
 
 !!! note "What is Synectics?"
-    **Synectics** is a **problem-solving methodology** that stimulates thought processes of which the subject may be unaware. The name Synectics comes from **Greek** and means **"the joining together of different and apparently irrelevant elements."**
+    **Synectics** is a **problem-solving method** that activates thinking in ways the person may not be aware of. The word Synectics comes from **Greek**. It means **"joining together different and seemingly unrelated things."**
 
 ### Developers
 
 | Person | Details |
 |--------|---------|
 | **George M. Prince** | April 5, 1918 – June 9, 2009 |
-| **William J.J. Gordon** | Co-developer of Synectics methodology |
+| **William J.J. Gordon** | Co-developer of the Synectics method |
 
 ---
 
 ### History
 
-- The process was derived from **tape-recording** (initially audio, later video) meetings
-- **Analysis of the results** was conducted along with **experiments** with alternative ways of dealing with obstacles to success in the meeting
-- **"Success"** was defined as getting a **creative solution** that the group was **committed to implement**
+- The process came from **tape-recording** (first audio, then video) of meetings
+- The team **studied the results** and **tried new ways** to deal with problems in the meetings
+- **"Success"** meant finding a **creative solution** that the group was **ready to carry out**
 
 ---
 
 ### Theory
 
-Synectics is a way to approach **creativity and problem-solving in a rational way**. The Synectics study has attempted to research the **creative process**.
+Synectics is a way to approach **creativity and problem-solving in a logical way**. Synectics researchers have tried to study the **creative process**.
 
 #### Gordon's Three Main Assumptions
 
@@ -37,11 +37,11 @@ Synectics is a way to approach **creativity and problem-solving in a rational wa
 
     | # | Assumption |
     |---|-----------|
-    | 1 | **The creative process can be described and taught** |
-    | 2 | **Invention processes in arts and sciences are analogous** and are driven by the same **"psychic" processes** |
-    | 3 | **Individual and group creativity are analogous** |
+    | 1 | **We can describe and teach the creative process** |
+    | 2 | **Invention in arts and sciences works in a similar way** — both use the same **"inner mental" processes** |
+    | 3 | **Individual creativity and group creativity work in a similar way** |
 
-With these assumptions in mind, Synectics believes that **people can be better at being creative** if they **understand how creativity works**.
+With these ideas in mind, Synectics says that **people can become more creative** if they **understand how creativity works**.
 
 ---
 
@@ -49,38 +49,38 @@ With these assumptions in mind, Synectics believes that **people can be better a
 
 #### 1. Embracing the Seemingly Irrelevant
 
-- One important element in creativity is **embracing the seemingly irrelevant**
-- **Emotion** is emphasized over **intellect**
-- The **irrational** is emphasized over the **rational**
-- Through understanding the **emotional and irrational elements** of a problem or idea, a group can be **more successful at solving a problem**
+- One key part of creativity is **accepting ideas that seem unrelated**
+- **Emotion** matters more than **logic**
+- **Non-logical thinking** matters more than **logical thinking**
+- When a group understands the **emotional and non-logical parts** of a problem, they can **solve it more successfully**
 
 #### 2. Prince's Emphasis on Creative Behaviour
 
-- **Prince** emphasized the importance of **creative behaviour** in:
-    - **Reducing inhibitions**
-    - **Releasing the inherent creativity** of everyone
-- He and his colleagues developed **specific practices and meeting structures** which help people ensure that their **constructive intentions are experienced positively** by one another
-- The use of **creative behaviour tools** extended the application of Synectics to many situations **beyond inventive sessions** (particularly **constructive resolution of conflict**)
+- **Prince** said that **creative behaviour** is important for:
+    - **Reducing fears and mental blocks**
+    - **Bringing out the natural creativity** in everyone
+- He and his team created **specific practices and meeting formats**. These help people make sure their **positive ideas are received well** by others
+- Using **creative behaviour tools** helped apply Synectics to many situations **beyond invention sessions**. This was especially useful for **solving conflicts in a positive way**
 
 #### 3. Metaphorical Thinking
 
 !!! tip "Gordon's Central Principle"
     **"Trust things that are alien, and alienate things that are trusted."**
 
-- Gordon emphasized the importance of **"metaphorical thinking"** — to **make the familiar strange** and **the strange familiar**
-- This encourages:
-    - On one hand → **fundamental problem-analysis**
-    - On the other hand → **alienation of the original problem** through the creation of **analogies**
-- It is thus possible for **new and surprising solutions to emerge**
+- Gordon said **"metaphorical thinking"** is very important. It means to **make the familiar strange** and **the strange familiar**
+- This helps in two ways:
+    - It leads to **deep analysis of the problem**
+    - It helps you **see the problem differently** by creating **comparisons (analogies)**
+- This makes it possible for **new and surprising solutions to appear**
 
 #### 4. Springboarding Technique
 
-- As an invention tool, Synectics invented a technique called **"springboarding"** for getting **creative beginning ideas**
-- For the development of beginning ideas, the method:
-    - **Incorporates brainstorming** and deepens and widens it with **metaphor**
-    - Adds an important **evaluation process for Idea Development**
-    - Takes **embryonic new ideas** that are attractive but not yet feasible
-    - Builds them into **new courses of action** which have the **commitment of the people** who will implement them
+- Synectics created a technique called **"springboarding"** to get **early creative ideas**
+- This method works by:
+    - **Using brainstorming** and making it deeper and wider with **metaphor**
+    - Adding an important **step to evaluate and develop ideas**
+    - Taking **early new ideas** that look good but are **not yet doable**
+    - Turning them into **real action plans** that the people involved are **committed to carry out**
 
 ---
 
@@ -88,15 +88,15 @@ With these assumptions in mind, Synectics believes that **people can be better a
 
 | Aspect | Synectics | Brainstorming |
 |--------|-----------|---------------|
-| **Complexity** | More complicated | Simpler |
-| **Time & Effort** | Requires more time and effort | Less time-consuming |
+| **Complexity** | More complex | Simpler |
+| **Time & Effort** | Needs more time and effort | Takes less time |
 | **Demand on Subject** | More demanding | Less demanding |
-| **Facilitator** | Requires a **trained facilitator** | Can be self-directed |
-| **Approach** | Uses metaphor, analogy, springboarding | Free idea generation |
-| **Evaluation** | Includes evaluation process for idea development | Defers evaluation |
+| **Facilitator** | Needs a **trained facilitator** | Can be self-directed |
+| **Approach** | Uses metaphor, analogy, springboarding | Free idea sharing |
+| **Evaluation** | Includes idea evaluation step | Delays evaluation |
 
 !!! note "Key Difference"
-    Synectics is **more demanding** of the subject than brainstorming, as the steps involved imply that the process is **more complicated** and requires **more time and effort**. The success of the Synectics methodology depends highly on the **skill of a trained facilitator**.
+    Synectics is **harder** than brainstorming. The steps are **more complex** and need **more time and effort**. The success of Synectics depends a lot on the **skill of a trained facilitator**.
 
 ---
 
@@ -125,7 +125,7 @@ flowchart TD
 !!! note "Overview"
     While there are many teaching models, some basic ones are: **Direct Instruction, Lecture, Cooperative Learning, Inquiry-based Learning, Seminar, and Project-based Learning**.
 
-**Teaching models** are **methods of teaching** or **underlying philosophies** that guide teaching methods. Effective teachers will **integrate different teaching models and methods** depending on the students that they are teaching and the **needs and learning styles** of those students.
+**Teaching models** are **methods of teaching** or **basic ideas** that guide how teachers teach. Good teachers **mix different teaching models and methods**. They choose based on their students and the **needs and learning styles** of those students.
 
 ---
 
@@ -133,18 +133,18 @@ flowchart TD
 
 | Teaching Model | Key Feature | Best For |
 |---------------|-------------|----------|
-| **Direct Instruction** | Teacher-led, structured steps | Clear lesson objectives |
-| **Lecture** | Verbal presentation of information | College classrooms |
-| **Cooperative Learning** | Group work with assigned roles | All subject areas |
-| **Inquiry-based Learning** | Problem/puzzle solving | Mathematics & Science |
-| **Seminar Method** | Socratic questioning & discussion | Critical thinking & analysis |
-| **Project-based Learning** | Hands-on project creation | Applied learning |
+| **Direct Instruction** | Teacher-led, step-by-step | Clear lesson goals |
+| **Lecture** | Teacher talks, students listen | College classrooms |
+| **Cooperative Learning** | Group work with roles | All subjects |
+| **Inquiry-based Learning** | Solving problems/puzzles | Maths & Science |
+| **Seminar Method** | Questions & discussion | Critical thinking |
+| **Project-based Learning** | Hands-on projects | Practical learning |
 
 ---
 
 ### 1. Direct Instruction
 
-In direct instruction, the **teacher is the person in charge** of presenting the lesson objectives and information to students.
+In Direct Instruction, the **teacher leads the lesson**. The teacher presents the lesson goals and information to students.
 
 #### Steps of Direct Instruction
 
@@ -157,33 +157,33 @@ flowchart LR
 
 | Step | Description |
 |------|-------------|
-| **Step 1: Present** | Teacher presents lesson objectives and information through a **lecture** or **multimedia presentation** |
-| **Step 2: Guided Practice** | Teacher gives students **guided practice** so they can work with the **teacher's help** |
-| **Step 3: Independent Practice** | Teacher gives students **independent practice** of lesson objectives (could be **homework** or **in-class activity**) |
-| **Step 4: Test** | Teacher **tests the students** to see that they have **mastered the lesson objectives** |
+| **Step 1: Present** | The teacher shows the lesson goals and information using a **lecture** or **slides/video** |
+| **Step 2: Guided Practice** | The teacher gives students **practice with help**. Students work with the **teacher's support** |
+| **Step 3: Independent Practice** | Students **practice on their own**. This can be **homework** or an **in-class activity** |
+| **Step 4: Test** | The teacher **tests students** to check if they have **learned the lesson goals** |
 
 ---
 
 ### 2. Lecture Method
 
 - Often used in **college classrooms**
-- The **educator verbally presents** information and examples
-- Sometimes accompanied by a **visual presentation**
-- **Not necessarily much interaction** with students
-- **Not much emphasis on practice** and putting information to practical use
-- Students mainly need to **recite the information on a test**
+- The **teacher speaks** and gives information and examples
+- Sometimes uses a **visual presentation** (slides)
+- There is **not much interaction** with students
+- There is **little focus on practice** or using knowledge in real life
+- Students mostly need to **remember and repeat the information on a test**
 
 !!! note "Limitation"
-    The lecture method has limited student interaction and minimal emphasis on practical application of knowledge.
+    The lecture method has little student interaction. It does not focus much on using knowledge in practice.
 
 ---
 
 ### 3. Cooperative Learning
 
-- Students work in a **group setting** where each member has a **different task or role**
-- **All students have to work together** to come up with the answer or to create the products or project that is required of them
-- After all groups have finished, each group will be required to **present its findings** in front of the other groups and the teacher
-- This method **works well in all subject areas**
+- Students work in **groups**. Each member has a **different task or role**
+- **All students must work together** to find the answer or create the product or project
+- When all groups finish, each group **presents its results** to the other groups and the teacher
+- This method **works well in all subjects**
 
 ```mermaid
 flowchart TD
@@ -198,48 +198,48 @@ flowchart TD
 
 ### 4. Inquiry-based Learning
 
-- Works especially well in **mathematics and science classes**
-- Teacher presents a **problem or a puzzle** that students must solve based on **prior information** they have learned
-- Can be used with **individual students** or with students **working in groups**
+- Works very well in **maths and science classes**
+- The teacher gives a **problem or puzzle**. Students solve it using **what they already know**
+- You can use this with **one student** or with students **working in groups**
 
 #### Process of Inquiry-based Learning
 
 | Step | Activity |
 |------|----------|
-| 1 | Teacher presents a **problem or puzzle** |
-| 2 | Learners create a **hypothesis** using the data they have been given |
-| 3 | They **collect relevant information** |
-| 4 | They **draw their conclusions** |
-| 5 | They might **present to the class** |
+| 1 | The teacher gives a **problem or puzzle** |
+| 2 | Students make a **guess (hypothesis)** using the data they have |
+| 3 | They **collect useful information** |
+| 4 | They **reach their conclusions** |
+| 5 | They may **present to the class** |
 
 !!! tip "Strength"
-    This method presents learners with **authentic and engaging tasks** that are **highly motivating**.
+    This method gives students **real and interesting tasks**. These tasks are **very motivating**.
 
 ---
 
 ### 5. Seminar Method (Socratic Inquiry)
 
-- Also referred to as **Socratic inquiry**
-- After students have all read a **common text**, the teacher uses **questions** to get students to:
+- Also called **Socratic inquiry**
+- First, all students read a **common text**. Then the teacher uses **questions** to get students to:
     - **Analyze** the material
     - **Evaluate** the material
-    - **Synthesize** the material
-    - Reflect on their **own beliefs and thoughts** related to it
-- Based on **higher-level thinking questions** used to **stimulate student thinking**
-- The teacher **does not act as the primary presenter** of material
-- Teacher **asks questions** and gets students to **back up their answers**
-- **Students can ask each other clarifying questions** as well
+    - **Combine ideas from** the material
+    - Think about their **own beliefs and thoughts** about it
+- The teacher uses **higher-level thinking questions** to **activate student thinking**
+- The teacher **does not present the material directly**
+- The teacher **asks questions** and students must **support their answers with reasons**
+- **Students can also ask each other questions** to understand better
 
 !!! important "Key Feature"
-    In the seminar method, the teacher is a **facilitator of discussion**, not a presenter. The focus is on **higher-order thinking** — analysis, evaluation, and synthesis.
+    In the seminar method, the teacher is a **guide for discussion**, not a presenter. The focus is on **higher-order thinking** — analysis, evaluation, and combining ideas.
 
 ---
 
 ### 6. Project-based Learning
 
-- Students engage in **hands-on projects** that require application of knowledge
-- Encourages **active learning** and **real-world problem solving**
-- Students create **tangible products or outcomes**
+- Students do **hands-on projects** that need them to use their knowledge
+- This method supports **active learning** and **real-world problem solving**
+- Students create **real products or results**
 
 ---
 
@@ -248,34 +248,34 @@ flowchart TD
 ### Definition and Explanation
 
 !!! note "What is Computer-Based Learning (CBL)?"
-    **Computer-based learning (CBL)** is the term used for **any kind of learning with the help of computers**. It is also known as **Computer-aided instruction**.
+    **Computer-based learning (CBL)** means **any kind of learning that uses computers**. It is also called **Computer-aided instruction**.
 
-- Computer-based learning makes use of the **interactive elements** of the computer applications and software and the ability to **present any type of media** to the users
-- CBL has many benefits, including:
-    - Users **learning at their own pace**
-    - Learning **without the need for an instructor** to be physically present
+- Computer-based learning uses the **interactive features** of computer programs and software. It can **show any type of media** to users
+- CBL has many benefits:
+    - Students can **learn at their own speed**
+    - Students can learn **without a teacher being physically present**
 
 ---
 
 ### Techopedia Explains Computer-Based Learning (CBL)
 
-- The computer-based learning model can be used by a **myriad of learning programs** across the world
-- It can also be **combined with traditional teaching methods** to enhance the overall educational and training experience
-- For **organizations**, computer-based learning could help in **training employees** in a more effective and profound manner
-- **Individual courses** can be imparted in a **cost-effective manner** to learners
+- **Many learning programs** around the world can use the computer-based learning model
+- You can also **combine it with traditional teaching** to make the learning experience better
+- For **organizations**, CBL can help **train employees** in a more effective way
+- **Individual courses** can be **given to learners at a low cost**
 
 ---
 
 ### Instructional Models in CBL
 
-Computer-based learning is mainly used in the following instructional models:
+We mainly use computer-based learning in these instructional models:
 
 | # | Instructional Model | Description |
 |---|-------------------|-------------|
-| 1 | **Knowledge-based training and assessment** | Training focused on knowledge delivery and evaluation |
-| 2 | **Simulation-based learning and training** | Learning through simulated environments and scenarios |
-| 3 | **Creative and instructional games** | Game-based learning for engagement and instruction |
-| 4 | **Problem-solving training** | Training focused on developing problem-solving skills |
+| 1 | **Knowledge-based training and assessment** | Training that focuses on giving knowledge and testing it |
+| 2 | **Simulation-based learning and training** | Learning through simulated (virtual) settings |
+| 3 | **Creative and instructional games** | Using games to teach and keep students interested |
+| 4 | **Problem-solving training** | Training that builds problem-solving skills |
 
 ```mermaid
 flowchart TD
@@ -293,14 +293,14 @@ flowchart TD
 
     | # | Advantage |
     |---|-----------|
-    | 1 | Provides **more learning opportunity** for people in **disadvantaged environments** |
-    | 2 | People can learn at a **pace comfortable for them**, unlike in a traditional classroom |
-    | 3 | Learners need to spend only the **required time to learn** — no fixed schedule |
-    | 4 | Learning material is **available all the time** |
-    | 5 | **Cost effective** in many ways — reduces **travel time** and the same material can be used to teach **new students or users** |
+    | 1 | Gives **more learning chances** to people in **difficult environments** |
+    | 2 | People can learn at a **speed that is comfortable for them** |
+    | 3 | Students only spend the **time they need to learn** — no fixed schedule |
+    | 4 | Learning material is **available at all times** |
+    | 5 | **Saves money** in many ways — less **travel time**, and the same material can teach **new students** |
     | 6 | Offers **safety and flexibility** |
-    | 7 | Provides the **ability to track progress** |
-    | 8 | Leads to **reduction of overall training time** |
+    | 7 | You can **track your progress** easily |
+    | 8 | **Reduces total training time** |
 
 ---
 
@@ -310,10 +310,10 @@ flowchart TD
 
     | # | Disadvantage |
     |---|-------------|
-    | 1 | Students **do not have the opportunity for physical interaction** with the instructors |
-    | 2 | **Development** of computer-based learning can be **time consuming** |
-    | 3 | The **software or hardware** required for learning can be **expensive** |
-    | 4 | **Not all subjects or fields** can be supported or assisted by computer-based learning |
+    | 1 | Students **cannot meet or interact with teachers in person** |
+    | 2 | **Creating** computer-based learning content **takes a lot of time** |
+    | 3 | The **software or hardware** needed can be **expensive** |
+    | 4 | **Not all subjects** can be taught well using computer-based learning |
 
 ---
 
@@ -321,14 +321,14 @@ flowchart TD
 
 | Advantages | Disadvantages |
 |-----------|---------------|
-| Self-paced learning | No physical interaction with instructors |
-| Available all the time | Development is time-consuming |
-| Cost effective | Software/hardware can be expensive |
-| Tracks progress | Not suitable for all subjects |
-| Reduces travel time | — |
+| Self-paced learning | No face-to-face interaction with teachers |
+| Available all the time | Creating content takes a lot of time |
+| Saves money | Software/hardware can be expensive |
+| Tracks progress | Not good for all subjects |
+| Less travel time | — |
 | Safety and flexibility | — |
-| More opportunity for disadvantaged learners | — |
-| Reduces overall training time | — |
+| More chances for students in difficult settings | — |
+| Less total training time | — |
 
 ---
 
@@ -352,23 +352,23 @@ flowchart TD
 
 | Term | Definition |
 |------|-----------|
-| **Synectics** | A problem-solving methodology that stimulates thought processes of which the subject may be unaware; means "joining together of different and apparently irrelevant elements" |
-| **Springboarding** | A Synectics technique for getting creative beginning ideas by incorporating brainstorming and deepening it with metaphor |
+| **Synectics** | A problem-solving method that activates thinking the person may not be aware of. It means "joining together different and seemingly unrelated things" |
+| **Springboarding** | A Synectics technique for getting early creative ideas. It uses brainstorming and makes it deeper with metaphor |
 | **Direct Instruction** | Teacher-led model with steps: Present → Guided Practice → Independent Practice → Test |
 | **Cooperative Learning** | Group-based learning where each member has a different task/role |
-| **Inquiry-based Learning** | Problem/puzzle-based learning where students form hypotheses and draw conclusions |
+| **Inquiry-based Learning** | Problem/puzzle-based learning where students make guesses and reach conclusions |
 | **Seminar Method** | Socratic inquiry method using higher-level thinking questions |
-| **CBL** | Computer-Based Learning — any kind of learning with the help of computers; also called computer-aided instruction |
+| **CBL** | Computer-Based Learning — any kind of learning that uses computers; also called computer-aided instruction |
 
 ### Key People to Remember
 
 | Person | Contribution |
 |--------|-------------|
 | **William J.J. Gordon** | Co-developer of Synectics; central principle: "Trust things that are alien, alienate things that are trusted" |
-| **George M. Prince** | Co-developer of Synectics; emphasized creative behaviour in reducing inhibitions |
+| **George M. Prince** | Co-developer of Synectics; focused on creative behaviour to reduce fears and mental blocks |
 
 ### Gordon's 3 Assumptions (Mnemonic: **C-I-I**)
 
 1. **C**reative process can be described and taught
-2. **I**nvention processes in arts and sciences are analogous (same psychic processes)
-3. **I**ndividual and group creativity are analogous
+2. **I**nvention processes in arts and sciences are similar (same inner mental processes)
+3. **I**ndividual and group creativity are similar
