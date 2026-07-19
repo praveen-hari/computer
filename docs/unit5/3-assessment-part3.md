@@ -8,12 +8,12 @@
 ### 5.9.1 Assessment in Pedagogy
 
 !!! note "Definition"
-    **Educational assessment** is the systematic process of **documenting and using empirical data** on the knowledge, skill, attitudes, and beliefs to **refine programs** and **improve student learning**.
+    **Educational assessment** is a step-by-step process. Teachers collect real data about students' knowledge, skills, attitudes, and beliefs. They use this data to **improve programs** and **help students learn better**.
 
-- Assessment data can be obtained from:
-    - **Directly examining** student work to assess the achievement of learning outcomes
-    - **Data-based inferences** about learning
-- Assessment is often used interchangeably with **test**, but is **not limited to tests**
+- We can get assessment data in two ways:
+    - **Looking at student work directly** to check if they met the learning goals
+    - **Drawing conclusions from data** about what students have learned
+- People often use "assessment" and "test" to mean the same thing. But assessment is **much more than just tests**.
 
 #### Focus Levels of Assessment (Granularity)
 
@@ -21,103 +21,103 @@ Assessment can focus on different levels:
 
 | Level | Description |
 |:------|:------------|
-| **Individual learner** | Single student performance |
-| **Learning community** | Class, workshop, or organized group of learners |
-| **Course** | Specific course-level assessment |
-| **Academic program** | Program-wide assessment |
-| **Institution** | Institutional-level assessment |
-| **Educational system** | System-wide assessment (also known as **granularity**) |
+| **Individual learner** | One student's performance |
+| **Learning community** | A class, workshop, or study group |
+| **Course** | One specific course |
+| **Academic program** | A whole program of study |
+| **Institution** | The entire school or college |
+| **Educational system** | The whole education system (also called **granularity**) |
 
 #### Assessment as a Continuous Process
 
-As a continuous process, assessment involves:
+Assessment is an ongoing process. It involves these steps:
 
-1. Establishing **measurable and clear student learning outcomes**
-2. Providing a **sufficient amount of learning opportunities** to achieve these outcomes
-3. Implementing a **systematic way of gathering, analyzing and interpreting evidence** to determine how well student learning matches expectations
-4. Using the **collected information to inform improvement** in student learning
+1. Setting **clear and measurable learning goals** for students
+2. Giving students **enough chances to learn** so they can reach those goals
+3. Using a **planned method to collect, study, and understand evidence**. This shows how well students are learning.
+4. Using the **results to improve** how students learn
 
 !!! important
-    **Pedagogy becomes meaningful only on using Assessment.** It shows or proves the effect of our efforts in teaching (pedagogy).
+    **Pedagogy becomes meaningful only on using Assessment.** It shows the effect of our teaching efforts.
 
 #### Types of Assessment
 
-The term assessment is generally used to refer to **all activities teachers use** to help students learn and to gauge student progress. Assessment can be categorized as:
+Teachers use assessment for **all activities** that help students learn. It also helps teachers track student progress. We can group assessment into these types:
 
 | # | Category | Examples |
 |:-:|:---------|:---------|
 | 1 | **Placement, Formative, Summative and Diagnostic** | Based on purpose and timing |
-| 2 | **Objective and Subjective** | Based on scoring method |
+| 2 | **Objective and Subjective** | Based on how we score |
 | 3 | **Referencing** | Criterion-referenced, Norm-referenced |
 | 4 | **Informal and Formal** | Based on structure |
-| 5 | **Internal and External** | Based on administration |
+| 5 | **Internal and External** | Based on who runs it |
 
-> Each type has its own purpose as indicated by the title.
+> Each type has its own purpose, as its name suggests.
 
 ---
 
 ### 5.9.2 Purpose of Assessment
 
 !!! tip "Key Insight"
-    **Teaching and Assessments are twins** — teaching has no meaning without Assessment. Assessment is the technique of **ascertaining the understanding** of the learners regarding matter taught. That is the very purpose of education.
+    **Teaching and Assessment are twins.** Teaching has no meaning without assessment. Assessment helps us **find out how well students understand** what we taught. That is the main goal of education.
 
-- The purpose of Assessment is to **find out the understanding level of the learner**
-- This could be done in several ways (as indicated in the types above)
-- Assessment could be in **oral**, **written**, or **interview** forms
+- The purpose of assessment is to **find out how well the learner understands**
+- We can do this in many ways (see the types above)
+- Assessment can be **oral**, **written**, or through an **interview**
 
 #### Benefits of Assessment
 
 | # | Benefit |
 |:-:|:--------|
-| 1 | It **reflects the effectiveness** of our teaching |
-| 2 | Identifies what **modifications or corrective measures** should be taken by teachers to make teaching more effective |
-| 3 | Assessment could be **formative** — it helps us to find the problems of learners and to adapt our teaching |
-| 4 | Enables us to understand whether our **objectives of teaching** have been achieved |
+| 1 | It **shows how effective** our teaching is |
+| 2 | It helps teachers find **what changes or extra help** are needed to teach better |
+| 3 | **Formative assessment** helps us find student problems. We can then change our teaching to help them. |
+| 4 | It helps us check if we have **reached our teaching goals** |
 
 ---
 
 ### 5.9.3 Teaching of Computer Science in Schools
 
 !!! note "Current State of CS Education"
-    The Computer Science field is one of the **fastest growing** and **highest paying** career paths in the world. However, there is a **diminishing supply** of teachers and students interested in Computer Science.
+    Computer Science is one of the **fastest growing** and **highest paying** career fields in the world. But there are **fewer and fewer** teachers and students choosing Computer Science.
 
 #### Key Observations
 
-- **Students, parents, teachers and administrators** continue to value CS learning; parents too wish it
-- While support for CS learning continues to be strong, **all students do not yet have access** to CS learning opportunities in school classes. However, many get exposure to CS through school
-- While CS learning opportunities are **not universally accessible**, they are **increasing**
-- Although the majority of parents value CS, **few have approached school officials** to specifically express support for CS in the classroom
-- Schools report a **lack of qualified teachers and funds** as barriers to offering CS; additionally, schools continue to report that they have **too many other classes**
+- **Students, parents, teachers, and school leaders** all see value in CS learning. Parents want it too.
+- Support for CS learning is strong. But **not all students can access** CS classes in school. Still, many students get some CS experience through school.
+- CS learning chances are **not available everywhere**. But they are **growing**.
+- Most parents value CS. Yet **few have asked school leaders** to add CS to the classroom.
+- Schools say they **lack trained teachers and money** to offer CS. They also say they have **too many other classes** already.
 
 #### Why CS Education Matters
 
 | Aspect | Details |
 |:-------|:--------|
-| **Exposure gap** | The diminishing supply of CS teachers/students is largely based on how exposed students are to technology and resources, and whether they are being encouraged to explore CS |
-| **Beyond CS careers** | Educating students in CS is also beneficial to those **not interested** in the CS field |
-| **Digital age skills** | There is a need to develop **logical thinking** and **problem-solving** — all part of the CS curriculum |
-| **Universal computer use** | Students, regardless of field, must be proficient in using computers — creating files, writing reports, researching subjects |
-| **Job growth** | Job openings with knowledge of CS are growing in **every industry and every state**; projected to grow at **twice the rate** of any other job |
-| **Social mobility** | CS has become a crucial tool to not only innovate the world but also a way to pull students of **low-income families and communities** out of poverty |
+| **Exposure gap** | The shortage of CS teachers and students depends on how much students see technology. It also depends on whether someone encourages them to try CS. |
+| **Beyond CS careers** | Learning CS also helps students who do **not plan** a CS career |
+| **Digital age skills** | Students need **logical thinking** and **problem-solving skills**. These are part of the CS curriculum. |
+| **Universal computer use** | All students must know how to use computers. They need to create files, write reports, and research topics. |
+| **Job growth** | CS-related jobs are growing in **every industry and every state**. They are expected to grow at **twice the rate** of other jobs. |
+| **Social mobility** | CS helps people create new things. It also helps students from **low-income families** find a way out of poverty. |
 
 ---
 
 ## 5.10 Computer Assisted Learning (CAL)
 
 !!! note "Definition"
-    **Computer Assisted Learning (CAL)** is also denoted as **Computer Assisted Instruction (CAI)**. It enables computer-assisted learning through various instructional modes.
+    **Computer Assisted Learning (CAL)** is also called **Computer Assisted Instruction (CAI)**. It uses computers to help students learn through different teaching methods.
 
 ### Instructional Models of CAL
 
-In order to carry out the teaching/learning function, the computer utilises various instructional modes:
+The computer uses different teaching methods to help students learn:
 
 | # | Mode | Description |
 |:-:|:-----|:------------|
-| i | **Drill and Practice** | The computer presents a series of exercises which the student attempts by giving responses. It provides feedback — a **congratulatory message** if correct, or a **corrective comment** if wrong. Provides endless drill and practice with repetition at a pace controlled by the student. The computer allows students to proceed further **only when mastery has been achieved**. |
-| ii | **Tutorial Mode** | As in programmed instruction, information is presented in **small steps** followed by a question. The student's response is analysed by the computer and **appropriate feedback** is given. |
-| iii | **Simulation Mode** | Learning experiences related to **real life phenomena** are provided. For example: study of genetics, experiments in town planning, operation of a system, etc., can be shown through computer simulation. |
-| iv | **Discovery Mode** | Uses **inductive approach** to learning where problems are presented and the student solves them through **trial and error**. |
-| v | **Gaming Mode** | Teaching is imparted through a **playway mode**. |
+| i | **Drill and Practice** | The computer gives exercises. The student tries to answer. If correct, the computer shows a **praise message**. If wrong, it gives a **helpful comment**. Students practice at their own speed. The computer lets them move ahead **only after they master the topic**. |
+| ii | **Tutorial Mode** | The computer shows information in **small steps**. After each step, it asks a question. It checks the student's answer and gives **the right feedback**. |
+| iii | **Simulation Mode** | The computer creates experiences that copy **real life**. For example: studying genetics, planning a town, or running a system. |
+| iv | **Discovery Mode** | The computer gives problems. Students solve them by **trying different things** (trial and error). This is an **inductive approach** (learning by exploring examples). |
+| v | **Gaming Mode** | Students learn through **games and play**. |
 
 ### Benefits of CAL
 
@@ -134,18 +134,18 @@ Key benefit areas:
 
 | # | Advantage |
 |:-:|:----------|
-| 1 | CAL is **individualized** — each learner is free to work at her/his own pace, totally unaffected by the performance of other learners. Since it provides a method of instruction designed for self-directive study, it helps in **improving skills or achieving objectives at all difficulty levels**. |
-| 2 | Information is presented in a **structured form**. It proves useful in the study of a subject where there is a **hierarchy of facts and rules**. |
-| 3 | CAL forces **active participation** on the part of the learner, which contrasts with the more passive role in reading a book or attending a lecture. |
-| 4 | As a result of interactive learner participation, it provides **immediate feedback**. The feedback may be **remedial** in nature or it may direct the learner to a certain path depending on the response. |
-| 5 | CAL utilizes a **reporting system** that provides learners with a clear picture of their progress. Learners can identify subject areas in which they have improved and in which they need improvement. |
-| 6 | By enabling learners to **manipulate concepts directly** and explore the results of such manipulation, it **reduces the time** taken to comprehend difficult concepts. |
-| 7 | CAL saves the **unauthentic labour** of teachers as well as learners. Teachers need not waste time and labour in arranging the same instructional experiences, forming questions for every learner, evaluating them at every learning stage — all these are carried out by the computer program. |
-| 8 | CAL offers a **wide range of experiences** otherwise not available to learners. It works as **multimedia** providing audio as well as visual inputs. It enables the learner to understand concepts clearly with the use of simulating techniques such as **animation, blinking, graphical displays**, etc. |
-| 9 | Learners can be provided **any number of options** in multiple choice questions. Also a series of responses may be provided where some are better than others, with each response providing **feedback on each option**. |
-| 10 | CAL provides a lot of **drill** which can be useful for **low-aptitude learners** and through which **high-aptitude learners** can escape (skip ahead). |
-| 11 | CAL can enhance **reasoning and decision-making abilities**. |
-| 12 | Learners who use CAL become increasingly **self-directed** in their learning style. They become more **responsible for learning** and less dependent on teachers. They are considered capable learners. |
+| 1 | CAL is **individualized**. Each learner works at their own speed. Other students' performance does not affect them. It is designed for self-study. It helps students **improve skills at all levels**. |
+| 2 | Information comes in a **structured form**. This is useful for subjects with a **clear order of facts and rules**. |
+| 3 | CAL makes learners **actively take part**. This is different from just reading a book or sitting in a lecture. |
+| 4 | Because learners interact with the computer, they get **instant feedback**. The feedback may give **extra help** (remedial) or guide the learner to a new path based on their answer. |
+| 5 | CAL has a **reporting system**. It shows learners a clear picture of their progress. They can see where they improved and where they need more work. |
+| 6 | Learners can **work with concepts directly** and see the results. This **saves time** when learning hard topics. |
+| 7 | CAL saves **repeated work** for teachers and learners. Teachers do not need to set up the same lessons, write questions for each student, or grade at every step. The computer program does all this. |
+| 8 | CAL gives a **wide range of experiences** that learners cannot get otherwise. It works as **multimedia** with sound and visuals. It uses **animation, blinking, and graphics** to make concepts clear. |
+| 9 | The computer can give **many options** in multiple choice questions. Each option can have its own **feedback message**. Some answers are better than others. |
+| 10 | CAL gives lots of **practice drills**. This helps **slower learners**. **Faster learners** can skip ahead. |
+| 11 | CAL can improve **thinking and decision-making skills**. |
+| 12 | Students who use CAL become more **self-directed**. They take more **responsibility for learning**. They depend less on teachers. |
 
 ### Limitations of CAL (12 Points)
 
@@ -155,36 +155,36 @@ Key benefit areas:
 | 2 | **Lack of human qualities** |
 | 3 | **Software/hardware limitations** |
 | 4 | **Limited sensitivity to needs** |
-| 5 | **No actual experience** — CAL does not provide mobility during interaction with computer; only provides eye-hand coordination |
-| 6 | **Harmful to eyes** — too much use of computer can be harmful to the eyes |
-| 7 | **No hands-on experience** — though simulation permits execution of chemical and biological experiments, hands-on experience is missing. CAL packages cannot develop **manual skills** such as handling an apparatus, working with a machine, dissecting an animal, etc. |
-| 8 | **Restricts social interaction** — in case of individual self-work, it restricts social interaction with others |
-| 9 | **Vocabulary development limited** — preschool children develop vocabulary through social interaction. Computers cannot be much effective for this purpose. Computer programs dealing with **voice synchronization** capabilities are very costly. |
-| 10 | **Limited creativity development** — there is not much scope for development of creativity and imaginative thinking |
-| 11 | **No peer learning** — in the classroom, learners not only learn from interaction with teachers but also from their peers. This is not possible in the case of computer-assisted learning |
-| 12 | **Limited to 2D objects** — it limits the learner's activity to two-dimensional objects |
+| 5 | **No actual experience** — CAL does not let students move around. It only gives eye-hand coordination. |
+| 6 | **Harmful to eyes** — using the computer too much can hurt the eyes |
+| 7 | **No hands-on experience** — simulations can show science experiments. But students miss real hands-on work. CAL cannot build **manual skills** like using lab tools, running machines, or doing dissections. |
+| 8 | **Restricts social interaction** — when students work alone on a computer, they do not interact with others |
+| 9 | **Vocabulary development limited** — young children learn words through talking with people. Computers are not very good for this. Programs with **voice features** are very expensive. |
+| 10 | **Limited creativity development** — there is little room to grow creativity and imagination |
+| 11 | **No peer learning** — in a classroom, students learn from each other too. This does not happen with computer-assisted learning. |
+| 12 | **Limited to 2D objects** — it limits learners to flat, two-dimensional objects |
 
 !!! warning "Additional Limitations"
-    - Computers **cannot replace** human teacher-managed classrooms that can have **nonverbal reinforcement**, use of **humour**, and exchange of **personal feelings** between teachers and students
-    - Computer assisted learning takes learners away from the habit of learning from **books and other printed/handwritten materials**, which affects the development of **language skills**
-    - Computer assisted evaluation is **not possible** in the case of short answer and long answer tests
-    - It also cannot effectively evaluate **essays, précis, abstracts**, etc.
+    - Computers **cannot replace** a human teacher's classroom. Teachers use **body language**, **humour**, and share **personal feelings** with students.
+    - CAL takes students away from **books and printed materials**. This can hurt their **language skills**.
+    - Computers **cannot grade** short answer and long answer tests.
+    - Computers also cannot properly evaluate **essays, summaries, or abstracts**.
 
 ### Role of Teachers in CAL
 
 | Role | Description |
 |:-----|:------------|
-| **Guide** | Teacher plays the role of a **guide** rather than lecturing |
-| **Human element** | Human element **cannot be substituted** by computer. So teacher still has an important role |
-| **Quality improvement** | CAL could improve the **scope and quality of teaching** contribution by the teacher |
-| **Multiple roles** | Teacher has to play many roles like **Computer engineer** (Basics), **Lesson writer**, **Systems operator** |
+| **Guide** | The teacher acts as a **guide**, not just a lecturer |
+| **Human element** | A computer **cannot replace** the human touch. The teacher is still very important. |
+| **Quality improvement** | CAL can improve the **range and quality** of what the teacher teaches |
+| **Multiple roles** | The teacher must play many roles: **Computer engineer** (basics), **Lesson writer**, **Systems operator** |
 
 ---
 
 ### 5.10.1 Computer Managed Instruction (CMI)
 
 !!! note "Definition"
-    **Computer Managed Instruction (CMI)** is another contribution of the computer to the domain of instruction. In CMI, the computer **gathers, stores and manages information** to guide the student through **individualised learning experiences**.
+    **Computer Managed Instruction (CMI)** is another way computers help with teaching. In CMI, the computer **collects, stores, and manages information**. It uses this to guide each student through a **personal learning path**.
 
 #### CMI Process
 
@@ -197,57 +197,57 @@ flowchart LR
     E --> A
 ```
 
-- The computer helps the student move through **check-points** (in the form of definite activities) in the education process at **different times** via **different paths** matching individual capabilities
-- CMI achieves this individualised instructional process by a series of activities:
-    1. **Administering** diagnostic tests
-    2. **Scoring** them
-    3. **Prescribing** the appropriate paths
-    4. **Monitoring** the progress of individuals all along the route
+- The computer helps students move through **check-points** (specific activities) in the learning process. Each student moves at **different times** and on **different paths** based on their ability.
+- CMI does this through a series of steps:
+    1. **Giving** diagnostic tests
+    2. **Scoring** the tests
+    3. **Suggesting** the right learning path (prescribing)
+    4. **Tracking** each student's progress along the way
 
 ---
 
 ### 5.10.2 Evaluation of Computer-Based Instruction (CBI)
 
 !!! important "Key Research Finding"
-    A **meta-analysis of findings from 254 controlled evaluation studies** showed that **Computer-Based Instruction (CBI)** usually produces **positive effects** on students.
+    A **meta-analysis** (a study that combines results from many studies) **looked at 254 controlled studies**. It found that **Computer-Based Instruction (CBI)** usually has **positive effects** on students.
 
 #### Key Findings from the Meta-Analysis
 
 | Aspect | Finding |
 |:-------|:--------|
-| **Coverage** | Learners of **all age levels** — from kindergarten pupils to adult students |
-| **Student attitudes** | CBI produced small but **positive changes** in student attitudes toward teaching and computers |
-| **Time efficiency** | CBI **reduced substantially** the amount of time needed for instruction |
-| **Positive impact** | Evaluators compared experimental (CBI) and control (conventional) groups on common examinations and course evaluation forms — found **positive impact** of CBI |
+| **Coverage** | Learners of **all ages** — from kindergarten children to adult students |
+| **Student attitudes** | CBI created small but **positive changes** in how students feel about teaching and computers |
+| **Time efficiency** | CBI **greatly reduced** the time needed for instruction |
+| **Positive impact** | Researchers compared CBI groups with regular teaching groups. They used the same exams and forms. CBI had a **positive impact**. |
 
 #### Thomas (1970) Review
 
-A more recent traditional review by **Thomas (1970)** reported even more positive findings:
+A later review by **Thomas (1970)** found even more positive results:
 
-- **Achievement gains** over other methods are the norm
-- **Improved attitudes** toward computers and subject matter were generally reported
-- Many CBI students gained **mastery status** in a **shortened period of time**
+- **Better scores** compared to other methods are the norm
+- Students showed **better attitudes** toward computers and the subject
+- Many CBI students reached **mastery level** in a **shorter time**
 
-> The positive effects of CBI have been studied from all angles — size of the class, level of students, etc.
+> Researchers have studied the positive effects of CBI from all angles — class size, student level, etc.
 
 #### Historical Context
 
-- Since the **early 1960s**, educational technologists have been developing programs of CBI to **drill, tutor, and test** students and to **manage instructional programs**
-- In recent years, CBI programs have been used increasingly in schools to **supplement or replace** more conventional teaching methods
-- Many educational technologists believe CBI will not only **reduce educational costs** in the long run but will also **enhance educational effects**
-- Some envision a day when computers will serve all children as **personal tutors**: *"a Socrates or Plato for every child of the 21st century"*
+- Since the **early 1960s**, education experts have built CBI programs to **drill, tutor, and test** students. They also use CBI to **manage teaching programs**.
+- In recent years, schools use CBI more and more. It can **add to or replace** traditional teaching methods.
+- Many experts believe CBI will **lower education costs** over time. It will also **improve learning results**.
+- Some imagine a future where computers serve as **personal tutors** for all children: *"a Socrates or Plato for every child of the 21st century"*
 
 #### Recent Changes in Computers
 
-The omission from most reviews of results from recent CBI applications is a serious problem for at least **two reasons**:
+Most reviews do not include results from recent CBI uses. This is a serious problem for **two reasons**:
 
 | # | Reason |
 |:-:|:-------|
-| 1 | **Computers have changed greatly** — they have become smaller, less expensive, more reliable, and quicker in their operations. Communication with them has become easier, and their output has become more readable and attractive. |
-| 2 | **Conceptions of the computer's role have broadened** — the role that the computer can play in instruction has expanded significantly. |
+| 1 | **Computers have changed a lot.** They are now smaller, cheaper, more reliable, and faster. They are easier to use. Their output looks better and is easier to read. |
+| 2 | **People see more uses for computers.** The role computers can play in teaching has grown a lot. |
 
 !!! tip "Conclusion"
-    Despite all shortcomings, the results showed that **CBI teaching was more effective** than teaching without a computer, and teachers could teach **more details** with **better understanding** of the subject by students.
+    Even with some weaknesses, the results show that **CBI teaching works better** than teaching without a computer. Teachers can teach **more details**. Students **understand the subject better**.
 
 ---
 
@@ -256,85 +256,85 @@ The omission from most reviews of results from recent CBI applications is a seri
 ### Introduction
 
 !!! note "Context"
-    In today's world, study of computer languages is more important. **Effective and good programming skills** are needed for all computer science students. They can master programming only through **intensive exercise practices**.
+    In today's world, learning computer languages is very important. All computer science students need **strong programming skills**. They can master programming only through **lots of practice**.
 
-- Due to the day-by-day **increasing number of students** in the class, the assessment of programming exercises leads to **extensive workload** for teachers/instructors, particularly when it has to be carried out manually
-- When faced with grading hundreds of programs manually, even the help of teaching assistants is not easy
-- In large classes, **error detection** and **manual evaluation** for every program is **difficult and time consuming**
+- The number of students in classes **keeps growing**. Checking programming exercises by hand creates a **huge workload** for teachers.
+- Grading hundreds of programs by hand is very hard. Even teaching assistants struggle with this.
+- In large classes, **finding errors** and **grading each program by hand** is **difficult and slow**.
 
 ### Automatic Assessment System
 
-- The automatic assessment system for programming assignments uses a **verification program with random inputs**
-- One of the most important properties of a program is that it carries out its **intended function**
-- The intended function of a program or part of a program can be verified by using **inverse function's verification program**
-- This assessment system has been tested on **basic C programming courses**, and results show that it can work well in basic programming exercises
+- The automatic assessment system checks programming assignments. It uses a **verification program with random inputs**.
+- A program's most important feature is that it does what it is **supposed to do**.
+- We can check a program's purpose by using an **inverse function's verification program**.
+- This system has been tested on **basic C programming courses**. Results show it works well for basic exercises.
 
 #### Web-Based Tutoring Systems
 
-With the recent advancement of **internet technologies** and **advanced program analysis techniques**, web-based tutoring systems that can play the role of teacher for teaching and training programming (partially or completely) are increasingly considered.
+Thanks to better **internet technologies** and **program analysis methods**, web-based tutoring systems are growing. These systems can partly or fully act as a teacher for programming.
 
 !!! note "Traditional vs. Automated"
-    In traditional education, the problem of assessment is countered by **manual review and inspection** offered by class tutors. However, it is **not efficiently practical** when dealing with large numbers of students and practice exercises.
+    In traditional education, tutors check student work by **reading and reviewing it by hand**. But this **does not work well** when there are many students and many exercises.
 
 #### Popular Inspection Method
 
-- One popular method suggested is generating a **suite of test cases** based on **coverage analysis** and executing the programs with all test cases
-- Even though applied widely in industry, this method is **not theoretically complete** since test cases are impossible to secure the absence of possible flaws in programs
-- It is not always encouraged to run a piece of **potentially erroneous code** due to system safety
+- One popular method creates a **set of test cases** based on **coverage analysis**. It then runs the programs with all test cases.
+- This method is used widely in industry. But it is **not perfect in theory**. Test cases cannot prove that a program has zero flaws.
+- Running **possibly wrong (erroneous) code** can be risky for system safety.
 
 ### Automated Tools
 
 !!! important "Core Aims"
     The core aims of automated tools are:
 
-    1. To promote an automated tool to **reduce the workload** of human teachers
-    2. To **improve consistency** of marking assessment items
-    3. To include **thorough testing** of students' programming exercises
+    1. To build tools that **reduce the workload** of human teachers
+    2. To **improve fairness** in grading student work
+    3. To **test student programs thoroughly**
 
 #### Measurement Values
 
-- The basic requirement for automated assessment of programming exercises are the **measurement values** that can be extracted from the program
-- The values can be compared to the **given requirements** or to a **model solution**
-- For educational purposes, the measurement values typically need to be justified by the **teaching goals** of the course or specifically by **objectives** to be achieved for each topic of the course syllabus
+- To assess programs automatically, we need **measurement values** that we can pull from the program.
+- We compare these values to the **given requirements** or to a **model answer**.
+- For teaching purposes, these values should match the **course goals**. They should also match the **learning objectives** for each topic.
 
 #### Approaches to Automatic Programming Assessment
 
-Several approaches can be found from various resources (journals, conference articles, online resources). The approaches are typically based on either:
+There are several approaches in journals, articles, and online resources. They fall into two main types:
 
-- **Static analysis** — program is NOT executed during assessment
-- **Dynamic testing** — program IS executed during assessment
+- **Static analysis** — the program is NOT run during assessment
+- **Dynamic testing** — the program IS run during assessment
 
 ---
 
 ### A. Static Program Analysis
 
 !!! note "Definition"
-    **Static program analysis** has recently emerged as an efficient means for **program verification**. The program is analyzed **without being executed**.
+    **Static program analysis** is a newer and efficient way to **verify programs**. The program is checked **without running it**.
 
 Two popular approaches:
 
 | Approach | Description | Strengths | Limitations |
 |:---------|:------------|:----------|:------------|
-| **Theorem Proving** | Supported by the logic of **axiomatic semantic theory** | **Sound and complete** for correctness verification | Due to computational complexity, fails to produce **counter-examples** of errors encountered; limited in terms of education |
-| **Model Checking** | Can tackle the counter-example problem | Can produce **counter-examples** | Cannot work on a **virtually infinite domain** |
+| **Theorem Proving** | Uses the logic of **axiomatic semantic theory** (a formal math-based method to prove code is correct) | **Sound and complete** — can fully verify correctness | Very complex to compute. Cannot easily show **examples of errors**. Limited use in education. |
+| **Model Checking** | Solves the problem of showing error examples | Can produce **counter-examples** (shows what went wrong) | Cannot work on a **very large or infinite set of values** |
 
 ---
 
 ### B. Dynamic Program Analysis
 
 !!! note "Definition"
-    **Dynamic program analysis** is the analysis of computer software that is performed by **executing programs** built from that software system on a **real or virtual processor**.
+    **Dynamic program analysis** checks software by **actually running the programs**. It runs them on a **real or virtual computer**.
 
-- For manual assessment, it is difficult to figure out the results of a program because the program may have **many different executive paths** and output results, even if it is simple
-- Dynamic analysis assesses a program by **executing it** based on **test data** which are automatically generated or manually provided
+- When grading by hand, it is hard to trace all results. Even a simple program may have **many different paths** and outputs.
+- Dynamic analysis checks a program by **running it** with **test data**. The test data can be created automatically or by hand.
 
 #### Requirements for Effective Dynamic Analysis
 
 | Requirement | Description |
 |:------------|:------------|
-| **Sufficient test inputs** | The target program must be executed with sufficient test inputs to produce interesting behavior |
-| **Code coverage** | Use of software testing techniques such as **code coverage** helps ensure that an adequate slice of the program's set of possible behaviors has been observed |
-| **Minimal instrumentation effect** | Care must be taken to minimize the effect that instrumentation has on the execution (including **temporal properties**) of the target program |
+| **Sufficient test inputs** | We must run the program with enough test inputs to see how it behaves |
+| **Code coverage** | Testing methods like **code coverage** help make sure we have tested enough of the program's possible actions |
+| **Minimal instrumentation effect** | The tools used for testing (instrumentation) should not change how the program runs. This includes **timing behavior**. |
 
 ```mermaid
 flowchart TB
@@ -356,43 +356,43 @@ flowchart TB
 
 ### 1. Teaching-Learning Process
 
-- It is a well-known fact that **no two individuals are alike**
-- As every child is different, they tend to learn in a **unique way**
-- Learners learn better if they are taught using **more than one sense organ**
+- Everyone knows that **no two people are the same**
+- Every child is different. They each learn in a **unique way**.
+- Students learn better when they use **more than one sense** (seeing, hearing, touching)
 
 ### 2. What is ICT
 
 !!! note "Definition"
-    **ICT** stands for **Information Communication Technology**. It is the study, design, development, application, implementation, support, or the management of **computer-based information systems**, mostly computers and computer networks and other information distribution technologies.
+    **ICT** stands for **Information Communication Technology**. It covers the study, design, building, use, and management of **computer-based information systems**. This mostly means computers, networks, and other ways to share information.
 
 - ICT refers to **Digital Information Analysis (DIA)**
-- This is done by using different types of aids and equipment (**Resources**), especially:
+- It uses different types of tools and equipment (**Resources**), such as:
     - **Audio**
     - **Visual**
     - **Models**
-- Creating **sensation**, **perception**, and **conception**
+- These create **sensation** (feeling), **perception** (understanding), and **conception** (forming ideas)
 
 ### Use of ICT
 
 !!! tip "Key Benefit"
-    Use of ICT makes **abstract concept teaching** into **concrete, understandable subject matter**.
+    ICT turns **hard-to-understand abstract ideas** into **clear, concrete lessons**.
 
-- In order to make every child a **self-learner**, **independent**, **critical and creative thinker**, and **problem solver**, proper understanding of the concepts is essential by concretising the concepts in its proper perspectives
+- To make every child a **self-learner**, **independent thinker**, **creative thinker**, and **problem solver**, they must truly understand the concepts. ICT helps make concepts real and clear.
 
 ### 3 Areas of Knowledge
 
-ICT helps to integrate **3 major areas of knowledge** in order to make learning the best, effective and efficient:
+ICT brings together **3 major areas of knowledge**. This makes learning better and more effective:
 
 | # | Knowledge Area | Description |
 |:-:|:---------------|:------------|
-| 1 | **Concept Knowledge (C)** | Subject matter / content knowledge |
+| 1 | **Concept Knowledge (C)** | The subject matter or content |
 | 2 | **Pedagogical Knowledge (P)** | Teaching methods and strategies |
-| 3 | **Technological Knowledge (T)** | Use of technology tools and resources |
+| 3 | **Technological Knowledge (T)** | How to use technology tools |
 
 !!! important
-    Until electronic/technological aids and equipment were found, there were only the **first two knowledge systems** used. The invention of the third (technology) makes teaching-learning **interesting, meaningful, active and understandable**.
+    Before technology, teachers only used the **first two knowledge areas**. Adding the third (technology) makes teaching-learning **interesting, meaningful, active, and easy to understand**.
 
-Using the above three knowledge areas, it is possible to adopt **several combinations** of the 3 knowledge. Thus teaching becomes **varied and valuable**.
+Teachers can mix these three areas in **many combinations**. This makes teaching **varied and valuable**.
 
 #### TPACK Diagram
 
@@ -418,33 +418,33 @@ graph TD
     PT --- CPT
 ```
 
-> **Teachers should be experts in all the 3 knowledge areas and their application in teaching.**
+> **Teachers should be experts in all 3 knowledge areas and know how to use them in teaching.**
 
 ### Preparation of Teaching
 
-While preparing for teaching a lesson, a teacher should follow these steps:
+When preparing a lesson, a teacher should follow these steps:
 
 | Step | Action |
 |:-----|:-------|
-| **Step 1** | Prepare, collect details of contents and plan **which aspects should be explained** |
-| **Step 2** | Decide **what kind of method or pedagogical skill** could be applied |
-| **Step 3** | Plan **what type and special technology** would be more suitable in making the lesson interesting and understandable |
+| **Step 1** | Gather the content details. Plan **which parts to explain**. |
+| **Step 2** | Decide **which teaching method** to use. |
+| **Step 3** | Choose **which technology** will make the lesson interesting and easy to understand. |
 
-> So first of all, plan **whether ICT is to be used** in teaching a specific topic.
+> First, decide **whether to use ICT** for that specific topic.
 
 ### ICT Resources
 
-Some of the possibilities of resources which could be used are:
+Here are some types of resources teachers can use:
 
 | Resource Type | Description |
 |:--------------|:------------|
 | **Text** | Written content and materials |
-| **Image** | Visual representations and pictures |
+| **Image** | Pictures and visual aids |
 | **Audio** | Sound-based learning materials |
 | **Video** | Moving visual content |
-| **Interactive** | Engaging, participatory content |
+| **Interactive** | Content that students can interact with |
 | **Animation** | Animated visual explanations |
-| **Simulation** | Virtual replications of real-world processes |
+| **Simulation** | Virtual copies of real-world processes |
 
 ### ICT and Teaching Integration
 
@@ -459,13 +459,13 @@ flowchart TD
 ```
 
 !!! tip "ICT-Teaching Integration Framework"
-    The integration of ICT in teaching involves:
+    Bringing ICT into teaching involves:
 
-    - **Connecting with the world** — using ICT to access global resources
-    - **Interaction with each other** — enabling collaborative learning
+    - **Connecting with the world** — using ICT to reach global resources
+    - **Interaction with each other** — helping students learn together
     - **Right selection of ICT** — based on content, context, and pedagogy
-    - **Pedagogy-driven selection** — choosing ICT based on pedagogical needs
-    - **Proper classroom use** — effective implementation in the classroom
+    - **Pedagogy-driven selection** — picking ICT based on teaching needs
+    - **Proper classroom use** — using ICT well in the classroom
 
 ---
 
