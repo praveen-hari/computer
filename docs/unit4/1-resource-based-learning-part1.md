@@ -8,27 +8,27 @@
 ### Resources — Definition
 
 !!! note "What are Resources?"
-    **Resources** make abstract teaching into **concrete concepts**, so that it could be understood better.
+    **Resources** turn abstract ideas into **concrete concepts**. They help students understand lessons better.
 
-**Three kinds of resources** are necessary for delivery of quality formal and non-formal education programs:
+**Three kinds of resources** are needed for good formal and non-formal education:
 
 | # | Resource Type | Description |
 |---|---|---|
 | 1 | **Human Resources** | Teachers, mentors, managers, support staff |
 | 2 | **Material Resources** | Textbooks, equipment, teaching aids, workbooks |
-| 3 | **Financial Resources** | Funding from domestic/country sources |
+| 3 | **Financial Resources** | Money from sources within the country |
 
 ---
 
 ### Human Resources
 
-- There is a full range of human resources that are essential for success
-- These resources include **teachers, mentors, managers, and support staff**
-- Teachers are one of the **critical aspects** of human resources
-- **Planners and administrators** are useful for planning and implementing the program — they are not directly involved in teaching
+- Many types of human resources are needed for success
+- These include **teachers, mentors, managers, and support staff**
+- Teachers are one of the **most important** human resources
+- **Planners and administrators** help plan and run the program. They do not teach directly
 
 !!! important "Quality Teaching"
-    **Quality teaching** is the most powerful factor in **student learning**. There are **three critical domains** of supportive interactions in good teaching.
+    **Quality teaching** is the strongest factor in **student learning**. Good teaching has **three key areas** of helpful interactions.
 
 #### Three Domains of Quality Teaching
 
@@ -36,10 +36,10 @@
 
 | # | Component |
 |---|---|
-| 1 | **Positive connection** of teacher and students |
-| 2 | **Low level of negativity** expressed by teacher and students |
+| 1 | **Positive connection** between teacher and students |
+| 2 | **Low negativity** shown by teacher and students |
 | 3 | **Teacher sensitivity** to students' needs |
-| 4 | **Teacher regard** for students' interests, motivations, and points of view |
+| 4 | **Teacher respect** for students' interests, goals, and views |
 
 ##### 2. Organizational Support
 
@@ -52,39 +52,39 @@
 
 | # | Component |
 |---|---|
-| 1 | **Learning strategies** — how teachers engage students in activities and facilitate activities so that learning opportunities are maximized |
-| 2 | **Concept development** — how teachers use instructional discussions and activities to promote students' higher-order thinking skills and cognition |
-| 3 | **Quality of feedback** — how teachers extend students' learning through their participation in activities |
-| 4 | **Language modeling** — the extent to which teachers facilitate and encourage students' language development |
+| 1 | **Learning strategies** — how teachers involve students in activities and help them get the most learning |
+| 2 | **Concept development** — how teachers use discussions and activities to build higher-order thinking skills |
+| 3 | **Quality of feedback** — how teachers help students learn more through their work in activities |
+| 4 | **Language modeling** — how much teachers help and encourage students' language growth |
 
 ---
 
 ### Material Resources
 
-- Both the **availability and quality** of materials are essential for a quality education
-- In many countries there are **insufficient basic materials** such as:
+- Both the **availability and quality** of materials are needed for good education
+- In many countries, there are **not enough basic materials** such as:
     - Blackboards and chalk
     - Textbooks
     - Teacher support materials
     - Teaching aids and equipment
     - Student workbooks
-    - Supplementary learning aids
-- Materials may be **unavailable** due to:
-    - Lack of **financial resources** to transport them
-    - Lack of **human resources** to develop them and/or make them appropriate
-    - **Geographical barriers** that make delivery untimely or impossible
-- A key element in delivery of quality education is the **quality of material resources** for delivery of content
-- This is reflected in **relevance and design** of the curriculum and learning materials available for acquisition of basic skills in all areas of education
+    - Extra learning aids
+- Materials may be **hard to get** because of:
+    - Not enough **money** to transport them
+    - Not enough **people** to create or adapt them
+    - **Location barriers** that make delivery late or impossible
+- The **quality of material resources** is a key part of good education
+- This shows in the **relevance and design** of the curriculum. It also shows in the learning materials available for gaining basic skills
 
 ---
 
 ### Financial Resources
 
-- The most important source of financing for education comes from **sources within a country (domestic sources)**
-- Even in many countries where the spending on education is a **significant percentage of GDP**, the actual amount of money available is **insufficient** to provide a quality education to those who are in school, let alone those who are excluded
+- The main source of money for education comes from **sources within a country (domestic sources)**
+- In many countries, education spending is a **large share of GDP**. But the actual money available is still **not enough** for quality education. This is true even for students in school, and worse for those left out
 
 !!! tip "Resource Centre"
-    For quality teaching in schools, establishment of a **fully equipped resource centre** is essential depending on the resources available to schools. This could be at **excellent or medium level**. The ideal resource centre should have ideal resources as indicated in the flow chart of types of educational resources.
+    For quality teaching, schools need a **fully equipped resource centre**. The level depends on what the school can afford. It could be **excellent or medium level**. The ideal resource centre should have the resources shown in the flow chart below.
 
 ---
 
@@ -104,8 +104,8 @@ graph TD
 ```
 
 !!! note "Key Relationship"
-    - **Financial resources** are essential for providing other material and human resources
-    - **Human resources** are inevitable to properly utilize material resources
+    - **Financial resources** are needed to provide material and human resources
+    - **Human resources** are necessary to properly use material resources
 
 ---
 
@@ -114,14 +114,14 @@ graph TD
 ### What is the Resource Bank?
 
 !!! note "Definition"
-    The **Resource Bank** is a **curated selection of research-based resources** that teachers can use to **scaffold access to classroom tasks** for all learners — especially those with **Foundations needs**.
+    The **Resource Bank** is a **carefully chosen set of research-based resources**. Teachers use it to **support access to classroom tasks** for all learners — especially those with **Foundations needs**.
 
-- The bank is useful for anyone working **directly with students**, or those who **support instructional staff**
-- Although the Resource Bank is primarily intended to serve the needs of:
-    - Students who are **significantly behind grade level** in literacy or numeracy
+- The bank helps anyone working **directly with students**. It also helps those who **support teaching staff**
+- The Resource Bank mainly serves:
+    - Students who are **far behind grade level** in reading or math
     - **English learners**
-    - Students receiving **special education services**
-- It contains tools that can be useful with a **broad array of learners**
+    - Students getting **special education services**
+- But it has tools that can help a **wide range of learners**
 
 ---
 
@@ -147,16 +147,16 @@ The Resource Bank is organized into **6 Categories**:
 | 5 | **Math Resources** |
 | 6 | **Self-Directed Learning** |
 
-Each category contains **6 resource tiles** containing information, strategies, and tools for a specific type of Foundations support.
+Each category has **6 resource tiles**. Each tile has information, strategies, and tools for a specific type of Foundations support.
 
-Each tile is organized by **4 tabs**:
+Each tile has **4 tabs**:
 
 | Tab | Description |
 |---|---|
-| **"What"** | Summarizes the resource |
-| **"When"** | Describes when to use it and the type of student to use it with |
-| **"Why"** | Describes why the resource is effective and includes citations |
-| **"How"** | Contains actionable implementation directions and information |
+| **"What"** | Gives a summary of the resource |
+| **"When"** | Tells when to use it and which students it helps |
+| **"Why"** | Explains why it works, with research references |
+| **"How"** | Gives step-by-step directions to use it |
 
 !!! tip
     You will find **linked resources, videos, and visual examples** on the right side of the page.
@@ -165,22 +165,22 @@ Each tile is organized by **4 tabs**:
 
 ### Resource Bank for Teachers & Educators
 
-**Countryside Classroom** is the **largest partnership** of its kind, bringing together organisations committed to helping children learn about **food, farming and the natural environment**.
+**Countryside Classroom** is the **largest partnership** of its kind. It brings together groups that help children learn about **food, farming and the natural environment**.
 
 Key features of Countryside Classroom:
 
-- Designed **content submission tools**, approval and **curation platform**
-- Created a site powered by **deep, rich-text search**
+- Has **content submission tools** and an approval and **review platform**
+- The site uses **deep, rich-text search**
 - Gives **instant access to over 3,000 resources**
-- The partnership wanted to create a **single online resource** to help teachers and educators incorporate **food, farming and the natural environment** into their teaching
+- The partnership wanted to create a **single online resource**. It helps teachers add **food, farming and nature** into their teaching
 - Supported by **experts from outside the classroom**
-- The partnership was to invite organisations and others in the same space to **submit resources**, check places to visit and people to ask, and to **curate and approve** the content on the Countryside Classroom
+- The partnership invites groups to **submit resources**. They check places to visit and people to ask. They also **review and approve** the content
 - Features include:
-    - Beautifully crafted site with **improved information architecture**
-    - Mapped out **user journeys** to ensure a seamless user experience
-    - Developed a **robust bespoke content management system** that allowed the partnership full control over the structure and content
-    - **Rich, fast full-text and category filtering** by embedding a comprehensive search API
-- Countryside Classroom was awarded **two Silver Awards** for outstanding user experience and outstanding education website
+    - Well-designed site with **better information layout**
+    - Planned **user journeys** for a smooth experience
+    - Built a **strong custom content management system**. It gives the partnership full control over structure and content
+    - **Fast full-text and category search** using a built-in search tool
+- Countryside Classroom won **two Silver Awards** for great user experience and education website
 
 ---
 
@@ -188,9 +188,9 @@ Key features of Countryside Classroom:
 
 ### Island Educational Services
 
-- **Island Educational Services** is located in **Bainbridge Island, WA (98110)**
-- Functioning at **724, Ericksen Avenue, NE, Suite 102**
-- It serves the schools around it with various services
+- **Island Educational Services** is in **Bainbridge Island, WA (98110)**
+- Located at **724, Ericksen Avenue, NE, Suite 102**
+- It serves the schools around it with many services
 
 ---
 
@@ -217,30 +217,30 @@ Key features of Countryside Classroom:
 !!! note
     The resources are also available **level-wise**: **Elementary, Middle and High School**.
 
-- This is similar to the **school complex system in Tamil Nadu** which was implemented in almost all places
-- The schools attached to a big school with many resources were helped by the complex school in all respects
-- Since the school was started in an **Island**, it was called **Resources Island**
+- This is similar to the **school complex system in Tamil Nadu**. It was used in almost all places
+- A big school with many resources helped the smaller schools attached to it
+- Since the school was on an **Island**, it was called **Resources Island**
 
 ---
 
 ### Indian Sunday School Union (ISSU)
 
-In India, a similar school is located in **Coonoor, Nilgiris, Tamil Nadu**. It is known as **Indian Sunday School Union (ISSU)** with the following services:
+In India, a similar school is in **Coonoor, Nilgiris, Tamil Nadu**. It is called **Indian Sunday School Union (ISSU)**. It offers these services:
 
 | # | Service |
 |---|---|
 | 1 | **Teacher Training** for Sunday school and day school teachers |
-| 2 | **Youth, culture and ministry** consultancy and training youth leaders |
+| 2 | **Youth, culture and ministry** — advising and training youth leaders |
 | 3 | **Counselling** by appointment |
 | 4 | **Training of counsellors** |
-| 5 | **Training for integration** counselling with education |
+| 5 | **Training for integration** — combining counselling with education |
 | 6 | **Developing transfer national Christian Curriculum** |
-| 7 | **Developing curriculum** for day schools that integrate core subjects with the creative arts for discovery learning and transformation |
-| 8 | **Consultancy** for developing educational institutions around the philosophy of transformation |
+| 7 | **Developing curriculum** for day schools that mix core subjects with creative arts for discovery learning |
+| 8 | **Advising** on building educational institutions based on the idea of transformation |
 
 !!! note "Historical Background"
-    - In **1876**, the school was started to provide education to **under-privileged children in Allahabad** with a mission
-    - In the **18th century**, the Sunday school movement was created to provide education to **child labourers**
+    - In **1876**, the school started to educate **under-privileged children in Allahabad**
+    - In the **18th century**, the Sunday school movement began to educate **child labourers**
 
 ---
 
@@ -249,19 +249,19 @@ In India, a similar school is located in **Coonoor, Nilgiris, Tamil Nadu**. It i
 ### Definition
 
 !!! note "What is a Resource Peninsula?"
-    If a **resource centre (school)** is near a **lake, river or on the bank of such water sources**, the school can have other schools around that school. This could be around **three sides** as on the **fourth side there is a water source**. If such schools serve the schools around three sides of it, it can be said as **Resource (School) Peninsula**.
+    Imagine a **resource centre (school)** near a **lake, river or water source**. Other schools can be around it on **three sides**. The **fourth side** faces the water. If this school serves the schools on three sides, we call it a **Resource (School) Peninsula**.
 
 ---
 
 ### Peninsula School, Dehradun
 
-- There is a school named **Peninsula School** in **Pachhmiwala, Dehradun**
+- There is a school called **Peninsula School** in **Pachhmiwala, Dehradun**
 - There are **64 schools** in Pachhmiwala
-- Located in **Anfield Grant, Vikasnagar, Uttarakhand, 248198, India**
-- There are schools within a **radius of 1 km** and about **64 schools within a radius of 5 km**
+- It is in **Anfield Grant, Vikasnagar, Uttarakhand, 248198, India**
+- Some schools are within **1 km**. About **64 schools** are within **5 km**
 
 !!! tip
-    Apart from this, there are many schools all over the world with the name Peninsula School, but they may or may not be serving the schools around them.
+    Many schools around the world have the name Peninsula School. But they may or may not serve the schools around them.
 
 ---
 
@@ -270,27 +270,27 @@ In India, a similar school is located in **Coonoor, Nilgiris, Tamil Nadu**. It i
 ### Sense Organs as Gateways of Knowledge
 
 !!! important
-    **Sense organs are gateways of knowledge** — from the stage of a born child to the stage of a great scholar; it is only through senses that human beings acquire knowledge. It is the natural source of gaining wisdom. Especially through **eyes we gain 70 to 75% of knowledge**.
+    **Sense organs are gateways of knowledge.** From birth to becoming a great scholar, we gain knowledge only through our senses. This is the natural way we learn. Through our **eyes, we gain 70 to 75% of knowledge**.
 
 ---
 
 ### Importance of Teaching Resources
 
-- **Sensation** gained through sense organs, when interpreted with meaning, becomes **perception**
-- **Perceptions**, when classified using common properties, yield **concepts** — the foundation on which thinking and knowledge are built
+- When sense organs pick up information and we give it meaning, it becomes **perception**
+- When we group **perceptions** by shared features, we form **concepts**. Concepts are the base of thinking and knowledge
 - This leads to **imagination and critical thinking**
-- Ultimately, it is the **sense organs** which must be trained and kept sharp to acquire clear, strong, profound knowledge
-- **Audio-visual media/resources** play a vital role in learning and teaching
-- The term **"educational resource"** is better than "media" or "audio-visual aids" — it is more meaningful with broader implications
+- So we must train and sharpen our **sense organs** to gain clear, strong, deep knowledge
+- **Audio-visual media/resources** play a key role in learning and teaching
+- The term **"educational resource"** is better than "media" or "audio-visual aids." It has a wider and clearer meaning
 
 !!! note "Computer Science Context"
-    Computer science being an **application-oriented science** which could help all other fields for their development, it is inevitable that students of computer science acquire **lucid knowledge without confusion**.
+    Computer science is a **hands-on, applied science**. It helps all other fields grow. So it is important that computer science students gain **clear knowledge without confusion**.
 
-- **Learning experiences appealing to the senses** are more effective than abstract learning experiences
-- There is a need for using **instructional aid/media/resource** for clear understanding
-- Though all five senses are important, stress is placed on the **aural and the visual**, because they are widely involved in classroom situations
-- **Comenius** was the first to introduce **pictures in books**
-- **Pestalozzi** advocated the use of **objects before words**
+- **Learning through the senses** works better than learning through abstract ideas alone
+- We need **instructional aids/media/resources** for clear understanding
+- All five senses matter. But we focus on **hearing and seeing** because they are used most in classrooms
+- **Comenius** was the first to put **pictures in books**
+- **Pestalozzi** said we should use **objects before words**
 
 !!! tip "Slogan of Audio-Visual Technologists"
     **"More learning, quick learning and longer retention"** is the slogan of the audio-visual technologists.
@@ -300,32 +300,32 @@ In India, a similar school is located in **Coonoor, Nilgiris, Tamil Nadu**. It i
 ### 4.5.1 Audio-Visual Resources in Computer Science
 
 !!! note "Definition"
-    **Audio-visual aids** are the different types of materials that appeal to the **sense of hearing and vision** and are used in classrooms for presentation of abstract ideas. In computer science, these materials convey meaning **without complete dependence on verbal**.
+    **Audio-visual aids** are materials that use **hearing and sight**. Teachers use them in classrooms to present abstract ideas. In computer science, these materials share meaning **without relying only on words**.
 
-- Some activities like **field trips, dramatising events, demonstrating experiments** are in the nature of process or experiences
-- Some aids like **filmstrip or slide** need a **projector** to handle
-- Others like a **chart, photograph or picture** need no equipment and can be directly used
-- Experiences classified under **visual category** (charts, photographs, pictures)
-- **Magnetic tape or disc recordings** belong to **audio category**
-- The term **'Audio-visual aids'** designates both **processes and material things**
-- The terms **'Audio-Visual materials'**, **'instructional aids'** or **'educational media'** mean the same thing — all generally classified as **'media'**
+- Some activities like **field trips, acting out events, showing experiments** are hands-on experiences
+- Some aids like a **filmstrip or slide** need a **projector**
+- Others like a **chart, photograph or picture** need no equipment. You can use them directly
+- Charts, photographs, and pictures fall under the **visual category**
+- **Magnetic tape or disc recordings** fall under the **audio category**
+- The term **'Audio-visual aids'** refers to both **processes and physical materials**
+- The terms **'Audio-Visual materials'**, **'instructional aids'** or **'educational media'** mean the same thing. We group them all as **'media'**
 
 !!! important "Role of Media in Communication"
-    In the process of communication, media play a significant role. For effective communication, the **message is sent to the receiver through the medium** which serves as a **channel**.
+    Media play a big role in communication. For good communication, the **message goes to the receiver through a medium**. This medium works as a **channel**.
 
 **Benefits in Computer Science Teaching:**
 
-- Modern teaching materials could make learning easier — like **medicine in capsule form**
+- Modern teaching materials make learning easier — like **medicine in capsule form**
 - Teachers should learn how to use **modern teaching aids**
-- Computer science being a latest science, teachers should teach through **aids and practical experience**
-- As it comprises of many new principles and procedures, the subject may appear difficult — when taught through **aids and media**, it becomes **easier and clear**
-- Develops **interest to learn** and gives satisfaction of having learnt new facts
-- The use of computers in daily life could be explained through aids
-- Aids enable students to understand even **difficult concepts**
-- When learnt through aids, **symbols and concepts become meaningful** — better than mere lecture and discussion
-- Students could be given **direct experience** in using computers and operating with newly learnt programs
-- They can be taken on **visits to organisations** where computers are professionally used
-- **Field trips** to high-tech computer centres will also be useful
+- Computer science is a new field. Teachers should teach with **aids and hands-on experience**
+- The subject has many new ideas and steps. It may seem hard. But when taught with **aids and media**, it becomes **easier and clearer**
+- Aids build **interest in learning**. Students feel happy about learning new facts
+- Teachers can use aids to explain how we use computers in daily life
+- Aids help students understand even **difficult concepts**
+- When students learn with aids, **symbols and concepts become meaningful**. This works better than just lectures and discussions
+- Students can get **direct experience** using computers and new programs
+- Teachers can take students on **visits to workplaces** that use computers
+- **Field trips** to high-tech computer centres are also helpful
 
 ---
 
@@ -333,12 +333,12 @@ In India, a similar school is located in **Coonoor, Nilgiris, Tamil Nadu**. It i
 
 | # | Use / Benefit |
 |---|---|
-| 1 | By using audio-visual materials, **complex processes, events, objects, concepts, laws, principles** could easily be perceived by students |
-| 2 | Use of audio-visual materials results in **faster understanding of concepts** and ensures **longer retention** of the information gained |
-| 3 | Audio-visual materials supply a **concrete basis for conceptual thinking**, giving rise to **application of knowledge** |
-| 4 | Audio-visual aids provide a **multi-sensory approach** and will therefore secure the **attention and interest** of pupils |
-| 5 | Audio-visual materials can be used to **motivate and stimulate interest** of pupils to gain further knowledge |
-| 6 | Audio-visual media will help to **illustrate, clarify and focus attention** |
+| 1 | Audio-visual materials help students easily understand **complex processes, events, objects, concepts, laws, and principles** |
+| 2 | They lead to **faster understanding** and help students **remember longer** |
+| 3 | They give a **solid base for thinking about concepts**. This leads to **using knowledge in practice** |
+| 4 | They use **many senses at once**. This holds students' **attention and interest** |
+| 5 | They **motivate students** and make them want to learn more |
+| 6 | They help **show, explain, and focus attention** on key ideas |
 
 ---
 
@@ -353,7 +353,7 @@ In India, a similar school is located in **Coonoor, Nilgiris, Tamil Nadu**. It i
 
 #### Three Categories of Experiences
 
-Based on this premise, all experiences can be classified into **three categories**:
+Based on this idea, we can group all experiences into **three categories**:
 
 | # | Category | Involves |
 |---|---|---|
@@ -384,7 +384,7 @@ graph TD
 ```
 
 !!! important "Understanding the Cone"
-    All learning experiences which can be utilised for classroom teaching were shown in a pictorial device — a **cone form** — by **Edgar Dale**, which he called the **"Cone of Experience."** If we travel up the pinnacle from its base, everything has been arranged in the order of **increasing abstractness** or **decreasing directness**.
+    **Edgar Dale** showed all learning experiences in a picture shaped like a **cone**. He called it the **"Cone of Experience."** As you move from the base to the top, things become **more abstract** and **less direct**.
 
 **Levels of the Cone (Base to Top):**
 
@@ -404,45 +404,45 @@ graph TD
 ### 4.5.4 Relative Effectiveness of Teaching-Learning Resources
 
 !!! note
-    The opportunities afforded by the sensory aids are very great. It all depends upon the **teacher** as to how he/she could exploit the learning situation by the **right use of appropriate aid**. Audio-visual aids are **not fun, frill and fad** in education.
+    Sensory aids offer great learning chances. It depends on the **teacher** to make the best use of the right aid. Audio-visual aids are **not just fun or a trend** in education.
 
-- The richer the teaching materials, the more will be the **responsibility of the teacher** to correlate and plan his work
+- The more teaching materials you have, the more the **teacher must plan and connect** them well
 
 #### General Principles for Use of Aids
 
 | # | Principle |
 |---|---|
-| 1 | There are **three stages** in a learning process when an educational aid is used to supplement ordinary teaching: **(i)** Preparing the pupils for the learning experience, **(ii)** Reinforcing the values while the pupils are sharing the experience, **(iii)** Relating the experience with the lesson and thus stimulating further learning |
-| 2 | The aids must be **adapted to the intellectual maturity** of the pupils and to the nature and extent of their **previous experience** |
-| 3 | There is **no best aid** which has all the advantages. Most visual aids suffer from **psychological limitations**. The teacher should be familiar with the **advantages and limitations** of the various types of sensory aids |
-| 4 | Aids should **not be considered as substitutes** for oral and written methods of acquiring knowledge. They should be used to **supplement** the classroom teaching |
-| 5 | Audio-visual instruction in the classroom should **not be confused with entertainment**. The effective use of an aid depends primarily on **careful planning** by the teacher |
-| 6 | The **time and effort** on the use of a particular aid in preference to others must always be **justified** in all cases |
+| 1 | There are **three stages** when using an aid with regular teaching: **(i)** Get students ready for the experience, **(ii)** Strengthen learning while students share the experience, **(iii)** Connect the experience to the lesson to encourage more learning |
+| 2 | Aids must match the **thinking level** of students and their **past experience** |
+| 3 | There is **no single best aid**. Most visual aids have **limits**. Teachers should know the **strengths and weaknesses** of each type |
+| 4 | Aids are **not replacements** for reading and writing. Use them to **add to** classroom teaching |
+| 5 | Audio-visual teaching is **not entertainment**. Good use of aids needs **careful planning** by the teacher |
+| 6 | The **time and effort** spent on any aid must always be **worth it** |
 
 ---
 
 ### 4.5.5 Educational Technology
 
 !!! note "Why the Term Changed"
-    The replacement of the older term **'Audio-visual materials in education'** by the newer term **'Educational Technology'** is mainly due to the **dynamic expansion** of the field of audio-visual education and the exciting new developments in the field of **computer technology**.
+    The old term **'Audio-visual materials in education'** changed to **'Educational Technology'**. This happened because audio-visual education grew fast. New developments in **computer technology** also played a big role.
 
 !!! important "Definition"
-    **Educational Technology** includes *"the development, application and evaluation of systems, techniques and aids in the field of learning."* The main objective of the use of educational technology is the **improvement of learning**.
+    **Educational Technology** includes *"the development, application and evaluation of systems, techniques and aids in the field of learning."* Its main goal is to **improve learning**.
 
 #### Hardware vs Software
 
 | Aspect | Hardware | Software |
 |---|---|---|
-| **Definition** | Equipments and machines | Materials and content |
-| **Examples** | Epidiascope, different types of projectors, radio, T.V., tape recorder, video recorder, teaching machines, computers | Pictures, printed materials, graphics (charts, maps, diagrams), 3D objects (models, specimens, actual objects), slides, film strips, audio and visual tapes |
-| **Dependency** | Hardware can serve as a teaching aid **only when fed/supplied with software** — quite dependent upon software | Many software items may serve well **without the help of hardware** (e.g., graphics, 3D objects, pictures, printed material, books) |
+| **Definition** | Equipment and machines | Materials and content |
+| **Examples** | Epidiascope, projectors, radio, T.V., tape recorder, video recorder, teaching machines, computers | Pictures, printed materials, graphics (charts, maps, diagrams), 3D objects (models, specimens, real objects), slides, film strips, audio and visual tapes |
+| **Dependency** | Hardware works as a teaching aid **only when you load it with software**. It depends heavily on software | Many software items work well **without hardware** (e.g., graphics, 3D objects, pictures, printed material, books) |
 
 ---
 
 ## 4.6 Classification
 
 !!! note
-    Educational technological materials can be classified into **hardware** and **software**.
+    We can group educational technology materials into **hardware** and **software**.
 
 ---
 
@@ -452,7 +452,7 @@ graph TD
 
 | # | Resource |
 |---|---|
-| 1 | Voice (any human sender of the message) |
+| 1 | Voice (any person sending the message) |
 | 2 | Gramophone records |
 | 3 | Audio tapes (used in tape recorder or language laboratory) |
 | 4 | Stereo records/tapes |
@@ -463,7 +463,7 @@ graph TD
 
 | # | Resource |
 |---|---|
-| 1 | Textbooks, supplementary books |
+| 1 | Textbooks, extra books |
 | 2 | Reference books, encyclopaedia, etc. |
 | 3 | Magazines, newspapers, etc. |
 | 4 | Documents, clippings from published material |
@@ -485,7 +485,7 @@ graph TD
 | 1 | Models, mock-ups, display materials |
 | 2 | Diagrams |
 | 3 | Globes or maps (three-dimensional) |
-| 4 | Specimens (animate or inanimate) |
+| 4 | Specimens (living or non-living) |
 | 5 | Puppets |
 
 #### v) Visual (Projected Still)
@@ -516,7 +516,7 @@ graph TD
 | 3 | Radio + slide or posters (radio vision) |
 | 4 | Film + posters + workbook (print materials) |
 | 5 | Television + workbook (print materials) |
-| 6 | Any of the above + introductory and summarising talk by the teacher |
+| 6 | Any of the above + opening and closing talk by the teacher |
 | 7 | Demonstration |
 | 8 | Exhibition |
 | 9 | Museum |
@@ -528,11 +528,11 @@ graph TD
 ### 4.6.2 Classification According to Learner's Control
 
 !!! note
-    Another characteristic of media which can be used to classify them is the **extent to which they can be controlled by the learner**.
+    We can also group media by **how much control the learner has** over them.
 
-- While using a **textbook or audio tape** for learning, the learner can use them at **his/her own pace**, go back and read the paragraph or listen to the part of the programme again and again — these are called **learner-controlled media**
-- A **television programme** — messages are transmitted according to the **pace of the sender** and may not be appropriate for an individual learner
-- **Mass media** like radio or TV offer **no control** to the learner
+- With a **textbook or audio tape**, the learner can go at **their own speed**. They can re-read or re-listen as many times as needed. These are called **learner-controlled media**
+- A **television programme** sends messages at the **sender's speed**. This may not suit every learner
+- **Mass media** like radio or TV give the learner **no control**
 
 #### Continuum of Learner Control
 
@@ -548,38 +548,38 @@ graph LR
 ```
 
 !!! important
-    All new emerging media are designed to provide **more and more control** to the learner over the learning process.
+    All new media are designed to give **more and more control** to the learner over the learning process.
 
 ---
 
 ### 4.6.3 Classification According to Type of Experience
 
-- Media can be classified on the basis of the **type of experience** they provide
-- The **Cone of Experience** has a broad base of **direct purposeful experience** which can be provided mostly through instructional media consisting of **real objects, specimens**
-- Moving from the base towards **abstraction** (verbal messages only), we come across many instructional media which provide **indirect or vicarious experiences**
-- They differ in their **degree of abstraction**:
-    - **Case studies, video and TV programmes** → provide more **life-related experiences**
-    - **Radio or audio tapes** → tend to provide only **verbal experiences**
+- We can group media by the **type of experience** they give
+- The **Cone of Experience** has a wide base of **direct, hands-on experience**. Teaching media like **real objects and specimens** provide this
+- As we move up toward **abstract ideas** (words only), we find media that give **indirect experiences**
+- These media differ in **how abstract they are**:
+    - **Case studies, video and TV programmes** → give more **real-life experiences**
+    - **Radio or audio tapes** → give mostly **word-based experiences**
 
 ---
 
 ### 4.6.4 Classification According to Reach
 
-Media can be classified according to the **size of the group of learners** for whom they are intended and used:
+We can group media by the **size of the group** they are meant for:
 
 | Reach Level | Media Type | Example |
 |---|---|---|
-| **Individual** | Computer Assisted Instruction (CAI) | Prepared for individualised learning; takes into account difficulties encountered by the individual learner learning on his/her own without help from teacher or peers |
-| **Small Group** | Non-projected/graphics aids | Charts, maps, models — not quite useful for a class of 70-80 students |
-| **Large Group** | Projected aids | Slides, filmstrips — can reach a larger group because of their quality of enlargement |
-| **Mass** | Mass media | TV, radio, newspapers (print) — reach millions of people at a time |
+| **Individual** | Computer Assisted Instruction (CAI) | Made for one learner at a time. It handles the problems a student faces when learning alone, without a teacher or classmates |
+| **Small Group** | Non-projected/graphics aids | Charts, maps, models — not very useful for a class of 70–80 students |
+| **Large Group** | Projected aids | Slides, filmstrips — can reach more students because the image is enlarged |
+| **Mass** | Mass media | TV, radio, newspapers (print) — reach millions of people at once |
 
 ---
 
 ### 4.6.5 Individualised Instructional Media
 
-- Though the teacher generally plans for **classroom interaction** (small or large groups), there is always a need to provide an opportunity for **individualised learning**
-- In an individualised learning situation, the learner works with the help of **self-learning material** which is in:
+- Teachers usually plan for **classroom work** (small or large groups). But there is always a need for **individual learning** too
+- In individual learning, the student works with **self-learning material**. This can be in:
     - **Print form**, or
     - **Computer-assisted instruction**
 
@@ -592,16 +592,16 @@ Media can be classified according to the **size of the group of learners** for w
 
 #### Media for Small Groups
 
-- Media are also used for small groups
-- These media may be further classified into:
+- We also use media for small groups
+- These media can be split into:
     - **Non-projected visual media**
     - **Projected visual media**
 
 !!! tip "Classification Summary"
-    Media can be classified into **three major classes**:
+    We can group media into **three major classes**:
 
-    1. **Individualised media** — for individual learners
+    1. **Individualised media** — for one learner at a time
     2. **Media for a small group** — non-projected and projected visual media
-    3. **Mass media** — reaching millions at a time
+    3. **Mass media** — reaching millions at once
 
 ---

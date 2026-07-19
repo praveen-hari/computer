@@ -6,9 +6,9 @@
 ## 4.9 Users and Their Role in a Resource Centre
 
 !!! important "Key Principle"
-    Resource centre would be really meaningful only when **users — Teachers, Learners, Technical Staff** — play their roles properly. *"The quality of a pudding is in its eating."* The functioning of a resource centre and its success depend on its proper use by the users. Only then will the purpose and objectives of establishing a resource centre be fulfilled.
+    A resource centre is useful only when its **users — Teachers, Learners, Technical Staff** — do their jobs well. *"The quality of a pudding is in its eating."* The success of a resource centre depends on how well people use it. Only then will the goals of the resource centre be met.
 
-The use of all major resources is different and each user should understand their roles and carry them out effectively.
+Each type of resource is used differently. Each user must know their role and do it well.
 
 ```mermaid
 graph TD
@@ -32,53 +32,53 @@ graph TD
 
 #### Introduction
 
-A computer science teacher requires a certain amount of **teaching competencies** such as:
+A computer science teacher needs certain **teaching skills** (competencies) such as:
 
-- The capacity to **plan instructional sessions**
-- To prepare appropriate **instructional material**
-- To conduct **group and individualized instruction**
-- To **assess student progress**
+- The ability to **plan lessons**
+- To prepare good **teaching materials**
+- To teach **groups and individual students**
+- To **check student progress**
 
-Similarly, they should have sufficient ability in **diagnostic and evaluation skills** such as:
+They should also have good **testing and evaluation skills** such as:
 
-- Ability to **gather and analyse data** related to student behaviour
-- To **design, develop and administer** appropriate instruments to measure student development
-- The ability to **interpret objectively** the findings obtained through the use of such tools
-- Required **communication skills**
+- Ability to **collect and study data** about student behaviour
+- To **create and use** proper tools to measure student growth
+- The ability to **understand clearly** what the test results show
+- Good **communication skills**
 
 !!! tip "Role Model"
-    A competent, efficient and effective teacher becomes a **role model** for the students. They observe and follow the teachers till the end of their life. Many times they quote examples of their teacher as a model character.
+    A skilled and effective teacher becomes a **role model** for students. Students watch and follow their teachers for life. They often give examples of their teacher as a model person.
 
 #### Concept of Competence
 
 !!! note "Roe's Definition"
-    According to **Roe**, the concept of competence refers to *"a learned ability to adequately perform a task, duty or role."* It integrates several skills, types of knowledge and attitudes to complete a work in a particular work setting. Competencies are typically acquired by a process of **learning by doing** in the actual work situation, during internship or a simulation-based learning situation.
+    According to **Roe**, competence means *"a learned ability to adequately perform a task, duty or role."* It combines skills, knowledge, and attitudes to do work in a specific setting. People usually gain competencies through **learning by doing** — in real work, internships, or practice-based learning.
 
 !!! quote "Henry Van Dyke"
     *"Famous educators plan new system of pedagogy but it is the unknown teacher who directs and guides the young."*
 
-As teacher is a crucial component in the field of education in evolving and implementing ideas, as ideal models, **competent teachers should be trained**.
+Teachers are a key part of education. They develop and use new ideas. So we must train **competent teachers** (teachers with the right skills).
 
 ---
 
 #### Computer Science Teacher — Qualities and Qualifications
 
-All resources like good laboratory and aids to teach will be of little use in the hands of a teacher who is not really endowed with qualities which make him an ideal computer science teacher.
+Good labs and teaching tools are not enough. They are of little use if the teacher does not have the right qualities.
 
 ##### Overall General Qualities
 
 | Quality | Description |
 |---------|-------------|
-| **Effective Personality** | The teacher should possess an effective personality capable of leaving a desirable influence on the minds and hearts of students. S/he should have a sharp intellect with proper emotional maturity, social outlook and sound morality. |
-| **Self Confidence** | A teacher must have confidence in his abilities and demonstrate it through his behaviour in general and in classroom teaching. |
-| **Leadership and Love for Computer Sciences** | The teacher must be a good leader in whom students may have genuine faith. He should inspire them to seek knowledge with sincerity and show love for discipline. |
-| **Patience** | A teacher should not unnecessarily get disturbed over minor mistakes and shortcomings of pupils but must show a lot of patience in dealing with them. Pupils should not live in constant fear but must receive proper guidance. |
-| **Affectionate Behaviour** | The teacher should create an atmosphere of goodwill, love and cooperation. S/he should not get irritated on minor faults but should create an environment of mutual trust and affection congenial for proper work and learning. |
-| **Hardworker and Responsible** | The teacher should inspire students in creating interest for learning, doing hardwork as well as sharing responsibility sincerely. |
-| **Impartial Behaviour and Attitude** | A teacher should not have any bias and prejudice of any kind towards any of his students. |
-| **A Good Communicator of Ideas** | A teacher should be clear in expression and should be able to convey ideas to pupils with ease and effectiveness. Black-board work and sketches should be quite neat, bold and effective. |
-| **Studious and Learned** | A very desirable quality of a teacher is his taste for reading. S/he should have the habit of keeping himself in touch with the latest development especially in his/her own subject. |
-| **Sincerity of Purpose** | A teacher should have love for his profession. He should be proud both for his own personal achievements and that of his pupils. |
+| **Effective Personality** | The teacher should have a strong personality that leaves a good effect on students. They need sharp thinking, emotional balance, social awareness, and good values. |
+| **Self Confidence** | A teacher must believe in their own abilities. They should show this confidence in class and in daily behaviour. |
+| **Leadership and Love for Computer Sciences** | The teacher must be a good leader whom students trust. They should inspire students to learn with honesty and show love for the subject. |
+| **Patience** | A teacher should not get upset over small mistakes by students. They must show patience. Students should not live in fear but should get proper guidance. |
+| **Affectionate Behaviour** | The teacher should create a friendly atmosphere of goodwill and teamwork. They should not get angry over small faults. Instead, they should build trust and care that helps learning. |
+| **Hardworker and Responsible** | The teacher should inspire students to enjoy learning, work hard, and take responsibility seriously. |
+| **Impartial Behaviour and Attitude** | A teacher should not show any favouritism or bias towards any student. |
+| **A Good Communicator of Ideas** | A teacher should explain things clearly and simply. Board work and drawings should be neat, bold, and easy to read. |
+| **Studious and Learned** | A good teacher loves reading. They should stay updated with the latest changes in their subject. |
+| **Sincerity of Purpose** | A teacher should love their profession. They should feel proud of their own work and their students' success. |
 
 ---
 
@@ -90,25 +90,25 @@ All resources like good laboratory and aids to teach will be of little use in th
 
 | Qualification Area | Description |
 |--------------------|-------------|
-| **Mastery of Subject** | A computer science teacher should have profound knowledge of his subject. He should be able to answer all the questions put to him by students to their satisfaction in all branches of his subject. |
-| **Thorough Knowledge of History of Computer Science** | A computer science teacher should acquaint himself with the history and contributions of great scientists. Armed with such knowledge, he is likely to encourage his students. |
-| **Knowledge of Related Subjects** | A teacher equipped with the knowledge of all related subjects will be able to handle students efficiently. S/he could demonstrate the application of computer science in those areas. |
-| **Knowledge of Methods of Teaching** | It is essential for the teacher to be trained in the latest techniques, strategies and methodology of teaching computer science including the use of all types of teaching aids including the latest technological aids. |
-| **Ability to Do Practical Work** | A computer science teacher must acquire proper skills and manual dexterity in handling and manipulating various types of instruments. Must be able to demonstrate all programs satisfactorily in class and provide necessary help and guidance to students working in the laboratory. |
-| **Knowledge of Psychology Related to CS Teaching** | The teacher should have full knowledge of the behaviour of students in order to handle them effectively in the teaching-learning process. Knowledge of psychology helps the teacher understand the ability and behaviour of children at different stages of learning or development. |
-| **Knowledge of New System of Examination** | Traditional essay type tests have been enriched by the introduction of objective type tests. These new tests are of different nature and types and their marking system is also different from the traditional ones. |
-| **Practical Tests** | The teacher should know about the construction of unit tests and diagnostic tests as well as administration, scoring and interpretation of these tests. Must get trained in the evaluation of all learning outcomes in terms of behavioural changes and objectives. |
-| **Knowledge of First-Aid** | There are possibilities of accidents in laboratories — fire, explosion, short circuits, electric shock etc. The teacher should take necessary immediate steps to render first aid to the injured at the earliest. |
+| **Mastery of Subject** | A computer science teacher should have deep knowledge of the subject. They should be able to answer all student questions clearly in every topic area. |
+| **Thorough Knowledge of History of Computer Science** | A computer science teacher should know the history and work of great scientists. This knowledge helps them inspire their students. |
+| **Knowledge of Related Subjects** | A teacher who knows related subjects can teach students better. They can show how computer science is used in other fields. |
+| **Knowledge of Methods of Teaching** | The teacher must be trained in the latest teaching methods and strategies. This includes using all types of teaching aids and modern technology. |
+| **Ability to Do Practical Work** | A computer science teacher must have good hands-on skills with tools and equipment. They must be able to show all programs clearly in class and help students in the lab. |
+| **Knowledge of Psychology Related to CS Teaching** | The teacher should understand student behaviour well. Knowing psychology helps the teacher understand how children learn at different stages of growth. |
+| **Knowledge of New System of Examination** | Traditional essay tests now include objective-type tests too. These new tests have different formats and marking systems. The teacher must know both. |
+| **Practical Tests** | The teacher should know how to create unit tests and diagnostic tests. They must also know how to give, score, and understand these tests. They should be trained to measure all learning results. |
+| **Knowledge of First-Aid** | Accidents can happen in labs — fire, short circuits, electric shock, etc. The teacher should know how to give first aid quickly to anyone who gets hurt. |
 
 ---
 
 ##### Additional Professional Qualities
 
-- **Taste for Scientific Activities** — A good computer science teacher should have taste and love for organizing and participating in activities like establishment of computer science museum, computer science club, organizing excursions and computer science fairs, and engaging in purposeful scientific hobbies. Such activities constitute real education and help in the proper development of **scientific attitude** among students.
+- **Interest in Scientific Activities** — A good computer science teacher should enjoy organizing activities. These include computer science museums, clubs, field trips, fairs, and science hobbies. Such activities are real education. They help build a **scientific attitude** in students.
 
-- **Efficiency in Preparation and Use of Teaching Aids** — The teacher should have sufficient skill and dexterity in improvising and constructing his own aids in teaching of computer science according to local needs and situations. S/he should have full self-confidence in handling all types of demonstration equipment and materials as well as in using all types of audio-visual and computer aids.
+- **Skill in Making and Using Teaching Aids** — The teacher should be able to make their own teaching aids based on local needs. They should feel confident using all types of equipment, audio-visual tools, and computer aids.
 
-- **Scientific Thinking and Attitude** — A good computer science teacher tries to imbibe scientific thinking and attitude in his own actions and thoughts. For inspiring pupils to imbibe these traits, he attempts to provide computer science education in such a way as to inculcate in the pupils the habit of **testing the validity of certain beliefs and facts** by their own independent observations and experimentation.
+- **Scientific Thinking and Attitude** — A good computer science teacher practises scientific thinking in their own actions. To inspire students, they teach in a way that builds the habit of **testing beliefs and facts** through observation and experiments.
 
 !!! note "S/he should also:"
     - Take care for **individual differences**
@@ -118,134 +118,134 @@ All resources like good laboratory and aids to teach will be of little use in th
 
 #### Objectives for Computer Science Teachers
 
-The teacher must keep the **six objectives** in view:
+The teacher must keep these **six objectives** in mind:
 
-1. **Proficiency** in fundamental skills
-2. **Comprehension** of basic concepts
-3. **Appreciation** of significant meanings
-4. **Development** of desirable attitudes
-5. **Efficiency** in making sound applications
-6. **Confidence** in making intelligent and independent interpretations
+1. **Skill** (proficiency) in basic skills
+2. **Understanding** (comprehension) of key concepts
+3. **Appreciation** of important meanings
+4. **Development** of good attitudes
+5. **Ability** (efficiency) to apply knowledge well
+6. **Confidence** to think and interpret on their own
 
 ---
 
 #### Planning
 
-In order to attain these objectives, the teacher must plan his work with at least **five things** in mind:
+To reach these objectives, the teacher must plan with at least **five things** in mind:
 
-1. Decide what **exercises and activities** will contribute most effectively to produce the desired understandings and skills. The teaching material should be selected with great care.
-2. **Analyse materials carefully** to anticipate the specific difficulties which the pupils are likely to encounter in attaining the objectives of the unit.
-3. Become **expert in sensing the procedures and devices** that promise to be specifically helpful and learn to be adept in adjusting procedure to the requirements of each immediate situation.
-4. Make a **careful selection and arrangement of motivating materials**. It is the teacher's responsibility to create, stimulate and maintain interest as well as to strive for proficiency in skills and the amassing of information.
-5. Give **careful thought to evaluation techniques** and remedial procedures.
+1. Choose the **exercises and activities** that best help students learn the needed skills. Pick teaching materials carefully.
+2. **Study the materials carefully** to predict the problems students may face while learning the topic.
+3. Become **skilled at finding the best methods and tools** for each situation. Learn to adjust your approach as needed.
+4. **Choose and arrange materials that motivate students**. It is the teacher's job to create and keep interest alive, while also building skills and knowledge.
+5. Give **careful thought to testing methods** and ways to help struggling students.
 
 ---
 
 #### Identification of Instructional Problems
 
-The analysis of instructional problems divides itself into **six considerations**:
+Finding teaching problems involves **six questions**:
 
 | # | Consideration |
 |---|---------------|
-| 1 | What **background of experience and understanding** may the student be expected to have when he begins the study of the topic? |
-| 2 | What are the **particular understandings or abilities** which the student should acquire or strengthen through the study of the topic? |
-| 3 | What **activities or procedures** on the part of the teacher and student will enable the student most effectively to gain these desired understandings and abilities? |
-| 4 | What **specific difficulties** may the student be expected to encounter in his effort to acquire these understandings and abilities? |
-| 5 | What **specific suggestions, devices and procedures** will help the student most effectively to avoid or overcome these specific difficulties? |
-| 6 | What **materials and procedures** related to the particular topic will best stimulate and maintain the student's interest? |
+| 1 | What **background knowledge and experience** does the student already have before starting this topic? |
+| 2 | What **specific skills or understanding** should the student gain from studying this topic? |
+| 3 | What **activities or methods** by the teacher and student will best help the student learn these skills? |
+| 4 | What **specific problems** might the student face while trying to learn these skills? |
+| 5 | What **specific tips, tools, and methods** will best help the student avoid or solve these problems? |
+| 6 | What **materials and methods** for this topic will best keep the student interested? |
 
-S/he must plan as explained above to solve the problems of the students through suitable **remedial measures**.
+The teacher must plan as explained above. They should solve student problems through suitable **corrective steps** (remedial measures).
 
 ---
 
 #### Special Qualities of a Computer Science Teacher
 
-Computer science being the latest science, which is ever growing and changing, a computer science teacher has to be **abreast of time and up to date**.
+Computer science is always growing and changing. So a computer science teacher must **stay up to date**.
 
-- Topics like **Ms-Word, Ms-Excel, C Program** need slow and steady teaching. Teacher should use **LCD Projector** and demonstrate the stages and steps clearly. If the students do not know the first step they can't understand later concepts.
-- If LCD projector is not available, using computer itself, explanation should be given in **small groups**, using necessary charts.
-- Computer science teacher has to **carefully maintain the computer science laboratory** since the equipment is costly.
-- S/he should **plan well for lab work**, collecting required stationery items.
-- S/he should arrange for **keeping records** for students' work; lab materials and outdated stuff should be properly disposed by getting proper approval.
-- Computer science teachers should be **alert to know the latest changes** in the field.
+- Topics like **Ms-Word, Ms-Excel, C Program** need slow, step-by-step teaching. The teacher should use an **LCD Projector** and show each step clearly. If students miss the first step, they cannot understand later parts.
+- If no LCD projector is available, the teacher should explain on the computer in **small groups**. Use charts when needed.
+- The computer science teacher must **take good care of the lab**. The equipment is expensive.
+- S/he should **plan lab work well** and collect all needed supplies.
+- S/he should **keep records** of students' work. Old or broken materials should be removed with proper approval.
+- Computer science teachers should **stay alert about the latest changes** in the field.
 - The computer science teacher should have a **degree in computer science** and a **B.Ed. degree**.
-- Teacher should have **deep subject knowledge**.
-- Teacher should give **life, career-oriented education** rather than only theoretical knowledge.
-- If the students' doubts cannot be clarified in the class itself, it can be cleared later also.
-- Computer science may become difficult to follow if students don't attend regularly. So S/he should **create interest and attract students** to attend without break.
-- The method of teaching should be according to **students' level of understanding**.
-- Teacher should give **clear explanation** for new concepts.
-- The teacher should develop the **creative thinking** of the student through teaching.
-- The teacher can follow **different types of techniques** in teaching.
+- The teacher should have **deep subject knowledge**.
+- The teacher should give **practical, career-focused education** — not just theory.
+- If students' doubts cannot be cleared in class, they can be answered later.
+- Computer science gets hard to follow if students miss classes. So the teacher should **make the subject interesting** so students attend regularly.
+- The teaching method should match the **students' level of understanding**.
+- The teacher should give **clear explanations** for new ideas.
+- The teacher should build **creative thinking** in students through teaching.
+- The teacher can use **different teaching methods** in class.
 
 ---
 
 #### Duties and Responsibilities of a Computer Science Teacher
 
-Attaining the characteristics and qualities mentioned above, a computer science teacher is supposed to discharge various duties and responsibilities belonging to his/her profession:
+With the qualities listed above, a computer science teacher must carry out these duties:
 
 | Duty | Description |
 |------|-------------|
-| **School Acquaintance** | Full knowledge and acquaintance with the school time table, the ideals of the school, the work and the social environment of the school, etc. Providing double periods for lab work. |
-| **Teaching Theory** | Teaching computer science theory to various classes assigned to him/her in the school timetable. |
-| **Demonstrations** | Arranging and performing demonstrations relevant to the computer science teaching in his/her respective classes. |
-| **Practical Work** | Arranging and helping the students to carry on their practical work in the laboratory or outside and checking their records. |
-| **Organization** | Organization of computer science laboratory, computer science library and computer science museum. |
-| **Co-curricular Activities** | Organization of various co-curricular activities particularly related to scientific activities like computer science fair, computer science exhibition, scientific excursion, scientific hobbies etc. |
-| **Assignments** | Assigning appropriate and relevant home-work and assignments to the students, and its regular check-up. |
-| **Record Keeping** | Keeping proper record of the progress of students and providing information to them as well as to school authorities and parents for better results. |
-| **Audio-Visual Aids** | Making use of various audio-visual aids in teaching, helping in the establishment of an audio-visual room or centre in the school, working towards the preparation and collection of audio-visual materials and improvised apparatus etc. |
+| **School Knowledge** | Know the school timetable, school values, work culture, and social setting well. Arrange double periods for lab work. |
+| **Teaching Theory** | Teach computer science theory to the classes given in the timetable. |
+| **Demonstrations** | Plan and perform demonstrations related to computer science in class. |
+| **Practical Work** | Help students do their practical work in the lab or outside. Check their records. |
+| **Organization** | Set up and manage the computer science lab, library, and museum. |
+| **Co-curricular Activities** | Organize activities like computer science fairs, exhibitions, field trips, and science hobbies. |
+| **Assignments** | Give useful homework and assignments to students. Check them regularly. |
+| **Record Keeping** | Keep proper records of student progress. Share this information with students, school staff, and parents. |
+| **Audio-Visual Aids** | Use audio-visual aids in teaching. Help set up an audio-visual room in school. Collect and prepare teaching materials and tools. |
 
 ---
 
 #### Professional Growth
 
-Striving hard for his own professional growth by being acquainted with:
+The teacher should work hard to grow professionally by learning about:
 
-- The **latest knowledge and development** in his subject and methodology of computer science teaching
+- The **latest knowledge and developments** in their subject and teaching methods
 - **New trends** in computer science
-- **Computer science journals** and instructional materials
-- **Attending workshops, seminars, summer institutes** on the subject and methodology of science teaching
-- **Joining computer science associations** and teacher associations
-- Being in contact with the **National and State level institutions** of science for up-to-date scientific knowledge and methodology of teaching computer science
-- Having touch with the **schemes and provisions** for the progress and career of the students like science scholarships, National Science Talent Search Scheme and the future career courses etc.
-- **Maintaining a Computer Science diary** for helping in the proper exercise of duties and responsibilities by writing down all details relating to teaching and co-curricular activities
-- **Helping management** in inspection of Computer Science department
+- **Computer science journals** and teaching materials
+- **Attending workshops, seminars, summer courses** on the subject and teaching methods
+- **Joining computer science associations** and teacher groups
+- Staying in touch with **National and State level science institutions** for updated knowledge and teaching methods
+- Knowing about **schemes and support** for students — like science scholarships, National Science Talent Search, and career courses
+- **Keeping a Computer Science diary** — writing down all details about teaching and activities to stay organized
+- **Helping management** with inspection of the Computer Science department
 
 ---
 
 #### Interpersonal Skills
 
 !!! important "Key Professional Competency"
-    Another professional competency expected of the teacher is a certain amount of **interpersonal skills**.
+    Another important professional skill is having good **people skills** (interpersonal skills).
 
-As a teacher we should develop the ability to:
+As a teacher, we should develop the ability to:
 
-- **Communicate** with students clearly and precisely
+- **Communicate** with students clearly and simply
 - **Identify** student concerns and needs
-- **Respond** to students with an open and stable attitude
-- **Demonstrate self-confidence** in dealing with them
-- **Interact** with them in ways that are adaptable
+- **Respond** to students with an open and steady attitude
+- **Show self-confidence** when dealing with them
+- **Interact** with them in flexible ways
 
-By dealing with them kindly, effectively and fairly, we should be in a position to develop their strong confidence in us. This is more important in the case of a computer science teacher.
+By treating students kindly, fairly, and well, we can build their strong trust in us. This is even more important for a computer science teacher.
 
-- **The ability to inspire and motivate** pupils is another great asset. A major obstacle to learning is **fear** — fear of failure, fear of criticism and fear of appearing stupid. A teacher should learn to **tolerate mistakes**. It should be taken as a conscious attempt on the part of a student towards learning. Instead of chiding a student, the teacher should try to find out **strong points** in each student and give them the required opportunity and motivation to promote their growth and development. Only through such exposure and motivation will you be able to lead them to **self-actualization**.
+- **The ability to inspire and motivate** students is a great strength. A big barrier to learning is **fear** — fear of failing, fear of being criticized, and fear of looking foolish. A teacher should learn to **accept mistakes**. Mistakes show that a student is trying to learn. Instead of scolding a student, the teacher should find **strong points** in each student. Give them chances and encouragement to grow. Only through such support can you help them reach their **full potential** (self-actualization).
 
 !!! tip "Summary"
-    To be a computer science teacher, an individual has to develop several **personal qualities** as well as **professional competencies**. S/he needs to be trained so that he/she develops the required awareness, knowledge, skills and attitudes to be effective as a teacher.
+    To be a computer science teacher, a person must build several **personal qualities** and **professional skills**. They need training to develop the right awareness, knowledge, skills, and attitudes to teach well.
 
 ---
 
 #### Organizational Competency
 
-**Organizational competency** is yet another asset of a teacher. As a teacher we should be able to:
+**Organizational skill** (competency) is another important quality of a teacher. As a teacher, we should be able to:
 
-- **Manage the material resources** available in our classroom
-- **Plan and utilize** different equipment
-- Use awareness of **group dynamics** for classroom management
-- Be familiar with **individualized, group as well as teacher-centered techniques** of instruction
-- Develop expertise in handling **library resources** such as use of dictionaries, encyclopedias, library catalogues, atlases, maps, etc.
-- Be good at **information gathering skills** such as interviewing, note-taking, using reference materials, etc.
+- **Manage the materials and resources** in our classroom
+- **Plan and use** different equipment
+- Use knowledge of **group behaviour** (group dynamics) for classroom management
+- Know **individual, group, and teacher-led methods** of teaching
+- Become skilled at using **library resources** — dictionaries, encyclopedias, catalogues, atlases, maps, etc.
+- Be good at **gathering information** — interviewing, note-taking, using reference materials, etc.
 
 ---
 
@@ -253,30 +253,30 @@ By dealing with them kindly, effectively and fairly, we should be in a position 
 
 ##### Academic Diary
 
-Computer science teacher should keep an academic diary for noting the following:
+A computer science teacher should keep an academic diary to note:
 
-1. **Annual distribution** of computer science curriculum
-2. **Division of annual curriculum** for monthly, weekly, daily teaching along with required aids/equipment and activities
+1. **Yearly plan** for the computer science curriculum
+2. **Monthly, weekly, and daily teaching plan** with needed aids, equipment, and activities
 3. **List of experiments / lab work** for the year
-4. **List of computer science club members** and the annual plan of action
-5. **Special and specific nature of doubts** asked by students and how the teacher cleared them
-6. **Students' test materials, marks** etc. which will be useful for future guidance
+4. **List of computer science club members** and the yearly action plan
+5. **Special doubts** asked by students and how the teacher solved them
+6. **Students' test papers, marks** etc. — useful for future guidance
 
 ##### Use of Time Table
 
 !!! note "Special Considerations"
-    The work load of computer science teachers needs **special consideration**.
+    The workload of computer science teachers needs **special attention**.
 
-- The teacher may require **double periods** for conducting lab work / experiments. It is better this double period is planned at the **end of the day** so that even if a few minutes more are needed, it could be utilized.
-- The computer science teacher has to **check and maintain the computer** for proper working.
-- S/he may have to help **office / administration** to do computer-based work.
-- In the time table, there should **not be over workload**.
+- The teacher may need **double periods** for lab work and experiments. It is best to plan this double period at the **end of the day**. This way, if a few extra minutes are needed, they can be used.
+- The computer science teacher must **check and maintain the computers** so they work properly.
+- S/he may need to help the **office / administration** with computer-based work.
+- The timetable should **not overload** the teacher.
 
 ---
 
 #### Need for Training
 
-For proficiency and efficiency, teachers should have proper training:
+For good skill and performance, teachers need proper training:
 
 | Type | Details |
 |------|---------|
@@ -306,45 +306,45 @@ graph LR
 ### 4.9.2 Learners' Role in Resource Centre
 
 !!! important "Importance"
-    Next to teacher, **learners' role is important** in the learning process. Without them, all other resources have no need. Every resource moves or functions around the **learner**.
+    After the teacher, the **learner's role is most important** in learning. Without learners, no other resource is needed. Every resource exists for the **learner**.
 
-Learners should make **full use of the resource centre** in order to make his/her learning perfect and useful.
+Learners should **use the resource centre fully** to make their learning complete and useful.
 
 #### Higher Level Participation
 
-When students at higher levels participate in **interactive learning opportunities** like:
+When older students take part in **interactive learning activities** like:
 
 - Seminars, workshops
 - Panel discussion, symposia
 - School programmes
 - Study Groups
 
-They themselves become **resources in educating each other**, of course with the guidance of the teacher.
+They become **resources who teach each other**, with the teacher's guidance.
 
 #### Lower Level Participation
 
-At lower level, when students participate in:
+At lower levels, when students take part in:
 
-- **Play group**
+- **Play groups**
 - **Educational games**
-- **Learning by activities**
+- **Learning by doing activities**
 - **Singing, dancing** and other cultural activities
 
-With interest, they become part of the learning resources. Without such participation, there cannot be any learning at all.
+With interest, they become part of the learning resources. Without such participation, no real learning can happen.
 
 ---
 
 ### 4.9.3 Technical Staff — Role in Resource Centre
 
 !!! important "Vital Role"
-    In order to make all preparations and ground work for all kinds of activities in the resource centre, the role of **Technical Staff is vital**. Without them, all resources can never be properly maintained and used to serve learners and teachers. There will be only chaos and confusion.
+    The **Technical Staff** plays a vital role in the resource centre. They do all the preparation and groundwork for activities. Without them, resources cannot be properly kept or used. There would be only disorder and confusion.
 
 | Role Area | Responsibilities |
 |-----------|-----------------|
-| **Maintenance** | Properly maintain the resources in respective places and enable students and teachers to make use of them whenever required. |
-| **Upkeep** | Cleanliness, neatness of the centre become their responsibilities. |
-| **Record Keeping** | Maintain proper record of stock registers and user registers — indicate when and which class used or took the resources for teaching-learning. |
-| **Assisting Teachers** | Assist the teacher in setting up practicals, experiments, demonstrations. Technical staff could help the teacher and class. |
+| **Maintenance** | Keep all resources in their proper places. Make sure students and teachers can use them when needed. |
+| **Upkeep** | Keep the centre clean and neat. |
+| **Record Keeping** | Maintain stock registers and user registers. Record when and which class used or borrowed resources. |
+| **Assisting Teachers** | Help teachers set up practicals, experiments, and demonstrations. Support the teacher and class as needed. |
 
 ```mermaid
 graph TD
@@ -369,100 +369,100 @@ graph TD
 
 #### Introduction
 
-For the success of the RBL model, many **innovative efforts** have to be taken.
+For the RBL model to succeed, many **new and creative efforts** are needed.
 
-Implications include the need for:
+Key needs include:
 
-- Students and staff to acquire a **wide range of new skills**
-- **Large-scale curriculum review** if new learning technologies are to be fully integrated
-- Acknowledging that, given student and staff perceptions of change, the process may be **long and costly**
+- Students and staff must learn a **wide range of new skills**
+- A **large-scale review of the curriculum** is needed to fully use new learning technologies
+- The process may be **long and expensive**, because students and staff take time to accept change
 
 #### Innovations Adopted
 
-It is envisaged that a significant shift to **Resource-Based Learning (RBL)** would occur. Learning outcomes were completely revised, and a range of assessment strategies, including computer-based tests, was identified. A **resources guide** was produced which identified the materials and activities that would enable students to achieve the learning outcomes.
+It was expected that a big shift to **Resource-Based Learning (RBL)** would happen. Learning outcomes were fully revised. A range of testing methods, including computer-based tests, was chosen. A **resources guide** was created. It listed the materials and activities that help students reach the learning goals.
 
-A number of **innovations were adopted**, including:
+Several **new methods were adopted**, including:
 
-- **Computer-based curriculum delivery**, assessment and student evaluation of the course
+- **Computer-based teaching**, testing, and student feedback on the course
 - An **open approach to assessment**
-- **Abolishing lectures** in favour of a diverse range of teaching and learning activities
+- **Replacing lectures** with a wide range of teaching and learning activities
 
-A mid-semester computer-based evaluation was conducted using **Question Mark Designer**, with the specific intention of providing data to inform future curriculum revision.
+A mid-semester computer-based review was done using **Question Mark Designer**. The goal was to collect data to improve the curriculum later.
 
 #### Conclusion
 
 !!! note "Key Findings"
-    The adoption of RBL can be viewed as an **opportunity to review curriculum**. In order to be effective, any such activity must be appropriately supported and supervised, and the outcomes need to contribute to the final grade.
+    Adopting RBL is a good **chance to review the curriculum**. To work well, any such activity must be properly supported and supervised. The results should count towards the final grade.
 
-- While students may welcome some **innovations**, they also wish to **retain traditional approaches** and value contact with tutors.
-- If students perceive lectures as important and necessary, then an approach which precludes them may **not be popular**.
-- An institution wishing to move towards RBL will need to consider these **perceptions** and how best to accommodate them.
+- Students may welcome some **new methods**. But they also want to **keep traditional approaches** and value contact with tutors.
+- If students see lectures as important, then removing them may **not be popular**.
+- Schools that want to use RBL must think about these **views** and find ways to address them.
 
 #### Skills Needed
 
-Compared with more traditional approaches, and in common with open and distance learning, students and staff need a **different, and wider, range of skills**:
+Compared to traditional methods, students and staff need a **different and wider set of skills**:
 
 **For Students:**
 
-- Be competent users of **software, hardware and information**
-- Be able to **manage their time effectively**
-- Institution-wide use of such technologies can occur only if all undergraduates possess or have the opportunity to acquire this vast array of skills
+- Be able to use **software, hardware, and information** well
+- Be able to **manage their time well**
+- All students can use these technologies only if they have the chance to learn these many skills
 
 **Possible Approaches:**
 
 | Approach | Description |
 |----------|-------------|
-| **Core Programme** | A core programme in information and study skills and computer literacy for all undergraduates |
-| **Embedded Skills** | Embed these skills into the curriculum of all subject areas so that they become contextualized |
+| **Core Programme** | A basic programme in information skills, study skills, and computer literacy for all students |
+| **Embedded Skills** | Build these skills into every subject's curriculum so they are connected to real subjects (contextualized) |
 
 **For Staff:**
 
-- Be able to **redesign and evaluate curricula**
-- **Understand new learning technologies** and employ them appropriately
-- Construct a range of **learning and assessment activities** to meet outcomes
+- Be able to **redesign and review** curricula
+- **Understand new learning technologies** and use them properly
+- Create a range of **learning and testing activities** to meet goals
 - **Design teaching and learning materials**
-- Provide **tutorial support**
-- Operate effectively in **teams**
+- Give **tutorial support**
+- Work well in **teams**
 
 !!! important "Staff Development"
-    RBL makes the full range of these skills **essential and not merely desirable**. This raises the issue of **staff development**. The time required to prepare RBL projects exceeds that for a standard lecture and seminar programme. Innovation is an expensive exercise. Unless sufficient funding can be found, it is unlikely that thorough and continuing curriculum review can be sustained.
+    RBL makes all these skills **essential, not just nice to have**. This raises the question of **staff training**. Preparing RBL projects takes more time than preparing regular lectures. New methods are expensive. Without enough funding, ongoing curriculum review is hard to maintain.
 
-**Infrastructure Implications:**
+**Basic Setup (Infrastructure) Needs:**
 
-- Physical design of **IT facilities** to permit discussion and group activities in conjunction with computer work
-- **Technical support** needed to ensure hardware is configured correctly and software operates as intended
-- Training of **IT support staff** to play a pedagogical rather than merely technical role
+- Design **IT rooms** so students can discuss and do group work along with computer work
+- Provide **technical support** to make sure hardware and software work correctly
+- Train **IT support staff** to play a teaching-related (pedagogical) role, not just a technical one
 
 ---
 
 ### 4.10.2 Coding and Computer Science Resources
 
 !!! note "The Skills Gap"
-    It is estimated that there will be **1.4 million computing jobs** but only **400,000 computer-science graduates** with the skills to fill them. Looking toward a future of work that includes automation, artificial intelligence and programming, there is no better time to introduce coding to students.
+    It is estimated that there will be **1.4 million computing jobs** but only **400,000 computer-science graduates** with the skills to fill them. With a future that includes automation, artificial intelligence, and programming, now is the best time to teach coding to students.
 
-This will help students to learn more on Computer Science and develop as learners, making students interested in learning computer science.
+This will help students learn more about Computer Science. It will make them interested in the subject and help them grow as learners.
 
 #### Coding & Computer Science Resources
 
 | # | Resource | Description |
 |---|----------|-------------|
-| 1 | **AI4 All** | An organization dedicated to increasing diversity and inclusion in AI education, research, development, and policy. Their summer education programs are an entry point into artificial intelligence and computer science for underrepresented high school students. |
-| 2 | **AI4K12** | The Association for the Advancement of Artificial Intelligence (AAAI) and the Computer Science Teachers Association (CSTA) launched the AI for K-12 Working Group (AI4K12) to define what students should know and be able to do in artificial intelligence. |
-| 3 | **Black Girls CODE** | A non-profit organization dedicated to teaching girls ages 7-17 about computer programming and digital technology. |
-| 4 | **Code.org** | An organization dedicated to expanding access to computer science in schools and increasing participation by women and underrepresented minorities. Provides coding resources such as games, apps and courses. |
-| 5 | **CodeHS** | A teaching platform for helping schools teach computer science. They provide web-based curriculum, teacher tools and resources, and professional development. |
-| 6 | **CodeAcademy** | An online catalog of coding courses ranging from web development to programming. |
-| 7 | **CS for All Teachers** | A virtual community of practice, welcoming all teachers from PreK through high school who are interested in teaching computer science. Provides an online home for teachers to connect with one another and with resources and expertise. |
-| 8 | **Computer Science Teachers Association (CSTA)** | A membership organization that supports and promotes the teaching of computer science. Provides opportunities for K-12 teachers and their students to better understand computer science. |
-| 9 | **Exploring Computer Science** | A year-long, research-based, high school intro-level computer science curriculum and teacher professional development program that focuses on broadening participation in computing. |
-| 10 | **The Hour of Code** | Started as a one-hour introduction to computer science to show that anybody can learn the basics. |
+| 1 | **AI4 All** | An organization that works to increase diversity in AI education, research, and policy. Their summer programs introduce AI and computer science to underrepresented high school students. |
+| 2 | **AI4K12** | The AAAI and CSTA created the AI for K-12 Working Group (AI4K12). Its goal is to define what students should know about artificial intelligence. |
+| 3 | **Black Girls CODE** | A non-profit that teaches girls aged 7-17 about computer programming and digital technology. |
+| 4 | **Code.org** | An organization that works to bring computer science to more schools. It focuses on women and underrepresented groups. It offers coding games, apps, and courses. |
+| 5 | **CodeHS** | A teaching platform that helps schools teach computer science. It provides online curriculum, teacher tools, and professional training. |
+| 6 | **CodeAcademy** | An online collection of coding courses — from web development to programming. |
+| 7 | **CS for All Teachers** | An online community for all teachers (PreK to high school) who want to teach computer science. Teachers can connect with each other and find resources. |
+| 8 | **Computer Science Teachers Association (CSTA)** | A membership group that supports computer science teaching. It gives K-12 teachers and students chances to learn more about computer science. |
+| 9 | **Exploring Computer Science** | A year-long, research-based high school intro course in computer science. It includes teacher training and focuses on getting more students into computing. |
+| 10 | **The Hour of Code** | Started as a one-hour introduction to computer science. It shows that anyone can learn the basics. |
 
-There are many such resources in states and other countries.
+There are many such resources in different states and countries.
 
 #### National Educational Policy
 
 !!! important "NEP on Coding"
-    The **National Educational Policy** has made **coding a mandatory subject from Class 6**. It is believed this will revolutionize the education system. In India also, coding is the most visible component of Computer Science.
+    The **National Educational Policy** has made **coding a required subject from Class 6**. This is expected to change the education system greatly. In India too, coding is the most visible part of Computer Science.
 
 ---
 
@@ -471,96 +471,96 @@ There are many such resources in states and other countries.
 #### Definition
 
 !!! note "What is RBL?"
-    **Resource-Based Learning (RBL)** is an approach to pedagogy which actively involves **students, teachers and resource providers** in the application of a range of resources (both human and non-human) in the learning process.
+    **Resource-Based Learning (RBL)** is a teaching approach (pedagogy) that actively involves **students, teachers, and resource providers** in using a range of resources (both human and non-human) for learning.
 
-It is claimed that this approach offers a **flexible structure** to learning such that the learner can develop as a learner according to their *"varied interests, experiences, learning styles, needs and ability levels."*
+This approach offers a **flexible way** to learn. It lets learners grow based on their *"varied interests, experiences, learning styles, needs and ability levels."*
 
 #### The RBL Approach
 
-The RBL approach focuses on the **resources available to the learners** and how the learners interact with these resources. This leads to an interest in the uses of **technology** to support and develop a learning environment.
+The RBL approach focuses on the **resources available to learners** and how learners use these resources. This creates interest in using **technology** to support and build a learning environment.
 
 #### Teaching and Learning Resources
 
-This includes any spoken, written or visual text or activity used or conducted by schools:
+This includes any spoken, written, or visual material used by schools:
 
 - **Text books**, story books
 - **Films** — plays, radio, TV, multimedia, digital learning resources, video, audio, animations, lectures, speeches, performances
 
 #### Resource Guide
 
-Resource-Based Learning being an innovative technique and new to many teachers, a **resource guide book** will be needed to help teachers.
+RBL is a new method for many teachers. So a **resource guide book** is needed to help them.
 
-A resources guide should be produced which identifies the materials and activities that would enable students to achieve the learning outcomes. A number of innovations would be adopted, including:
+A resource guide should list the materials and activities that help students reach the learning goals. Several new methods can be used, including:
 
-- **Computer-based curriculum delivery**, assessment, and student evaluation of the course
+- **Computer-based teaching**, testing, and student feedback on the course
 - An **open approach to assessment**
-- **Abolishing lectures** in favour of a diverse range of teaching and learning activities
+- **Replacing lectures** with a wide range of teaching and learning activities
 
 #### Major Activities of Resource Teacher
 
-Specialists to help class teacher:
+Specialists who help the class teacher:
 
-- **Assessing** a student's abilities by observing data and creating tests
-- **Modifying lesson plans** for individual learning abilities
-- **Collaborating** with class teachers to design individualized education programs
-- **Communicating** regularly with students and teachers
-- **Helping** classroom teacher in planning
-- **Designing** tools, strategies, activities to help students
+- **Testing** a student's abilities by looking at data and creating tests
+- **Changing lesson plans** to fit each student's learning ability
+- **Working together** with class teachers to design individual education programs
+- **Talking regularly** with students and teachers
+- **Helping** the classroom teacher plan lessons
+- **Creating** tools, strategies, and activities to help students
 
 #### Innovations vs Traditional Methods
 
-If the adoption of RBL is viewed as an opportunity to **review the curriculum**, then it may also be used as a vehicle for **embedding IT** into that curriculum.
+If adopting RBL is seen as a chance to **review the curriculum**, it can also be used to **add IT skills** into that curriculum.
 
 | Aspect | Observation |
 |--------|-------------|
-| **Effectiveness** | Any such activity must be appropriately supported and supervised, and the outcomes need to contribute to the final grade. |
-| **Student Preference** | While students may welcome some innovations, they also wish to retain traditional approaches and value contact with tutors. |
-| **Perception** | If students perceive lectures as important and necessary, then an approach which precludes them may not be popular. |
-| **Institutional Need** | An institution wishing to move towards RBL will need to consider these perceptions and how best to accommodate them. |
+| **Effectiveness** | Any such activity must be properly supported and supervised. The results should count towards the final grade. |
+| **Student Preference** | Students may welcome some new methods. But they also want to keep traditional ways and value contact with tutors. |
+| **Perception** | If students think lectures are important, then removing them may not be popular. |
+| **Institutional Need** | A school that wants to use RBL must think about these views and find ways to address them. |
 
 #### Developing Special Skills Among Teachers
 
-For using this approach, teachers need to be able to:
+To use this approach, teachers need to be able to:
 
-- **Redesign and evaluate** curricula
-- **Understand new learning technologies** and employ them appropriately
-- Construct a range of **learning and assessment activities** to meet outcomes
+- **Redesign and review** curricula
+- **Understand new learning technologies** and use them properly
+- Create a range of **learning and testing activities** to meet goals
 - **Design teaching and learning materials**
-- Provide **tutorial support**
-- Operate effectively in **teams**
+- Give **tutorial support**
+- Work well in **teams**
 
 !!! important "Essential Skills"
-    While one may argue that these are the skills all teachers require, in our experience RBL makes the full range of these skills **essential and not merely desirable**. This raises the issue of **staff development**. Innovation is an expensive exercise.
+    Some may say all teachers need these skills. But in practice, RBL makes all of them **essential, not just nice to have**. This raises the question of **staff training**. New methods are expensive to develop.
 
 #### Infrastructure Required
 
-Further infrastructural implications include:
+Other basic setup (infrastructure) needs include:
 
-- The **physical design of IT facilities** so as to permit discussion and other group activities in conjunction with computer work
-- The **technical support** needed to ensure that hardware is configured correctly and software operates as intended
-- The **training of IT support staff** to play a pedagogical rather than merely technical role
+- The **design of IT rooms** should allow discussion and group work along with computer use
+- **Technical support** is needed to make sure hardware and software work correctly
+- **IT support staff** should be trained to play a teaching-related (pedagogical) role, not just a technical one
 
 ---
 
 ### 4.10.4 Benefits of Resource-Based Learning (RBL)
 
-RBL is very useful in providing effective learning and education.
+RBL is very useful for effective learning and education.
 
 | # | Benefit |
 |---|---------|
-| 1 | It promotes **problem solving skills** and **higher order thinking skills** |
-| 2 | Learning is **not passively receiving information** |
-| 3 | Students **actively interact with resources** through engaging relevant resources, which makes learning deep, concrete and meaningful |
-| 4 | **Teachers, students, resource providers** are actively involved in learning |
-| 5 | This approach appeals to **varied interests, experiences, learning styles, needs and ability levels** of students |
-| 6 | RBL makes **best use of resources** of men, machines and materials available in schools |
-| 7 | **Human Resources** — well trained teachers, persons providing education resources for classroom teaching, helpers — all should play their roles correctly, effectively |
-| 8 | **Computer, computer-based equipment** — different hardware like OHP, projector, audio-video player should all be properly used at right time and right place/context |
-| 9 | **Resource materials** like charts, substitution tables, discs for matching, any improvised aid — all should be properly used to make understanding better and first-hand |
-| 10 | **Real products** could also be shown and explained if necessary and not dangerous to use and there is no problem in fetching |
-| 11 | Several **abstract concepts** could be made concrete, clear and meaningful by using suitable resources |
-| 12 | RBL makes **dull and monotonous learning** active, motivating, interesting and effective |
-| 13 | RBL could involve **students/learners as partners** of the learning process by themselves handling tools, equipment, models etc. |
+| 1 | It builds **problem-solving skills** and **higher-order thinking skills** |
+| 2 | Learning is **not just sitting and receiving information** |
+| 3 | Students **actively work with resources**. This makes learning deeper, more real, and more meaningful |
+| 4 | **Teachers, students, and resource providers** are all actively involved in learning |
+| 5 | This approach works for **different interests, experiences, learning styles, needs, and ability levels** of students |
+| 6 | RBL makes the **best use of resources** — people, machines, and materials in schools |
+| 7 | **Human Resources** — trained teachers, education resource providers, helpers — all should do their jobs correctly and well |
+| 8 | **Computer and computer-based equipment** — hardware like OHP, projector, audio-video player should all be used at the right time and place |
+| 9 | **Resource materials** like charts, matching discs, and homemade aids should all be used well to make understanding better and direct |
+| 10 | **Real products** can also be shown and explained, if they are safe to use and easy to bring |
+| 11 | Many **abstract ideas** can be made clear, real, and meaningful by using the right resources |
+| 12 | RBL turns **boring, dull learning** into active, motivating, interesting, and effective learning |
+| 13 | RBL lets **students become partners** in learning by handling tools, equipment, and models themselves |
 
 ```mermaid
 graph TD
