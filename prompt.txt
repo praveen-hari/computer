@@ -1,0 +1,67 @@
+
+Analyze the extracted content and convert it into MkDocs-ready Markdown for exam preparation.
+
+The goal is to transform the raw text into clear, easy-to-study, exam-ready notes while preserving the original structure.
+
+Requirements:
+
+1. Preserve all existing topic headings, subheadings, section numbers, and numbering exactly as they are.
+
+   * Do not rename, reorder, remove, or change any heading or number.
+
+2. Do not add any new content.
+
+   * Only reorganize, rewrite, simplify, and format the existing content.
+   * Do not introduce external information, examples, or explanations that are not already present in the source text.
+
+3. Make the content easier to read, memorize, and write in exams.
+
+   * Rewrite raw or difficult sentences into clear exam-style points.
+   * Use concise paragraphs, bullet points, tables, definitions, and key points where suitable.
+   * Highlight important terms in bold.
+   * Convert long explanations into structured notes.
+
+4. Add necessary diagrams only when they can be created from the existing content.
+
+   * Use Mermaid diagrams where useful.
+   * Include diagrams that show flow, hierarchy, process, comparison, or relationships between headings.
+   * Do not create diagrams using information not present in the source.
+
+5. Show clear connections between headings and subheadings.
+
+   * Use short linking notes, flow diagrams, or structured summaries where appropriate.
+   * Make it easy to understand how one topic connects to another.
+
+6. Format the output for MkDocs.
+
+   * Use proper Markdown syntax.
+   * Use clean heading levels.
+   * Use admonitions where useful, such as:
+
+     * `!!! note`
+     * `!!! tip`
+     * `!!! important`
+   * Use tables for comparisons, lists, classifications, advantages, disadvantages, or key differences when present in the content.
+
+7. Make the notes exam-ready.
+
+   * Include:
+
+     * Key definitions
+     * Important points
+     * Step-by-step explanations
+     * Short answer format where suitable
+     * Easy-to-revise summaries
+   * Keep the language simple, direct, and suitable for writing in exams.
+
+8. Maintain accuracy.
+
+   * Do not change the meaning of the original content.
+   * Do not skip any topic.
+   * Do not summarize so much that important exam points are lost.
+
+Output format:
+
+* Provide only the final MkDocs-ready Markdown content.
+* Do not include explanations about what you changed.
+* Do not include extra commentary before or after the converted notes.

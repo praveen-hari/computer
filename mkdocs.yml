@@ -1,0 +1,67 @@
+site_name: Pedagogy of Computer Science - Exam Notes
+site_description: MkDocs-ready exam preparation notes for Pedagogy of Computer Science
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Unit 1 - Pedagogical Analysis:
+    - "Part 1: Topics 1.1 - 1.3": unit1/1-pedagogical-analysis-part1.md
+    - "Part 2: Topics 1.4 - 1.7": unit1/2-pedagogical-analysis-part2.md
+    - "Part 3: Topics 1.8 - 1.11": unit1/3-pedagogical-analysis-part3.md
+  - Unit 2 - Teaching Models:
+    - "Part 1: Topics 2.1 - 2.3": unit2/1-teaching-models-part1.md
+    - "Part 2: Topics 2.4 - 2.7": unit2/2-teaching-models-part2.md
+    - "Part 3: Topics 2.8 - 2.11": unit2/3-teaching-models-part3.md
+  - Unit 3 - Activity Based & Group Controlled Instruction:
+    - "Part 1: Topics 3.1.1 - 3.1.5 — Activity Based Instructions": unit3/1-activity-based-instruction.md
+    - "Part 2: Topics 3.2.1 - 3.2.8 — Group Controlled Instruction": unit3/2-group-controlled-instruction.md
+    - "Part 3: Topics 3.3 - 3.4 — Activities & Assessment": unit3/3-activities-and-assessment.md
+  - Unit 4 - Resource Based Learning:
+    - "Part 1: Topics 4.1 - 4.6 — Resources & Classification": unit4/1-resource-based-learning-part1.md
+    - "Part 2: Topics 4.7 - 4.8 — Non-Projected & Projected Resources": unit4/2-resource-based-learning-part2.md
+    - "Part 3: Topics 4.9 - 4.11 — Users, RBL & Assessment": unit4/3-resource-based-learning-part3.md
+  - Unit 5 - Assessment in Pedagogy of CS:
+    - "Part 1: Topics 5.1 - 5.4 — Evaluation, Tests & Achievement Test": unit5/1-assessment-part1.md
+    - "Part 2: Topics 5.5 - 5.8 — Feedback, Portfolio, Rubrics & Competency": unit5/2-assessment-part2.md
+    - "Part 3: Topics 5.9 - 5.13 — CAL, Automatic Assessment & ICT": unit5/3-assessment-part3.md
+  - Unit 5 - Assessment in Pedagogy of CS:
+    - "Part 3: Topics 5.9 - 5.13 — Assessment Activities, CAL, ICT": unit5/3-assessment-part3.md

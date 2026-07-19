@@ -1,0 +1,24 @@
+# PDFs
+*.pdf
+
+# Extracted text and images (generated from PDFs)
+extracted_text/
+extracted_images/
+
+# Python virtual environment
+.venv/
+
+# MkDocs build output
+site/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
