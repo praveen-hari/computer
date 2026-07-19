@@ -7,36 +7,36 @@
 
 ### Online Teaching Software: The Basic Tools You Should Know About
 
-The present-day circumstances are forcing hundreds of colleges, universities, schools, training centres and tutors to move tuition to **virtual settings** — many, for the first time. While many institutions and public learning spaces are now reopening, **hybrid forms of teaching** are likely to continue for a while yet. The success of this model entirely depends on the **technology chosen** for the job and how educators **adapt** to them.
+Today, many colleges, universities, schools, and training centres have moved their teaching **online**. For many, this was the first time. Even as classrooms reopen, **hybrid teaching** (a mix of online and in-person) will continue. The success of online teaching depends on the **technology you choose** and how well teachers **learn to use it**.
 
 ---
 
 ### What to Look for in Online Teaching Software
 
-Your virtual teaching toolkit will largely depend on:
+The tools you need will depend on:
 
-- The **size** of your student base and organization
-- Your particular **role and subject**
-- Any **additional learning needs**
-- **Budget** is also a factor
+- The **size** of your class or school
+- Your **role and subject**
+- Any **special learning needs** of students
+- Your **budget**
 
 !!! important "Key Considerations When Choosing Software"
-    - **Software performance** and **user-friendliness** — try to reduce the anxiety surrounding new technology
-    - Consider the **individual needs of students**, particularly those with special needs
-    - Your virtual teaching tools should **not just help you craft a great online lesson** — they should support you in everything
-    - Look for tools that **bring structure to your day** and make it easy to stay **connected, visible and in control**
+    - The software should be **easy to use**. This helps reduce stress about new technology.
+    - Think about **each student's needs**, especially students with disabilities.
+    - Good tools should **not only help you teach online**. They should help you with all your daily work.
+    - Choose tools that **organize your day** and help you stay **connected and in control**.
 
 ---
 
 ### Essential Online Teaching Software
 
-There are virtual teaching tools out there for every different teaching approach imaginable, catered to a range of different ages, needs and abilities. They cover everything from:
+Many online teaching tools exist for different teaching styles. They work for different ages, needs, and abilities. These tools help with:
 
-- Colleague **communication** and **video classrooms**
+- **Communication** with colleagues and **video classrooms**
 - Managing your **schedule**
-- Sticking to your **work hours**
+- Keeping to your **work hours**
 
-Options are available for **individuals** as well as **institutions**.
+These tools are available for **individual teachers** and for **whole schools**.
 
 ---
 
@@ -45,54 +45,54 @@ Options are available for **individuals** as well as **institutions**.
 ##### 1. Zoom — for Synchronous Video Lessons
 
 !!! note "Zoom — Key Features"
-    - Useful tool for **no-frills virtual classrooms** and department meetings
-    - Free version allows hosting **up to 100 participants** at once (far outstrips Google Hangouts and Skype)
-    - Create several **breakout rooms** for smaller group work
-    - **Share screens** during lessons
-    - Use **group chat** for smaller discussions during a lesson
-    - Easily **record calls** — useful for:
-        - **Self-critique** as you iterate your online teaching methods
-        - **Sharing meetings** with colleagues who couldn't attend
+    - A simple tool for **online classrooms** and meetings
+    - The free version lets you host **up to 100 people** at once (more than Google Hangouts or Skype)
+    - You can create **breakout rooms** for small group work
+    - You can **share your screen** during lessons
+    - Use **group chat** for side discussions during a lesson
+    - You can easily **record calls**. This is useful for:
+        - **Reviewing your own teaching** to improve it
+        - **Sharing meetings** with colleagues who could not attend
 
 ---
 
 ##### 2. Google Classroom — for a Free LMS
 
 !!! note "Google Classroom — Key Features"
-    **Learning Management System (LMS)** software provides a single space for all your organization's:
+    A **Learning Management System (LMS)** gives you one place for all your school's needs:
 
-    - Admin documentation
-    - Reporting and training needs
-    - Tools to plan teaching
-    - Host virtual lessons
-    - Create assignments
+    - Admin documents
+    - Reports and training
+    - Lesson planning tools
+    - Online lessons
+    - Assignments
 
-    Google Classroom brings together all its standard **G Suite tools** — like **Docs, Sheets and Hangouts** — to help you seamlessly manage and deliver virtual teaching. It is a **free platform** offered by Google.
+    Google Classroom uses **G Suite tools** like **Docs, Sheets, and Hangouts**. It helps you manage and deliver online teaching easily. It is a **free platform** from Google.
 
 ---
 
 ##### 3. Microsoft Teams — for a Connected Digital Learning Hub
 
 !!! note "Microsoft Teams — Key Features"
-    - While stopping short of calling itself an LMS, Microsoft Teams offers a **similar suite of virtual teaching tools** as Google Classroom
-    - Also **free** to use
-    - Allows **conversations, content and collaboration** to happen in one unified digital space
-    - Great for:
-        - Creating **secure virtual classrooms**
+    - Microsoft Teams is not called an LMS. But it offers **similar teaching tools** as Google Classroom.
+    - It is also **free** to use.
+    - It puts **conversations, content, and teamwork** in one place.
+    - It is great for:
+        - Creating **safe online classrooms**
         - Sharing **assignments and feedback**
-        - Streamlining **staff communication**
+        - Making **staff communication** easier
 
 ---
 
 ##### 4. Blackboard — for Top-of-the-Range Higher Education LMS
 
 !!! note "Blackboard — Key Features"
-    - A **purpose-built higher education LMS** with a modern and intuitive feel
-    - Facilitates **fluid, user-friendly digital learning environments** with specialist solutions
+    - An LMS **built for higher education**. It has a modern and easy-to-use design.
+    - It creates **smooth, user-friendly online learning spaces** with special tools.
     - Features include:
-        - **Blackboard Analytics for Learning** — helps identify barriers to student success
-        - Tools to **keep students on track** and optimize institutional performance
-    - A great platform for delivering **engaging online teaching experiences** and ensuring everyone gets the right support
+        - **Blackboard Analytics for Learning** — helps find problems that stop students from succeeding
+        - Tools to **keep students on track** and improve school performance
+    - A great platform for **engaging online teaching**. It makes sure everyone gets the right support.
 
 ---
 
@@ -101,16 +101,16 @@ Options are available for **individuals** as well as **institutions**.
 ##### 5. Slack — for Peer and Organization Communication
 
 !!! note "Slack — Key Features"
-    - **Transparent asynchronous communication** is the bedrock of all remote collaboration
-    - **Democratizes communication** — allowing everyone to access department-wide conversations and talk when it actually suits their schedule
-    - Many remote teams have realized that **email is not the optimal space** for day-to-day communication
-    - Slack effectively breaks all team communication into **thematic groups called threads**
-    - Allows staff to **dip in and out** of conversations that concern them
-    - Great tool for building an **online peer community**:
+    - **Clear, non-real-time communication** is the base of all remote teamwork.
+    - Slack **gives everyone equal access** to conversations. People can reply when it suits their schedule.
+    - Many remote teams have found that **email is not the best tool** for daily communication.
+    - Slack organizes all team messages into **topic-based groups called threads**.
+    - Staff can **join or leave** conversations that matter to them.
+    - It is a great tool for building an **online community**:
         - Share **best practices**
         - Exchange **ideas**
-        - Share **global updates**
-        - Just **check-in** on each other
+        - Share **news and updates**
+        - Simply **check in** on each other
 
 ---
 
@@ -118,11 +118,11 @@ Options are available for **individuals** as well as **institutions**.
 
 | Software | Type | Best For | Cost |
 |---|---|---|---|
-| **Zoom** | Synchronous Virtual Classroom | Video lessons, breakout rooms, screen sharing | Free (up to 100 participants) |
-| **Google Classroom** | Free LMS | Admin, assignments, virtual lessons (G Suite integration) | Free |
-| **Microsoft Teams** | Digital Learning Hub | Secure classrooms, assignments, staff communication | Free |
-| **Blackboard** | Higher Education LMS | Advanced analytics, student tracking, institutional use | Paid |
-| **Slack** | Asynchronous Communication | Peer community, threaded discussions, team updates | Free / Paid |
+| **Zoom** | Live Virtual Classroom | Video lessons, breakout rooms, screen sharing | Free (up to 100 people) |
+| **Google Classroom** | Free LMS | Admin, assignments, online lessons (G Suite tools) | Free |
+| **Microsoft Teams** | Digital Learning Hub | Safe classrooms, assignments, staff communication | Free |
+| **Blackboard** | Higher Education LMS | Learning analytics, student tracking, university use | Paid |
+| **Slack** | Non-Real-Time Communication | Team community, topic threads, team updates | Free / Paid |
 
 ```mermaid
 graph TD
@@ -141,89 +141,89 @@ graph TD
 
 ### Introduction
 
-**Pedagogical beliefs and attitudes** significantly determine the **professional skills and practice** of teachers. Many professional development programs for teachers aim to elaborate pedagogical knowledge in order to **improve teaching quality**.
+A teacher's **pedagogical beliefs and attitudes** strongly shape their **professional skills and teaching practice**. Many teacher training programs try to build pedagogical knowledge to **improve teaching quality**.
 
 !!! important "Key Finding"
-    Research data reveal that computer science teachers usually hold **mixed traditional and constructivist theories** which are relevant to either **demographic factors** or their **pre-service training**.
+    Research shows that computer science teachers usually hold a **mix of traditional and constructivist beliefs**. These beliefs are linked to **personal background factors** or their **teacher training**.
 
 ---
 
 ### Relationship Between Beliefs and Practice
 
-The relationship between the **beliefs and behaviour of teachers** and their **students' achievements** is important. The study of teachers' pedagogical beliefs and attitudes, and the **planning and decision-making procedures** they apply, is significant *(Fang, 1996)*.
+There is an important link between **what teachers believe**, **how they teach**, and **how well students learn**. Studying teachers' beliefs, attitudes, and **how they plan and make decisions** is very important *(Fang, 1996)*.
 
 ---
 
 ### Definition of Beliefs
 
 !!! tip "Definition: Beliefs"
-    **"Beliefs"** are **cognitive structures** which help teachers **interpret their experiences** and **specify their teaching practices** *(Nespor, 1987; Pajares, 1992)*.
+    **"Beliefs"** are **mental frameworks** that help teachers **understand their experiences** and **guide their teaching practices** *(Nespor, 1987; Pajares, 1992)*.
 
-Subject teachers' beliefs are formed by several factors:
+A teacher's beliefs are shaped by several things:
 
-- The **culture of their subject discipline**
-- The **quality of their experiences** in the subject as students
-- The **opportunities for reflection** *(Fang, 1996)*
+- The **culture of their subject area**
+- Their **own experiences** as students in that subject
+- Their **chances to reflect** on their teaching *(Fang, 1996)*
 
 ---
 
 ### Definition of Attitude
 
 !!! tip "Definition: Attitude"
-    **"Attitude"** concerns the **general appreciation** or the feeling of **favourable or unfavourable disposition** of a person towards another person or an object.
+    **"Attitude"** is a person's **general feeling** — either **positive or negative** — towards another person or thing.
 
 According to the **Theory of Reasoned Action** *(Ajzen & Fischbein, 1980)*:
 
-- **Beliefs and attitudes determine human behaviour**
-- Consequently, they determine **teachers' practices** to a significant extent *(Kagan, 1992)*
-- The exploration of teachers' beliefs and attitudes about pedagogical approaches can **inform the process of designing teachers' training and support**
+- **Beliefs and attitudes shape how people behave**
+- So, they strongly affect **how teachers teach** *(Kagan, 1992)*
+- Studying teachers' beliefs and attitudes can **help us design better teacher training programs**
 
 ---
 
 ### Importance of Studying Pedagogical Beliefs
 
-- The study of teachers' pedagogical beliefs is **critical to education**
-- Research studies have shown that teachers with **traditional pedagogical beliefs** are more likely to employ **didactic instructional practices**
-- **Applefield** proposes the involvement of **pre-service teachers** in processes that enable them to **examine and change their traditional beliefs**
-- The aim is to encourage them to adopt **constructivist instructional approaches** when they become teachers
+- Studying teachers' pedagogical beliefs is **very important for education**
+- Research shows that teachers with **traditional beliefs** tend to use **lecture-based teaching methods**
+- **Applefield** says we should help **trainee teachers** look at and **change their traditional beliefs**
+- The goal is to help them use **constructivist teaching methods** when they start teaching
 
 !!! important "ICT Integration"
-    This concern also applies to any attempt to **integrate ICT in education**, because the real exploitation of ICT requires **constructivist learning approaches**.
+    This also matters when we try to **use ICT in education**. Using ICT well requires **constructivist learning methods**.
 
 ---
 
 ### Traditional vs Constructivist Approaches
 
-The relationship between teachers' pedagogical beliefs and their use of **ICT for teaching and learning** is important. **Becker's analysis** of the distinction between the traditional and the constructivist approach is based on **four dimensions**:
+The link between teachers' beliefs and their use of **ICT for teaching** is important. **Becker** compared the traditional and constructivist approaches using **four areas**:
 
 | Dimension | Traditional Approach | Constructivist Approach |
 |---|---|---|
-| **Curriculum** | Narrowly defined cognitive field or skill set | Broad, connected learning environments |
-| **Teaching Approach** | Teacher-centred; emphasis on **transfer of knowledge and skills** from teacher to students | Student-centred; creation of **suitable learning environments** by the teacher |
-| **Student's Work** | Guided practice; understanding emerges from carefully planned immediate teaching | Students make **personal efforts** for development of their own understanding |
-| **Assessment** | Standardized examinations; memorization | Collaborative, meaning-making and communicative activities |
+| **Curriculum** | Narrow focus on specific skills | Broad, connected learning spaces |
+| **Teaching Approach** | Teacher-centred; teacher **gives knowledge** to students | Student-centred; teacher **creates good learning spaces** |
+| **Student's Work** | Guided practice; students learn from direct teaching | Students **work on their own** to build understanding |
+| **Assessment** | Standard exams; memorization | Group activities; meaningful communication tasks |
 
 ---
 
 #### Traditional Teacher-Centred Approach
 
-According to **Becker**, the traditional teacher-centred practice is characterized by:
+According to **Becker**, the traditional teacher-centred approach has these features:
 
-- Emphasis on the **transfer of knowledge and skills** from teachers to students
-- A theory of learning whereby **understanding emerges from carefully planned immediate teaching** within a narrowly defined cognitive field or skill set
-- Learning from **guided practice**
+- The teacher **gives knowledge and skills** to students
+- Students learn through **carefully planned direct teaching** in a narrow subject area
+- Students learn from **guided practice**
 
 ---
 
 #### Constructivist Approach
 
-In contrast, the **constructivist consideration** claims that:
+The **constructivist approach** says something different:
 
-- Understanding is **neither transferred, nor a result from mere skill practice**
-- Efficient constructivist teaching includes the **creation of suitable learning environments** by the teacher
-- Within those environments, students make **personal efforts** for the development of their own understanding
-- Students are given the **opportunity to learn when and how to do it**
-- Learning happens with the **collaborative support of fellow students** in the framework of **meaning-making and communicative activities** with personal significance for each one of them
+- Understanding is **not simply given to students**. It does not come from just practising skills.
+- Good constructivist teaching means the teacher **creates the right learning spaces**.
+- In these spaces, students **work hard on their own** to build understanding.
+- Students get the **chance to learn when and how to do things**.
+- Students learn by **working together** in **meaningful activities** that matter to each of them.
 
 ```mermaid
 graph LR
@@ -241,30 +241,30 @@ graph LR
 
 ### Constructivist Model — Expected Outcomes
 
-With the constructivist model, students should develop abilities of:
+With the constructivist model, students should learn to:
 
-- **Deep understanding** of a subject
-- Realizing **relationships between different ideas and concepts**
-- Knowing both **when and how to apply** their knowledge in specific cases
-- Ability to **communicate their meanings** to others
+- **Deeply understand** a subject
+- See **connections between different ideas and concepts**
+- Know **when and how to use** their knowledge in real situations
+- **Explain their ideas clearly** to others
 
 ---
 
 ### Consolidation of Constructivist Pedagogy
 
 !!! note "Key Points"
-    - The consolidation of **constructivist pedagogy** is usually what teachers' pedagogical training targets
-    - However, the **conventional organisation of the educational system** (predetermined syllabus, limited time, extended material, demand of memorization for standardized examinations) is **not compatible** with the student-centred pedagogical approach
-    - Therefore, a **degree of divergence** is expected between teachers' beliefs and practice
+    - Strengthening **constructivist pedagogy** is usually the goal of teacher training.
+    - But the **current education system** (fixed syllabus, limited time, too much content, memorization for exams) **does not fit well** with student-centred teaching.
+    - So, there is often a **gap** between what teachers believe and what they actually do.
 
 ---
 
 ### Change in Beliefs Over Time
 
-- Teachers' pedagogical beliefs and attitudes **change along with the years of service**
-- Teachers seem to have **strong beliefs at the beginning** of their career (either traditional or constructivist)
-- These beliefs **weaken after some years of experience**
-- Teachers' beliefs and attitudes seem to be **generally unrelated** to their prior studies in education and/or participation in professional development programs
+- Teachers' beliefs and attitudes **change over the years** as they gain experience.
+- New teachers tend to have **strong beliefs** (either traditional or constructivist).
+- These beliefs **become weaker after a few years** of teaching.
+- Teachers' beliefs seem to be **mostly unrelated** to their education studies or training programs.
 
 ---
 
@@ -273,17 +273,17 @@ With the constructivist model, students should develop abilities of:
 ### Introduction
 
 !!! tip "Definition: Pedagogical Content Knowledge (PCK)"
-    **Pedagogical Content Knowledge (PCK)** is the **intersection** of a teacher's knowledge of:
+    **Pedagogical Content Knowledge (PCK)** is where three types of knowledge meet:
 
-    - **Content** (subject matter)
-    - **Pedagogy** (teaching methods)
-    - **Context** of the learning situation, including her students
+    - **Content** (the subject itself)
+    - **Pedagogy** (how to teach)
+    - **Context** (the learning situation and the students)
 
-PCK is more accurately measured by **triangulating data** gathered through:
+We can measure PCK best by **combining data from multiple sources**:
 
-1. **Observation** of instructional events
-2. **Teacher interviews**
-3. **Assessments** of content knowledge
+1. **Watching** teachers teach
+2. **Interviewing** teachers
+3. **Testing** their subject knowledge
 
 ---
 
@@ -294,48 +294,48 @@ PCK is more accurately measured by **triangulating data** gathered through:
 > *"That special amalgam of content and pedagogy that is uniquely the province of teachers, their own special form of professional understanding."*
 
 !!! important "Shulman's Key Points on PCK"
-    - PCK is the **single characteristic** that separates someone with content knowledge from a teacher who can **represent ideas**
-    - It enables the unknowing to **come to know**, those without understanding to **comprehend and discern**, and the unskilled to **become adept**
+    - PCK is the **one thing** that makes a teacher different from someone who just knows the subject. A teacher can **explain ideas** in ways students understand.
+    - PCK helps people who don't know something **learn it**. It helps people who don't understand **gain understanding**. It helps beginners **become skilled**.
 
 ---
 
 ### PCK Explained with an Example
 
-**Pedagogical Content Knowledge** is the difference in how a **laboratory chemist** and a **chemistry teacher** would plan and teach a chemistry lesson:
+**Pedagogical Content Knowledge** is the difference between how a **lab chemist** and a **chemistry teacher** would teach a chemistry lesson:
 
 | Aspect | Laboratory Chemist | Chemistry Teacher (with PCK) |
 |---|---|---|
-| **Knowledge** | Can tell students about the topic | Plans lesson based on the **nature of her students** |
-| **Planning** | Limited pedagogical planning | Considers **what students need to learn** and **how they will best learn it** |
-| **During Teaching** | Delivers content | **Continually evaluates learning** and uses a variety of pedagogical techniques |
-| **Techniques** | Limited | Can **alter explanations**, create **demonstrations**, and provide **analogies** |
-| **Goal** | Transfer information | **Support students' understanding** effectively |
+| **Knowledge** | Can tell students about the topic | Plans the lesson based on **who the students are** |
+| **Planning** | Little teaching planning | Thinks about **what students need to learn** and **the best way to teach it** |
+| **During Teaching** | Just delivers content | **Keeps checking if students are learning** and uses many teaching methods |
+| **Techniques** | Few methods | Can **change explanations**, create **demos**, and give **examples students relate to** |
+| **Goal** | Give information | **Help students truly understand** |
 
 !!! tip "Foundation of PCK"
-    Being able to **convey knowledge effectively to students** is the foundation of PCK.
+    The foundation of PCK is being able to **share knowledge with students in a way they understand**.
 
 ---
 
 ### Measuring Pedagogical Content Knowledge
 
-Given evidence to support the link between **PCK, effective instruction, and student achievement**, researchers have sought to **measure PCK** and to develop **tools and approaches** that will aid in teacher evaluation.
+Research shows a clear link between **PCK, good teaching, and student success**. So researchers have tried to **measure PCK**. They want to create **tools and methods** that help evaluate teachers.
 
 ---
 
 #### Challenges in Measuring PCK
 
-**PCK is a complex construct** and has proved difficult to measure. Some researchers have included different types of tools:
+**PCK is complex** and hard to measure. Researchers have used different types of tools:
 
 | Tool / Method | Description |
 |---|---|
-| **Questionnaire** | Written survey instruments |
-| **Interview Schedule** | Structured or semi-structured interviews |
-| **Observation of Instruction** | Watching teachers teach in real-time |
-| **Students' Work Product** | Analysing student outputs |
-| **Observation of Teacher** | Observing teacher behaviour and decisions |
-| **Discussion on Student Learning** | Post-lesson discussions about student progress |
+| **Questionnaire** | Written surveys |
+| **Interview Schedule** | Planned interviews (structured or flexible) |
+| **Observation of Instruction** | Watching teachers teach in real time |
+| **Students' Work Product** | Looking at what students produce |
+| **Observation of Teacher** | Watching teacher behaviour and choices |
+| **Discussion on Student Learning** | Talking about student progress after a lesson |
 
-Some researchers used **one or two tools**, while others used **many tools** together.
+Some researchers used **one or two tools**. Others used **many tools** together.
 
 ---
 
@@ -343,51 +343,51 @@ Some researchers used **one or two tools**, while others used **many tools** tog
 
 ##### 1. Paper-Pencil Test
 
-- Used with **other approaches**
-- Possible to administer to **large groups**, allowing **broad application**
-- **Deficiency**: More useful for evaluating **content knowledge** rather than **pedagogical knowledge**
+- Used along with **other methods**
+- Can be given to **large groups**, so it is **widely useful**
+- **Weakness**: It is better for testing **subject knowledge** than **teaching knowledge**
 
 ##### 2. Item Design
 
-- **Item design is important** for effective measurement
+- **How you design test items matters** for good measurement
 - Types of items used:
-    - **Closed-ended questions** — useful in enabling participants to select the correct answer
-    - **Open-ended questions** — if properly answered, could be useful
+    - **Closed-ended questions** — students pick the correct answer from choices
+    - **Open-ended questions** — can be useful if answered well
     - **Concept mapping**
-    - **Comments / video taped** sessions — used for creative items for testing
+    - **Comments / video recorded** sessions — creative ways to test understanding
 
 ##### 3. Observation of Instruction
 
-- Provides **great insight** into a teacher's ability to perform PCK
-- **Requires skilled, trained observers**
+- Gives **very useful information** about a teacher's PCK skills
+- **Needs skilled, trained observers**
 
 ##### 4. Post-Observation Discussion
 
-- Can provide insight into **teachers' pedagogical reasoning**
-- Particularly useful **after an observation of instruction**
-- To make the observation productive, the **facilitators should be more skilled**
-- The time required for skilled evaluators may require **more finance** and could be a constraint
+- Helps us understand **why teachers made certain teaching choices**
+- Works best **after watching a teacher teach**
+- The **discussion leaders need to be skilled** for good results
+- Hiring skilled evaluators **costs more money**, which can be a problem
 
 ---
 
 #### Shulman's Views on Measuring PCK
 
 !!! important "Shulman's Expert Opinion"
-    **Shulman**, expert psychologist, stated that:
+    **Shulman**, an expert psychologist, said that:
 
-    - **Single testing may not provide effective evaluation**
-    - **Multiple measures and tests** should be used for evaluation of teachers' pedagogical skills
-    - Only one separate evaluation will **not yield correct result** — so it is **insufficient**
+    - **One single test cannot give a good evaluation**
+    - We should use **many different tests and methods** to evaluate teachers' teaching skills
+    - Just one evaluation **will not give the right answer**. It is **not enough**.
 
 ---
 
 #### Key Conclusions on Measuring PCK
 
-- **Measuring PCK** is a **common approach** used in educational research for evaluating teacher pedagogy
-- There is **no single established approach** for measuring PCK
-- **Multiple data analysis only** could provide better results
-- **Researchers and administrators** use PCK for analysis of **teacher's effectiveness**
-- A **complex approach** to measure PCK is required for a thorough evaluation of teacher pedagogy
+- **Measuring PCK** is a **common method** in educational research to evaluate teaching
+- There is **no single best way** to measure PCK
+- **Using many types of data together** gives better results
+- **Researchers and school leaders** use PCK to study **how effective a teacher is**
+- We need a **detailed approach** to measure PCK well
 
 ```mermaid
 graph TD
@@ -445,8 +445,8 @@ graph TD
 
 | Topic | Key Takeaway |
 |---|---|
-| **1.8 Software Pedagogy** | Online teaching requires the right tools — Zoom, Google Classroom, MS Teams, Blackboard, and Slack cover synchronous and asynchronous needs |
-| **1.9 Beliefs & Attitudes** | Teachers hold mixed traditional and constructivist beliefs; these significantly affect teaching practice and ICT integration |
-| **1.10 Measuring PCK** | PCK is the intersection of content, pedagogy, and context; it requires multiple tools and triangulation to measure effectively |
+| **1.8 Software Pedagogy** | Online teaching needs the right tools. Zoom, Google Classroom, MS Teams, Blackboard, and Slack cover both live and non-live needs. |
+| **1.9 Beliefs & Attitudes** | Teachers hold a mix of traditional and constructivist beliefs. These strongly affect how they teach and use ICT. |
+| **1.10 Measuring PCK** | PCK is where content, teaching, and context meet. You need many tools and data sources to measure it well. |
 
 ---
