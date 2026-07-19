@@ -1,0 +1,2344 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="MkDocs-ready exam preparation notes for Pedagogy of Computer Science">
+      
+      
+      
+      
+        <link rel="prev" href="../..">
+      
+      
+        <link rel="next" href="../2-pedagogical-analysis-part2/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>Part 1: Topics 1.1 - 1.3 - Pedagogy of Computer Science - Exam Notes</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#1-pedagogical-analysis-part-1" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Pedagogy of Computer Science - Exam Notes" class="md-header__button md-logo" aria-label="Pedagogy of Computer Science - Exam Notes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Pedagogy of Computer Science - Exam Notes
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Part 1: Topics 1.1 - 1.3
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="./" class="md-tabs__link">
+          
+  
+  
+  Unit 1 - Pedagogical Analysis
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../unit2/1-teaching-models-part1/" class="md-tabs__link">
+          
+  
+  
+  Unit 2 - Teaching Models
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../unit3/1-activity-based-instruction/" class="md-tabs__link">
+          
+  
+  
+  Unit 3 - Activity Based & Group Controlled Instruction
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../unit4/1-resource-based-learning-part1/" class="md-tabs__link">
+          
+  
+  
+  Unit 4 - Resource Based Learning
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../unit5/1-assessment-part1/" class="md-tabs__link">
+          
+  
+  
+  Unit 5 - Assessment in Pedagogy of CS
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../unit5/3-assessment-part3/" class="md-tabs__link">
+          
+  
+  
+  Unit 5 - Assessment in Pedagogy of CS
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Pedagogy of Computer Science - Exam Notes" class="md-nav__button md-logo" aria-label="Pedagogy of Computer Science - Exam Notes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Pedagogy of Computer Science - Exam Notes
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Unit 1 - Pedagogical Analysis
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Unit 1 - Pedagogical Analysis
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 1: Topics 1.1 - 1.3
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 1: Topics 1.1 - 1.3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#topics-11-13" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Topics: 1.1 - 1.3
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#11-paradigm-shift-from-pedagogy-to-andragogy-to-heutagogy-concept-and-stages" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1.1 Paradigm Shift from Pedagogy to Andragogy to Heutagogy — Concept and Stages
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1.1 Paradigm Shift from Pedagogy to Andragogy to Heutagogy — Concept and Stages">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#meaning-of-paradigm" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Meaning of Paradigm
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historical-evolution" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Historical Evolution
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#definitions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Definitions
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comparative-table-pedagogy-vs-andragogy-vs-heutagogy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Comparative Table: Pedagogy vs Andragogy vs Heutagogy
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#12-critical-pedagogy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1.2 Critical Pedagogy
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1.2 Critical Pedagogy">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#121-meaning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1.2.1 Meaning
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#122-fosters-independent-thinking" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1.2.2 Fosters Independent Thinking
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#123-critical-pedagogy-need-and-its-implication-in-the-classroom" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1.2.3 Critical Pedagogy — Need and its Implication in the Classroom
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1.2.3 Critical Pedagogy — Need and its Implication in the Classroom">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#need-for-critical-pedagogy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Need for Critical Pedagogy
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#implications-in-the-classroom" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Implications in the Classroom
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#13-flanders-interaction-analysis-categories-fiac" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1.3 Flanders Interaction Analysis Categories (FIAC)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1.3 Flanders Interaction Analysis Categories (FIAC)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Introduction
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-ten-categories-of-fiac" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The Ten Categories of FIAC
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The Ten Categories of FIAC">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#complete-fiac-category-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Complete FIAC Category Table
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#structure-diagram" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Structure Diagram
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-coding-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The Coding System
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-interaction-matrix" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The Interaction Matrix
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The Interaction Matrix">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#sample-interaction-matrix" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Sample Interaction Matrix
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#measures-for-analysing-patterns-of-interaction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Measures for Analysing Patterns of Interaction
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#interpreting-the-matrix" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Interpreting the Matrix
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Interpreting the Matrix">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-proportion-of-teacher-talk-pupil-talk-and-silence-or-confusion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Proportion of Teacher Talk, Pupil Talk, and Silence or Confusion
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-ratio-between-indirect-influence-and-direct-influence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Ratio Between Indirect Influence and Direct Influence
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-ratio-between-positive-reinforcement-and-negative-reinforcement" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Ratio Between Positive Reinforcement and Negative Reinforcement
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-students-participation-ratio" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Student's Participation Ratio
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#advantages-of-fiac" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Advantages of FIAC
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#precautions-in-the-use-of-flanders-interaction-analysis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Precautions in the Use of Flanders Interaction Analysis
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#limitations-of-flanders-interaction-analysis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Limitations of Flanders Interaction Analysis
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2-pedagogical-analysis-part2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 2: Topics 1.4 - 1.7
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../3-pedagogical-analysis-part3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 3: Topics 1.8 - 1.11
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Unit 2 - Teaching Models
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Unit 2 - Teaching Models
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit2/1-teaching-models-part1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 1: Topics 2.1 - 2.3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit2/2-teaching-models-part2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 2: Topics 2.4 - 2.7
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit2/3-teaching-models-part3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 3: Topics 2.8 - 2.11
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Unit 3 - Activity Based & Group Controlled Instruction
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Unit 3 - Activity Based & Group Controlled Instruction
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit3/1-activity-based-instruction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 1: Topics 3.1.1 - 3.1.5 — Activity Based Instructions
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit3/2-group-controlled-instruction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 2: Topics 3.2.1 - 3.2.8 — Group Controlled Instruction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit3/3-activities-and-assessment/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 3: Topics 3.3 - 3.4 — Activities & Assessment
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Unit 4 - Resource Based Learning
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Unit 4 - Resource Based Learning
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit4/1-resource-based-learning-part1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 1: Topics 4.1 - 4.6 — Resources & Classification
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit4/2-resource-based-learning-part2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 2: Topics 4.7 - 4.8 — Non-Projected & Projected Resources
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit4/3-resource-based-learning-part3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 3: Topics 4.9 - 4.11 — Users, RBL & Assessment
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Unit 5 - Assessment in Pedagogy of CS
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Unit 5 - Assessment in Pedagogy of CS
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit5/1-assessment-part1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 1: Topics 5.1 - 5.4 — Evaluation, Tests & Achievement Test
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit5/2-assessment-part2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 2: Topics 5.5 - 5.8 — Feedback, Portfolio, Rubrics & Competency
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit5/3-assessment-part3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 3: Topics 5.9 - 5.13 — CAL, Automatic Assessment & ICT
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Unit 5 - Assessment in Pedagogy of CS
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Unit 5 - Assessment in Pedagogy of CS
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit5/3-assessment-part3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 3: Topics 5.9 - 5.13 — CAL, Automatic Assessment & ICT
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="1-pedagogical-analysis-part-1">1. PEDAGOGICAL ANALYSIS (Part 1)<a class="headerlink" href="#1-pedagogical-analysis-part-1" title="Permanent link">&para;</a></h1>
+<h2 id="topics-11-13">Topics: 1.1 - 1.3<a class="headerlink" href="#topics-11-13" title="Permanent link">&para;</a></h2>
+<hr />
+<h2 id="11-paradigm-shift-from-pedagogy-to-andragogy-to-heutagogy-concept-and-stages">1.1 Paradigm Shift from Pedagogy to Andragogy to Heutagogy — Concept and Stages<a class="headerlink" href="#11-paradigm-shift-from-pedagogy-to-andragogy-to-heutagogy-concept-and-stages" title="Permanent link">&para;</a></h2>
+<h3 id="meaning-of-paradigm">Meaning of Paradigm<a class="headerlink" href="#meaning-of-paradigm" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Paradigm</strong> means model, pattern, example, ideal, criterion, etc.</li>
+<li>Here, the paradigm relates to <strong>Education</strong>.</li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Definition: Paradigm Shift</p>
+<p>A <strong>paradigm shift</strong> is defined as <em>"an important change that happens when the usual way of thinking about something or doing something is replaced by a new and different way."</em></p>
+</div>
+<h3 id="historical-evolution">Historical Evolution<a class="headerlink" href="#historical-evolution" title="Permanent link">&para;</a></h3>
+<ol>
+<li>When society developed from individual life, <strong>language</strong> was developed — first oral, then written (alphabets).</li>
+<li>Parents wanted to educate their children → <strong>Gurukula system</strong> developed → later improved into institutions and schools → children were taught → this was called <strong>Pedagogy</strong>.</li>
+<li>When society enlarged, elders who did not have education in younger days wanted to learn in their adult stage → this is called <strong>Andragogy</strong>.</li>
+<li>Based on the needs of the modern world, <strong>self-determined learning (Heutagogy)</strong> was developed and fostered in society.</li>
+</ol>
+<pre class="mermaid"><code>flowchart LR
+    A["**Pedagogy**&lt;br/&gt;Children's Learning"] --&gt; B["**Andragogy**&lt;br/&gt;Adult Learning"]
+    B --&gt; C["**Heutagogy**&lt;br/&gt;Self-Determined Learning"]</code></pre>
+<h3 id="definitions">Definitions<a class="headerlink" href="#definitions" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Pedagogy</strong></td>
+<td>A term that refers to the method of how teachers teach children, in theory and practice.</td>
+</tr>
+<tr>
+<td><strong>Andragogy</strong></td>
+<td>The method and practice of teaching adult learners in adult education. It is mostly based on classroom teaching and the relationship between teachers and students.</td>
+</tr>
+<tr>
+<td><strong>Heutagogy</strong></td>
+<td>Otherwise known as <strong>self-determined learning</strong>. It is a student-centered instructional strategy that emphasises the development of learning autonomy, capacity and capability.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="comparative-table-pedagogy-vs-andragogy-vs-heutagogy">Comparative Table: Pedagogy vs Andragogy vs Heutagogy<a class="headerlink" href="#comparative-table-pedagogy-vs-andragogy-vs-heutagogy" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Aspect</th>
+<th>Pedagogy</th>
+<th>Andragogy</th>
+<th>Heutagogy (Self-Directed Learning)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Methods / Nature</strong></td>
+<td>Children's learning</td>
+<td>Adults' learning</td>
+<td>Self-directed learning</td>
+</tr>
+<tr>
+<td><strong>Dependence</strong></td>
+<td>The learner is dependent on the teacher. Teacher determines what, how, and when of anything is learned.</td>
+<td>Adults are independent. They strive for autonomy and self-direction in learning.</td>
+<td>Learners are interdependent. They identify the potential to learn from novel experiences. They are able to manage their own learning.</td>
+</tr>
+<tr>
+<td><strong>Resources for Learning</strong></td>
+<td>The learner has few resources — the teacher transmits knowledge to learners.</td>
+<td>Adults use their own and others' experience.</td>
+<td>Teacher provides some resources. The learner decides.</td>
+</tr>
+<tr>
+<td><strong>Reasons for Learning</strong></td>
+<td>Learn in order to advance to the next stage.</td>
+<td>Adults learn when they experience a need to perform more effectively. Adult learning is task or problem centered.</td>
+<td>Learning is based on the identification of the potential to learn in novel situations. Learners can go beyond problem solving by enabling pro-activity. Learners use their own and others' experiences.</td>
+</tr>
+<tr>
+<td><strong>Focus of Learning</strong></td>
+<td>Learning is subject centered, focused on the prescribed curriculum.</td>
+<td><em>(Task/problem centered — see above)</em></td>
+<td><em>(Novel situation-based — see above)</em></td>
+</tr>
+<tr>
+<td><strong>Motivation</strong></td>
+<td>Motivation comes from parents, teachers, and a sense of competition (external).</td>
+<td>Motivation stems from internal sources — self-esteem, confidence and recognition.</td>
+<td>Self-efficacy, knowing how to learn, creativity, ability to use these qualities in all situations, and working with others.</td>
+</tr>
+<tr>
+<td><strong>Role of Teacher</strong></td>
+<td>Designs the learning process; teacher knows best.</td>
+<td>Enabler or facilitator; climate of collaboration, respect and openness.</td>
+<td>Develop the learners' capability.</td>
+</tr>
+<tr>
+<td><strong>Learner Outcome</strong></td>
+<td><em>(Dependent learner)</em></td>
+<td><em>(Independent learner)</em></td>
+<td>Capable people who: know how to learn, are creative, have a high degree of self-efficacy, apply competencies in novel and familiar situations, and can work well with others.</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition tip">
+<p class="admonition-title">Exam Tip</p>
+<p>Remember the progression: <strong>Dependent → Independent → Interdependent</strong> (Pedagogy → Andragogy → Heutagogy). This is a frequently asked comparison.</p>
+</div>
+<hr />
+<h2 id="12-critical-pedagogy">1.2 Critical Pedagogy<a class="headerlink" href="#12-critical-pedagogy" title="Permanent link">&para;</a></h2>
+<h3 id="121-meaning">1.2.1 Meaning<a class="headerlink" href="#121-meaning" title="Permanent link">&para;</a></h3>
+<div class="admonition note">
+<p class="admonition-title">Definition: Critical Pedagogy</p>
+<p><strong>Critical pedagogy</strong> is a teaching philosophy that invites educators to encourage students to <strong>critique structures of power and oppression</strong>. It is rooted in <strong>critical theory</strong>, which involves becoming aware of and questioning the societal status quo.</p>
+</div>
+<ul>
+<li>In critical pedagogy, a teacher uses his or her own <strong>enlightenment</strong> to encourage students to <strong>question and challenge inequalities</strong> that exist in families, schools and societies.</li>
+</ul>
+<h3 id="122-fosters-independent-thinking">1.2.2 Fosters Independent Thinking<a class="headerlink" href="#122-fosters-independent-thinking" title="Permanent link">&para;</a></h3>
+<ul>
+<li>This educational philosophy is considered <strong>progressive</strong> and even <strong>radical</strong> by some because of the way it critiques structures that are often taken for granted.</li>
+</ul>
+<p><strong>Five Steps to Implement Critical Pedagogy in the Classroom:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Step</th>
+<th>Action</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td><strong>Challenge yourself</strong></td>
+<td>If you are not thinking critically and challenging social structures, you cannot help students do so. Educate using materials that question the common social narrative. For example, read about why certain "successes" were not really all that successful when considered in a different light. <strong>Critical theory is all about challenging the dominant social structures.</strong> The more we learn, the better equipped we will be to help enlighten our students.</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>Change the classroom dynamic</strong></td>
+<td>Critical pedagogy is all about challenging power structures. One of the most common power dynamics in a student's life is that of the <strong>teacher-student relationship</strong>.</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>Present alternative views and discuss all</strong></td>
+<td>Present alternative perspectives and encourage open discussion of all viewpoints.</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td><strong>Change our assessments</strong></td>
+<td>Traditional assessment structures, like traditional power structures, can be confining. Make sure that assessments are <strong>not about finding the right answer</strong>, but are instead about <strong>critical thinking skills</strong>.</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td><strong>Encourage activism</strong></td>
+<td>There is a somewhat <strong>cyclic nature</strong> to critical pedagogy. After educating yourself, encourage students to think critically, and enlighten families and communities.</td>
+</tr>
+</tbody>
+</table>
+<pre class="mermaid"><code>flowchart TD
+    A["1. Challenge Yourself"] --&gt; B["2. Change Classroom Dynamic"]
+    B --&gt; C["3. Present Alternative Views"]
+    C --&gt; D["4. Change Assessments"]
+    D --&gt; E["5. Encourage Activism"]
+    E --&gt;|"Cyclic Nature"| A</code></pre>
+<div class="admonition important">
+<p class="admonition-title">Conclusion</p>
+<p>Implementing critical pedagogy will look <strong>different in different subjects</strong>, and what works for one class may not work for another. Often, this will involve finding <strong>common bonds between subjects</strong> as the critical approach is not confined to only one area of education and culture.</p>
+</div>
+<h3 id="123-critical-pedagogy-need-and-its-implication-in-the-classroom">1.2.3 Critical Pedagogy — Need and its Implication in the Classroom<a class="headerlink" href="#123-critical-pedagogy-need-and-its-implication-in-the-classroom" title="Permanent link">&para;</a></h3>
+<h4 id="need-for-critical-pedagogy">Need for Critical Pedagogy<a class="headerlink" href="#need-for-critical-pedagogy" title="Permanent link">&para;</a></h4>
+<ul>
+<li>One of the most significant goals of teaching is to <strong>promote the critical thinking capability</strong> of students and thus, create <strong>good citizens for a just society</strong>.</li>
+<li>Classroom teaching must also <strong>awaken the values of justice and equality</strong> in student minds.</li>
+<li>Critical pedagogy is a vital teaching strategy, one designed to <strong>strengthen the awareness of learners about justice and social equality</strong>, while improving their knowledge.</li>
+<li>As a result, teaching is most often <strong>test-oriented rather than knowledge centered</strong>.</li>
+<li>Teachers should employ critical pedagogy in the classroom to prepare students to gain <strong>critical thinking skills</strong> and to help create a <strong>just society</strong>.</li>
+</ul>
+<h4 id="implications-in-the-classroom">Implications in the Classroom<a class="headerlink" href="#implications-in-the-classroom" title="Permanent link">&para;</a></h4>
+<div class="admonition note">
+<p class="admonition-title">Key Point</p>
+<p>Critical pedagogy is <strong>not a new strategy</strong> in teaching and learning. Figures from <strong>Socrates</strong> to many of today's most prominent educators have been using different student-centered classroom approaches to help students by engaging them in learning and creating knowledge.</p>
+</div>
+<p><strong>Key implications for classroom practice:</strong></p>
+<ol>
+<li>
+<p><strong>Employ critical pedagogy for knowledge creation</strong> — To help students create knowledge with keen understanding, teachers need to employ critical pedagogy in the classroom.</p>
+</li>
+<li>
+<p><strong>Enhance critical awareness</strong> — Enhancing students' critical awareness is a goal of education, and teachers are the most crucial adults to guide students and can make them enthusiastic about <strong>learning for life</strong>.</p>
+</li>
+<li>
+<p><strong>Design lesson plans using the dialogical method</strong> — A classroom teacher who knows the students well should design a lesson plan that helps to engage students in learning activities using the <strong>dialogical method</strong>. The design should include the classroom strategy on how the students will be engaged in <strong>dialogue to find out the solution</strong> of the given problem.</p>
+</li>
+<li>
+<p><strong>Connect lessons with real-life situations</strong> — Connecting the lesson with a real-life situation is essential to enhance the ability of students to use a <strong>reason-seeking approach</strong>. The teachers must keep in mind that <strong>learning is not out of life</strong>. Thus, the teacher's planning should include a strategy that can connect the content with a real-life situation.</p>
+</li>
+<li>
+<p><strong>Use diverse resources</strong> — The teacher should not consider that knowledge is hidden only in the content of the curriculum. The teacher can use many other resources like <strong>story, drama and students' cultural presentations</strong>. These kinds of resources are supportive for the students, enabling them to be <strong>creative and think consciously</strong>.</p>
+</li>
+</ol>
+<div class="admonition tip">
+<p class="admonition-title">Exam Tip</p>
+<p>Key themes of Critical Pedagogy: <strong>Question power structures → Foster critical thinking → Connect to real life → Use dialogical method → Create just society</strong></p>
+</div>
+<hr />
+<h2 id="13-flanders-interaction-analysis-categories-fiac">1.3 Flanders Interaction Analysis Categories (FIAC)<a class="headerlink" href="#13-flanders-interaction-analysis-categories-fiac" title="Permanent link">&para;</a></h2>
+<h3 id="introduction">Introduction<a class="headerlink" href="#introduction" title="Permanent link">&para;</a></h3>
+<ul>
+<li>The development of the original system of interaction analysis was primarily the work of <strong>Ned Flanders</strong>.</li>
+<li>The system is often referred to as the <strong>Flanders System of Interaction Analysis (FIA)</strong>.</li>
+<li>It is an innovation which made possible significant insights into the <strong>analysis and improvement of instruction</strong>.</li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Definition: FIAC</p>
+<p><strong>Flanders' Interaction Analysis System</strong> is an observational tool used to <strong>classify the verbal behaviour</strong> of teachers and pupils as they interact in the classroom. It was designed for observing only the <strong>verbal communication</strong> in the classroom — non-verbal gestures are <strong>not</strong> taken into account.</p>
+</div>
+<p><strong>Key Assumptions:</strong></p>
+<ul>
+<li>It is concerned with <strong>verbal behaviour only</strong>, primarily because it can be observed with higher reliability than non-verbal behaviour.</li>
+<li>The assumption is made that the <strong>verbal behaviour of an individual is an adequate sample of his total behaviour</strong>.</li>
+</ul>
+<h3 id="the-ten-categories-of-fiac">The Ten Categories of FIAC<a class="headerlink" href="#the-ten-categories-of-fiac" title="Permanent link">&para;</a></h3>
+<p>Flanders Interaction Analysis Categories (FIAC) is a <strong>Ten Category system</strong> of communication which are said to be <strong>inclusive of all communication possibilities</strong>:</p>
+<ul>
+<li><strong>7 categories</strong> — when the <strong>teacher</strong> is talking (Teacher Talk)</li>
+<li><strong>2 categories</strong> — when the <strong>pupil</strong> is talking (Pupil Talk)</li>
+<li><strong>1 category</strong> — <strong>Silence or Confusion</strong></li>
+</ul>
+<h4 id="complete-fiac-category-table">Complete FIAC Category Table<a class="headerlink" href="#complete-fiac-category-table" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>Cat. No.</th>
+<th>Category Name</th>
+<th>Type</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td><strong>Accepts Feeling</strong></td>
+<td>Teacher Talk — Indirect Influence (Response)</td>
+<td>Accepts and clarifies an attitude or feeling tone of a pupil in a <strong>non-threatening manner</strong>. Feeling may be positive or negative. Predicting and recalling feelings are included.</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>Praises or Encourages</strong></td>
+<td>Teacher Talk — Indirect Influence (Response)</td>
+<td>Praises or encourages student action or behaviour. Jokes that release tension, but <strong>not at the expense of another individual</strong>; nodding head, saying "um hmm" or "go on" are included.</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>Accepts or Uses Ideas of Pupils</strong></td>
+<td>Teacher Talk — Indirect Influence (Response)</td>
+<td>Clarifying, building or developing ideas suggested by a pupil. Teachers' extensions of pupil ideas are included, but as teacher brings more of his own ideas into play, <strong>shift to category 5</strong>.</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td><strong>Asks Questions</strong></td>
+<td>Teacher Talk — Indirect Influence (Response)</td>
+<td>Asking a question about <strong>content or procedures</strong>; based on teacher ideas, with the intent that the pupil will answer.</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td><strong>Lecturing</strong></td>
+<td>Teacher Talk — Direct Influence (Initiation)</td>
+<td>Giving facts or opinions about content or procedures; expressing his own ideas, giving his own explanation or <strong>citing an authority other than a pupil</strong>.</td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td><strong>Giving Directions</strong></td>
+<td>Teacher Talk — Direct Influence (Initiation)</td>
+<td>Directions, commands or orders to which a student is <strong>expected to comply</strong>.</td>
+</tr>
+<tr>
+<td><strong>7</strong></td>
+<td><strong>Criticizing or Justifying Authority</strong></td>
+<td>Teacher Talk — Direct Influence (Initiation)</td>
+<td>Statements intended to change pupil behaviour from <strong>non-acceptable to acceptable pattern</strong>; bawling someone out; stating why the teacher is doing what he is doing; extreme self-references.</td>
+</tr>
+<tr>
+<td><strong>8</strong></td>
+<td><strong>Pupil-Talk — Response</strong></td>
+<td>Pupil Talk (Response)</td>
+<td>Talk by pupils <strong>in response to teacher</strong>. Teacher initiates the contact or solicits pupil statement or structures the situation. Freedom to express own ideas is <strong>limited</strong>.</td>
+</tr>
+<tr>
+<td><strong>9</strong></td>
+<td><strong>Pupil-Talk — Initiation</strong></td>
+<td>Pupil Talk (Initiation)</td>
+<td>Talk by pupils that <strong>they initiate</strong>. Expressing own ideas; initiating a new topic; freedom to develop opinions and a line of thought; asking thoughtful questions; <strong>going beyond the existing structure</strong>.</td>
+</tr>
+<tr>
+<td><strong>10</strong></td>
+<td><strong>Silence or Confusion</strong></td>
+<td>Silence</td>
+<td>Pauses, short periods of silence and periods of confusion in which <strong>communication cannot be understood</strong> by the observer.</td>
+</tr>
+</tbody>
+</table>
+<h4 id="structure-diagram">Structure Diagram<a class="headerlink" href="#structure-diagram" title="Permanent link">&para;</a></h4>
+<pre class="mermaid"><code>flowchart TB
+    subgraph TT["**TEACHER TALK (Categories 1–7)**"]
+        subgraph II["Indirect Influence (Response) — Cat. 1–4"]
+            C1["1. Accepts Feeling"]
+            C2["2. Praises or Encourages"]
+            C3["3. Accepts/Uses Ideas of Pupils"]
+            C4["4. Asks Questions"]
+        end
+        subgraph DI["Direct Influence (Initiation) — Cat. 5–7"]
+            C5["5. Lecturing"]
+            C6["6. Giving Directions"]
+            C7["7. Criticizing or Justifying Authority"]
+        end
+    end
+    subgraph PT["**PUPIL TALK (Categories 8–9)**"]
+        C8["8. Pupil-Talk — Response"]
+        C9["9. Pupil-Talk — Initiation"]
+    end
+    subgraph SC["**SILENCE (Category 10)**"]
+        C10["10. Silence or Confusion"]
+    end</code></pre>
+<div class="admonition important">
+<p class="admonition-title">Key Classification</p>
+<p>All teachers' statements are either <strong>indirect</strong> or <strong>direct</strong>. This classification gives central attention to the <strong>amount of freedom the teacher grants to the student</strong>. A teacher has a choice — he can be <strong>direct</strong> (minimizing the freedom of the student to respond) or <strong>indirect</strong>. His choice, consciously or unconsciously, depends upon his perceptions of the situation and the goals of the particular learning situation.</p>
+</div>
+<h3 id="the-coding-system">The Coding System<a class="headerlink" href="#the-coding-system" title="Permanent link">&para;</a></h3>
+<div class="admonition note">
+<p class="admonition-title">What is the Coding System?</p>
+<p>Flanders Interaction Analysis is a system for <strong>coding spontaneous verbal communication</strong>. Interaction could either be observed in a <strong>live classroom</strong> or in a <strong>tape recording</strong>.</p>
+</div>
+<p><strong>Steps for Coding:</strong></p>
+<ol>
+<li>The coding system is applied to <strong>analyse and improve</strong> the teacher-student interaction pattern.</li>
+<li>For every <strong>3 seconds</strong>, the observer writes down the <strong>category number</strong> of the interaction he has observed.</li>
+<li>He records these numbers <strong>in sequence in a column</strong>.</li>
+<li>He will write approximately <strong>20 numbers per minute</strong>.</li>
+<li>At the end of a period of time, he will have <strong>several long columns of numbers</strong>.</li>
+</ol>
+<p><strong>Guidelines for the Observer:</strong></p>
+<ul>
+<li>It is essential for the observer to spend <strong>5 to 10 minutes</strong> getting used to the situation before he/she actually begins to categorize. This enables him to have a feeling for the total atmosphere in which the teacher and pupils are working.</li>
+<li>The observer <strong>stops classifying</strong> whenever the classroom activity is changed to avoid inappropriate coding. For example, when children are working on workbooks or doing silent reading.</li>
+<li>He will usually <strong>draw a line</strong> under the recorded numbers, make a note of the new activity, and <strong>resume categorizing</strong> when the total class discussion continues.</li>
+<li>At all times, the observer notes the <strong>kind of class activity</strong> he is observing.</li>
+</ul>
+<h3 id="the-interaction-matrix">The Interaction Matrix<a class="headerlink" href="#the-interaction-matrix" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Information is plotted on a <strong>matrix</strong> for easy analysis and interpretation.</li>
+<li>The method of recording consists of entering the <strong>sequences of numbers</strong> into a <strong>10-row by 10-column table</strong>.</li>
+<li>The generalized sequence of the teacher-pupil interaction can be examined readily in this matrix.</li>
+<li>Tabulations are made in the matrix of <strong>10 × 10</strong> to represent <strong>pairs of numbers</strong>.</li>
+</ul>
+<h4 id="sample-interaction-matrix">Sample Interaction Matrix<a class="headerlink" href="#sample-interaction-matrix" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><strong>1</strong></th>
+<th><strong>2</strong></th>
+<th><strong>3</strong></th>
+<th><strong>4</strong></th>
+<th><strong>5</strong></th>
+<th><strong>6</strong></th>
+<th><strong>7</strong></th>
+<th><strong>8</strong></th>
+<th><strong>9</strong></th>
+<th><strong>10</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. Accepts Feeling</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>2. Praises or Encourages</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>3. Accepts or Uses Ideas of Pupils</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>4. Asks Questions</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>5. Lecturing</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>6. Giving Directions</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>7. Criticizing or Justifying Authority</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>8. Pupil-Talk — Response</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>9. Pupil-Talk — Initiation</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>10. Silence or Confusion</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="measures-for-analysing-patterns-of-interaction">Measures for Analysing Patterns of Interaction<a class="headerlink" href="#measures-for-analysing-patterns-of-interaction" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Measure</th>
+<th>Symbol</th>
+<th>Formula</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Teacher Talk (TT)</strong></td>
+<td>TT</td>
+<td>100 / total tallies × Σ(cat. 1+2+3+4+5+6+7)</td>
+</tr>
+<tr>
+<td><strong>Pupil Talk (PT)</strong></td>
+<td>PT</td>
+<td>100 / total tallies × Σ(cat. 8+9)</td>
+</tr>
+<tr>
+<td><strong>Silence (SC)</strong></td>
+<td>SC</td>
+<td>100 / total tallies × Σ(cat. 10)</td>
+</tr>
+<tr>
+<td><strong>Indirect-Direct Ratio (ID Ratio)</strong></td>
+<td>ID Ratio</td>
+<td>Σ(cat. 1+2+3+4) / Σ(cat. 5+6+7)</td>
+</tr>
+<tr>
+<td><strong>Positive Reinforcement Ratio</strong></td>
+<td>—</td>
+<td>Cat. 1+2+3 × 100 / Σ(cat. 1+2+3+6+7)</td>
+</tr>
+<tr>
+<td><strong>Pupil Initiation Ratio (PIR)</strong></td>
+<td>PIR</td>
+<td>Cat. 9 × 100 / Σ(cat. 8+9)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="interpreting-the-matrix">Interpreting the Matrix<a class="headerlink" href="#interpreting-the-matrix" title="Permanent link">&para;</a></h3>
+<div class="admonition note">
+<p class="admonition-title">Key Principle</p>
+<p>It is generally agreed that <strong>no classroom interaction can be ever recreated</strong>. The purpose of interaction analysis is to <strong>preserve selected aspects of interaction</strong> through observation, encoding, tabulating and then decoding.</p>
+</div>
+<h4 id="1-proportion-of-teacher-talk-pupil-talk-and-silence-or-confusion">1. Proportion of Teacher Talk, Pupil Talk, and Silence or Confusion<a class="headerlink" href="#1-proportion-of-teacher-talk-pupil-talk-and-silence-or-confusion" title="Permanent link">&para;</a></h4>
+<ul>
+<li>The proportion of tallies in <strong>columns 1, 2, 3, 4, 5, 6 and 7</strong> (Teacher Talk); <strong>columns 8, 9</strong> (Pupil Talk); and <strong>column 10</strong> (Silence/Confusion) to the total tallies indicates how much the teacher talks, the student talks, and the time spent in silence or confusion.</li>
+<li>After several years of observing, researchers anticipate an average of:<ul>
+<li><strong>68% Teacher Talk</strong></li>
+<li><strong>20% Pupil Talk</strong></li>
+<li><strong>11–12% Silence or Confusion</strong></li>
+</ul>
+</li>
+</ul>
+<h4 id="2-ratio-between-indirect-influence-and-direct-influence">2. Ratio Between Indirect Influence and Direct Influence<a class="headerlink" href="#2-ratio-between-indirect-influence-and-direct-influence" title="Permanent link">&para;</a></h4>
+<ul>
+<li>The sum of <strong>columns 1, 2, 3, 4</strong> divided by the sum of <strong>columns 5, 6, 7</strong> gives this ratio.</li>
+<li>If the ratio is <strong>more than 1</strong>, the teacher is said to be <strong>indirect</strong> in his teaching.</li>
+<li>This ratio shows whether a teacher is <strong>more direct or indirect</strong> in his teaching.</li>
+</ul>
+<h4 id="3-ratio-between-positive-reinforcement-and-negative-reinforcement">3. Ratio Between Positive Reinforcement and Negative Reinforcement<a class="headerlink" href="#3-ratio-between-positive-reinforcement-and-negative-reinforcement" title="Permanent link">&para;</a></h4>
+<ul>
+<li>The sum of <strong>columns 1, 2, 3</strong> is to be divided by the sum of <strong>columns 6, 7</strong>.</li>
+<li>If the ratio is <strong>more than 1</strong>, then the teacher is said to be <strong>good</strong>.</li>
+</ul>
+<h4 id="4-students-participation-ratio">4. Student's Participation Ratio<a class="headerlink" href="#4-students-participation-ratio" title="Permanent link">&para;</a></h4>
+<ul>
+<li>The sum of <strong>columns 8 and 9</strong> is to be divided by the <strong>total sum</strong>.</li>
+<li>The answer will reveal <strong>how much the students have participated</strong> in the teaching-learning process.</li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">Note on Category 10</p>
+<p>In most typical classroom behaviour, the <strong>10th category (Silence or Confusion)</strong> is usually observed at the <strong>beginning and/or at the end</strong> of the learning process. However, the convention in this system is to <strong>add 10 to the beginning and end</strong> of the series of numbers as observed.</p>
+</div>
+<h3 id="advantages-of-fiac">Advantages of FIAC<a class="headerlink" href="#advantages-of-fiac" title="Permanent link">&para;</a></h3>
+<ol>
+<li>The <strong>analysis of the matrix is so dependable</strong> that even a person not present when observations were made could make <strong>accurate inferences</strong> about the verbal communication and get a <strong>mental picture</strong> of the classroom interaction.</li>
+<li><strong>Different matrices</strong> can be made and used to <strong>compare the behaviour of teachers</strong> at different age levels, sex, subject-matter, etc.</li>
+<li>This analysis would serve as a <strong>vital feedback</strong> to the teacher or teacher trainee about his/her <strong>intentions and actual behaviour</strong> in the classroom.</li>
+<li>The <strong>supervising or inspecting staff</strong> can also easily follow this system.</li>
+<li>It is an <strong>effective tool to measure the social-emotional climate</strong> in the classroom.</li>
+</ol>
+<h3 id="precautions-in-the-use-of-flanders-interaction-analysis">Precautions in the Use of Flanders Interaction Analysis<a class="headerlink" href="#precautions-in-the-use-of-flanders-interaction-analysis" title="Permanent link">&para;</a></h3>
+<ol>
+<li>The classroom encoding work should be done by an <strong>observer who is familiar with the entire process</strong> and knows its limitations.</li>
+<li>It is an <strong>exploratory device</strong> — therefore, <strong>value judgments about good and bad teaching behaviours are to be avoided</strong>. This technique is <strong>not an evaluator device</strong> of classroom teaching.</li>
+<li>The questions regarding classroom teaching can <strong>only be answered by inspecting the matrix table</strong>. The observer cannot answer the question relating to teacher behaviour.</li>
+<li>The accuracy of the observation depends upon the <strong>reliability of the observer</strong>. The classroom recording should be done after <strong>estimating the reliability of observers</strong>.</li>
+<li><strong>At least two observers</strong> should code the classroom interaction for analyzing teaching and teacher behaviour.</li>
+<li>Reliability should be assessed in terms of <strong>behaviour ratios, interaction variables, and percentage of frequencies</strong> in each category.</li>
+</ol>
+<h3 id="limitations-of-flanders-interaction-analysis">Limitations of Flanders Interaction Analysis<a class="headerlink" href="#limitations-of-flanders-interaction-analysis" title="Permanent link">&para;</a></h3>
+<ol>
+<li>The system <strong>does not describe the totality</strong> of the classroom activity. Some behaviour is always overlooked — but who is to say that the unrecorded aspects of the teaching act are more important than those recorded.</li>
+<li><strong>A comparison between two matrices</strong> calls for frequency but <strong>value judgment is not possible</strong>.</li>
+<li>Efforts to describe teaching are often interpreted as <strong>evaluation of the teaching act and of the teacher</strong>. While description may be used as a basis of evaluation, evaluation can be made <strong>only after additional value assumptions are identified and applied</strong> to data.</li>
+<li>The system of interaction analysis is <strong>content-free</strong>. It is concerned primarily with <strong>social skills of classroom management</strong> as expressed through verbal communication.</li>
+<li>It is <strong>costly and cumbersome</strong> and requires some form of <strong>automation</strong> in collecting and analyzing the raw data. It is <strong>not a finished research tool</strong>.</li>
+<li>Much of the inferential power of this system comes from tabulating the data as <strong>sequence of pairs in a 10 × 10 matrix</strong>. This is a <strong>time-consuming process</strong>.</li>
+<li>Once the high cost of tedious tabulation (electric computers) is under control, the problem of <strong>training reliable observers and maintaining their reliability</strong> will still remain.</li>
+<li>Its potential as a <strong>research tool for wide application</strong> to problems is yet to be explored.</li>
+</ol>
+<div class="admonition tip">
+<p class="admonition-title">Exam Summary: FIAC at a Glance</p>
+<ul>
+<li><strong>Developer:</strong> Ned Flanders</li>
+<li><strong>Purpose:</strong> Classify verbal behaviour of teachers and pupils</li>
+<li><strong>Categories:</strong> 10 (7 Teacher Talk + 2 Pupil Talk + 1 Silence)</li>
+<li><strong>Coding:</strong> Every 3 seconds, ~20 numbers/minute</li>
+<li><strong>Matrix:</strong> 10 × 10 table of paired sequences</li>
+<li><strong>Key Ratios:</strong> TT%, PT%, SC%, ID Ratio, PIR</li>
+<li><strong>Average Split:</strong> 68% Teacher Talk, 20% Pupil Talk, 12% Silence</li>
+<li><strong>Limitation:</strong> Verbal only, content-free, time-consuming</li>
+</ul>
+</div>
+<hr />
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.sections", "navigation.expand", "navigation.top", "toc.integrate", "search.suggest", "search.highlight", "content.tabs.link"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>

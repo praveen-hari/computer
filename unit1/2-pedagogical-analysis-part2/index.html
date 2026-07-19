@@ -1,0 +1,2522 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="MkDocs-ready exam preparation notes for Pedagogy of Computer Science">
+      
+      
+      
+      
+        <link rel="prev" href="../1-pedagogical-analysis-part1/">
+      
+      
+        <link rel="next" href="../3-pedagogical-analysis-part3/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>Part 2: Topics 1.4 - 1.7 - Pedagogy of Computer Science - Exam Notes</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#1-pedagogical-analysis-part-2" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Pedagogy of Computer Science - Exam Notes" class="md-header__button md-logo" aria-label="Pedagogy of Computer Science - Exam Notes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Pedagogy of Computer Science - Exam Notes
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Part 2: Topics 1.4 - 1.7
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../1-pedagogical-analysis-part1/" class="md-tabs__link">
+          
+  
+  
+  Unit 1 - Pedagogical Analysis
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../unit2/1-teaching-models-part1/" class="md-tabs__link">
+          
+  
+  
+  Unit 2 - Teaching Models
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../unit3/1-activity-based-instruction/" class="md-tabs__link">
+          
+  
+  
+  Unit 3 - Activity Based & Group Controlled Instruction
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../unit4/1-resource-based-learning-part1/" class="md-tabs__link">
+          
+  
+  
+  Unit 4 - Resource Based Learning
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../unit5/1-assessment-part1/" class="md-tabs__link">
+          
+  
+  
+  Unit 5 - Assessment in Pedagogy of CS
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../unit5/3-assessment-part3/" class="md-tabs__link">
+          
+  
+  
+  Unit 5 - Assessment in Pedagogy of CS
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Pedagogy of Computer Science - Exam Notes" class="md-nav__button md-logo" aria-label="Pedagogy of Computer Science - Exam Notes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Pedagogy of Computer Science - Exam Notes
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Unit 1 - Pedagogical Analysis
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Unit 1 - Pedagogical Analysis
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../1-pedagogical-analysis-part1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 1: Topics 1.1 - 1.3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 2: Topics 1.4 - 1.7
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 2: Topics 1.4 - 1.7
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#topics-14-17" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Topics: 1.4 - 1.7
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#14-computer-based-teaching-model-daniel-davis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1.4 Computer Based Teaching Model (Daniel Davis)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1.4 Computer Based Teaching Model (Daniel Davis)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#key-features-of-cbtm" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Key Features of CBTM
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historical-background" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Historical Background
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#role-of-teacher-in-teaching" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Role of Teacher in Teaching
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#15-the-charles-galloway-system-of-interaction-analysis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1.5 The Charles Galloway System of Interaction Analysis
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1.5 The Charles Galloway System of Interaction Analysis">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Introduction
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#importance-of-the-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Importance of the System
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#categories-of-behaviour" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Categories of Behaviour
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#category-wise-verbal-and-non-verbal-behaviour" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Category-wise Verbal and Non-Verbal Behaviour
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#classification-of-categories" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Classification of Categories
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#assumptions-of-charles-galloway-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Assumptions of Charles Galloway System
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#communication-skill" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Communication Skill
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#classification-of-communication" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Classification of Communication
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Classification of Communication">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#i-verbal-communication-strategy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (i) Verbal Communication Strategy
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ii-non-verbal-communication-strategy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (ii) Non-Verbal Communication Strategy
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#important-modes-of-non-verbal-communication" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Important Modes of Non-Verbal Communication
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Important Modes of Non-Verbal Communication">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-facial-expressions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Facial Expressions
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-language-of-eye" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Language of Eye
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-body-language-gestures-postures-movements" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Body Language (Gestures, Postures, Movements)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-sound-symbols" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Sound Symbols
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-symbolic-code-language" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5. Symbolic Code Language
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#16-steps-in-pedagogical-analysis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1.6 Steps in Pedagogical Analysis
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1.6 Steps in Pedagogical Analysis">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#meaning-of-pedagogical-analysis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Meaning of Pedagogical Analysis
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nature-of-teaching" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Nature of Teaching
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#components-of-pedagogical-analysis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Components of Pedagogical Analysis
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#four-fold-activities-of-pedagogical-analysis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Four-Fold Activities of Pedagogical Analysis
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#i-unit-analysis-content-analysis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (I) Unit Analysis / Content Analysis
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ii-formulation-of-objectives" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (II) Formulation of Objectives
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#iii-learning-experiences-and-chosen-method" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (III) Learning Experiences and Chosen Method
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#iv-evaluation-device" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (IV) Evaluation Device
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#17-five-pedagogical-approaches" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1.7 Five Pedagogical Approaches
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1.7 Five Pedagogical Approaches">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#overview-of-five-pedagogical-approaches" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Overview of Five Pedagogical Approaches
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#1-constructivist-approach" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Constructivist Approach
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-collaborative-approach" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Collaborative Approach
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-inquiry-based-approach" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Inquiry-Based Approach
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-integrative-approach" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Integrative Approach
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-reflective-approach" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5. Reflective Approach
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#conclusion-on-pedagogical-approaches" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Conclusion on Pedagogical Approaches
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../3-pedagogical-analysis-part3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 3: Topics 1.8 - 1.11
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Unit 2 - Teaching Models
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Unit 2 - Teaching Models
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit2/1-teaching-models-part1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 1: Topics 2.1 - 2.3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit2/2-teaching-models-part2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 2: Topics 2.4 - 2.7
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit2/3-teaching-models-part3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 3: Topics 2.8 - 2.11
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Unit 3 - Activity Based & Group Controlled Instruction
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Unit 3 - Activity Based & Group Controlled Instruction
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit3/1-activity-based-instruction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 1: Topics 3.1.1 - 3.1.5 — Activity Based Instructions
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit3/2-group-controlled-instruction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 2: Topics 3.2.1 - 3.2.8 — Group Controlled Instruction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit3/3-activities-and-assessment/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 3: Topics 3.3 - 3.4 — Activities & Assessment
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Unit 4 - Resource Based Learning
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Unit 4 - Resource Based Learning
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit4/1-resource-based-learning-part1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 1: Topics 4.1 - 4.6 — Resources & Classification
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit4/2-resource-based-learning-part2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 2: Topics 4.7 - 4.8 — Non-Projected & Projected Resources
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit4/3-resource-based-learning-part3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 3: Topics 4.9 - 4.11 — Users, RBL & Assessment
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Unit 5 - Assessment in Pedagogy of CS
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Unit 5 - Assessment in Pedagogy of CS
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit5/1-assessment-part1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 1: Topics 5.1 - 5.4 — Evaluation, Tests & Achievement Test
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit5/2-assessment-part2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 2: Topics 5.5 - 5.8 — Feedback, Portfolio, Rubrics & Competency
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit5/3-assessment-part3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 3: Topics 5.9 - 5.13 — CAL, Automatic Assessment & ICT
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Unit 5 - Assessment in Pedagogy of CS
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Unit 5 - Assessment in Pedagogy of CS
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../unit5/3-assessment-part3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 3: Topics 5.9 - 5.13 — CAL, Automatic Assessment & ICT
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="1-pedagogical-analysis-part-2">1. PEDAGOGICAL ANALYSIS (Part 2)<a class="headerlink" href="#1-pedagogical-analysis-part-2" title="Permanent link">&para;</a></h1>
+<h2 id="topics-14-17">Topics: 1.4 - 1.7<a class="headerlink" href="#topics-14-17" title="Permanent link">&para;</a></h2>
+<hr />
+<h2 id="14-computer-based-teaching-model-daniel-davis">1.4 Computer Based Teaching Model (Daniel Davis)<a class="headerlink" href="#14-computer-based-teaching-model-daniel-davis" title="Permanent link">&para;</a></h2>
+<div class="admonition note">
+<p class="admonition-title">Context</p>
+<p>The <strong>Computer-Based Teaching Module (CBTM)</strong> has recently gained prominence in medical education. It is a teaching format in which a <strong>multimedia program</strong> serves as a <strong>single source for knowledge acquisition</strong> rather than playing an adjunctive role as it does in Computer-Assisted Learning (CAL).</p>
+</div>
+<h3 id="key-features-of-cbtm">Key Features of CBTM<a class="headerlink" href="#key-features-of-cbtm" title="Permanent link">&para;</a></h3>
+<ul>
+<li>It is the <strong>most complicated model</strong> of teaching.</li>
+<li>It has the following <strong>fundamental elements</strong>:<ol>
+<li><strong>Entering behaviour</strong> (pre-existing knowledge of the student)</li>
+<li><strong>Determination of objectives</strong></li>
+<li><strong>Teaching aspects</strong></li>
+</ol>
+</li>
+<li>In this model, a <strong>computer teaching plan</strong> is selected according to the <strong>entering behaviour</strong> and <strong>instructional objectives</strong>.</li>
+<li>The <strong>performances of the student are evaluated</strong>.</li>
+<li>Accordingly, an <strong>alternative teaching plan</strong> is presented if needed.</li>
+<li><strong>Diagnosis and teaching go side by side</strong> — remedial teaching is provided on the basis of diagnosis.</li>
+<li><strong>Individual differences</strong> are also given importance.</li>
+</ul>
+<h3 id="historical-background">Historical Background<a class="headerlink" href="#historical-background" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Computer-Based Instruction (CBI)</strong>, also commonly referred to as <strong>Computer Assisted Instruction (CAI)</strong>, was introduced during the <strong>1950s</strong>.</li>
+<li>The pioneers of the movement were a team of researchers at <strong>IBM</strong>, including <strong>Gordon Pask</strong> and <strong>O. M. Moore</strong>.</li>
+</ul>
+<pre class="mermaid"><code>flowchart TD
+    A[Entering Behaviour] --&gt; B[Determination of Objectives]
+    B --&gt; C[Computer Selects Teaching Plan]
+    C --&gt; D[Teaching / Instruction]
+    D --&gt; E[Student Performance Evaluation]
+    E --&gt;|Satisfactory| F[Move to Next Objective]
+    E --&gt;|Not Satisfactory| G[Diagnosis of Weakness]
+    G --&gt; H[Alternative Teaching Plan / Remedial Teaching]
+    H --&gt; D</code></pre>
+<div class="admonition important">
+<p class="admonition-title">Key Points for Exams</p>
+<ul>
+<li>CBTM is the <strong>most complicated</strong> teaching model.</li>
+<li>It integrates <strong>diagnosis + teaching</strong> simultaneously.</li>
+<li><strong>Remedial teaching</strong> is based on diagnosis.</li>
+<li><strong>Individual differences</strong> are considered.</li>
+<li>Introduced in the <strong>1950s</strong> by researchers at <strong>IBM</strong> (Gordon Pask &amp; O. M. Moore).</li>
+</ul>
+</div>
+<h3 id="role-of-teacher-in-teaching">Role of Teacher in Teaching<a class="headerlink" href="#role-of-teacher-in-teaching" title="Permanent link">&para;</a></h3>
+<ul>
+<li>The process of <strong>modifying the behaviour</strong> of a student can be a <strong>conscious and deliberate effort</strong> by the teacher through <strong>communication and knowledge</strong>.</li>
+<li><strong>Modification of behaviour</strong> is done through <strong>interactions</strong> in the teaching-learning process.</li>
+<li><strong>Teacher is the pivotal point</strong> and the heart of the matter.</li>
+<li>Education takes place through the <strong>interaction between the teacher and the taught</strong>.</li>
+<li>Teacher is the <strong>maker of man</strong> — he trains the mind, cultivates the manners, and shapes the morals of members of the community.</li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">Nature of Teaching</p>
+<ul>
+<li>Teaching is a <strong>complex / many-sided activity</strong> consisting of a number of <strong>verbal and non-verbal acts</strong> like questioning, explaining, drawing, rewarding, smiling, nodding, movements, etc.</li>
+<li>The complex task of teaching has been <strong>analyzed into limited but well-defined components</strong> called <strong>teaching skills</strong>.</li>
+<li>The <strong>systematic observation</strong> of teacher behaviour and interaction in the classroom can be studied through various <strong>feedback devices</strong> and <strong>interaction analysis techniques</strong>.</li>
+</ul>
+</div>
+<hr />
+<h2 id="15-the-charles-galloway-system-of-interaction-analysis">1.5 The Charles Galloway System of Interaction Analysis<a class="headerlink" href="#15-the-charles-galloway-system-of-interaction-analysis" title="Permanent link">&para;</a></h2>
+<h3 id="introduction">Introduction<a class="headerlink" href="#introduction" title="Permanent link">&para;</a></h3>
+<ul>
+<li>In a <strong>category system</strong>, teacher behaviour is first divided into <strong>various units</strong>.</li>
+<li>A <strong>behaviour unit</strong> is then classified into <strong>categories</strong>.</li>
+<li>At <strong>regular intervals</strong> of the observation period, the category is observed.</li>
+<li>The <strong>Charles Galloway System of Interaction Analysis</strong> represents a good example of the <strong>category interaction analysis</strong>.</li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Developer</p>
+<p>This system was developed by <strong>Charles Galloway</strong> in the form of a <strong>teachers' training technique</strong>. It is basically a <strong>category type system</strong> involving <strong>categorization of all sets of possible verbal and non-verbal behaviour</strong> of a teacher in the classroom while interacting with students.</p>
+</div>
+<h3 id="importance-of-the-system">Importance of the System<a class="headerlink" href="#importance-of-the-system" title="Permanent link">&para;</a></h3>
+<ul>
+<li>The <strong>teacher is the important figure</strong> in his pedagogical analysis since his behaviour is one of the <strong>most important factors</strong> in producing <strong>communication and subsequent interactions</strong>.</li>
+<li>This system provides a <strong>unique approach</strong> to a more <strong>complete analysis of interaction</strong> in the classroom.</li>
+<li>It combines both <strong>verbal and non-verbal dimensions</strong> of teacher behaviour.</li>
+</ul>
+<h3 id="categories-of-behaviour">Categories of Behaviour<a class="headerlink" href="#categories-of-behaviour" title="Permanent link">&para;</a></h3>
+<p>In total there are:</p>
+<ul>
+<li><strong>10 categories of verbal behaviour</strong></li>
+<li><strong>10 categories of non-verbal behaviour</strong></li>
+</ul>
+<p>These are divided into <strong>three major sections</strong>:</p>
+<ol>
+<li><strong>(a) Teacher Talk</strong></li>
+<li><strong>(b) Student Talk</strong></li>
+<li><strong>(c) Silence or Confusion</strong></li>
+</ol>
+<h3 id="category-wise-verbal-and-non-verbal-behaviour">Category-wise Verbal and Non-Verbal Behaviour<a class="headerlink" href="#category-wise-verbal-and-non-verbal-behaviour" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Category No.</th>
+<th>Verbal Behaviour</th>
+<th>Non-Verbal Behaviour</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>1</strong></td>
+<td>Accepts students' feelings</td>
+<td>Congruent — Incongruent</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2</strong></td>
+<td>Praises or Encourages</td>
+<td>Congruent — Incongruent</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>3</strong></td>
+<td>Uses students' ideas</td>
+<td>Implement — Perfunctory</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>4</strong></td>
+<td>Asks questions</td>
+<td>Personal — Impersonal</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>5</strong></td>
+<td>Lectures — gives information</td>
+<td>Responsive — Unresponsive</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>6</strong></td>
+<td>Gives directions</td>
+<td>Involve — Dismiss</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>7</strong></td>
+<td>Criticizes or justifies authority</td>
+<td>Involve — Dismiss</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>8</strong></td>
+<td>Student Talk (Response)</td>
+<td>Receptive — Inattentive</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>9</strong></td>
+<td>Student Talk (Initiated)</td>
+<td>Receptive — Inattentive</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>10</strong></td>
+<td>Silence or Confusion</td>
+<td>Comfort — Distress</td>
+</tr>
+</tbody>
+</table>
+<h3 id="classification-of-categories">Classification of Categories<a class="headerlink" href="#classification-of-categories" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Category Numbers</th>
+<th>Classification</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>1–4</strong></td>
+<td>Indirect Teacher Talk</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>5–7</strong></td>
+<td>Direct Teacher Talk</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>8–9</strong></td>
+<td>Student Talk</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>10</strong></td>
+<td>Silence or Confusion</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition important">
+<p class="admonition-title">Non-Verbal Cues</p>
+<p>In this system, relevance to the <strong>non-verbal cues</strong> is given along with the verbal behaviour, as teachers convey information to students through non-verbal cues. These cues can be either <strong>spontaneous or managed</strong> and facilitate any effort to <strong>understand others and to be understood</strong>.</p>
+</div>
+<h3 id="assumptions-of-charles-galloway-system">Assumptions of Charles Galloway System<a class="headerlink" href="#assumptions-of-charles-galloway-system" title="Permanent link">&para;</a></h3>
+<p>The assumptions of the Charles Galloway System are as follows:</p>
+<ol>
+<li><strong>Non-verbal communication</strong> of a teacher has a <strong>significant role</strong> in classroom interaction.</li>
+<li>As one <strong>cannot see when he/she behaves</strong>, a <strong>feedback is necessary</strong> for the behaviour.</li>
+<li>The <strong>non-verbal cues are important</strong>, as they can <strong>reinforce and motivate</strong> a student.</li>
+<li><strong>Non-verbal communication</strong> can be <strong>more effective</strong> during interaction in the classroom.</li>
+<li>Becoming <strong>aware of non-verbal events</strong> occurring around us, one can achieve a <strong>better understanding of himself</strong>.</li>
+<li><strong>Training of teachers</strong> enhances the aspect of <strong>non-verbal communication</strong> in teachers.</li>
+<li>The system is based upon the <strong>theory of modification of the teacher's behaviour</strong>.</li>
+</ol>
+<pre class="mermaid"><code>flowchart TD
+    A[Charles Galloway System] --&gt; B[Verbal Behaviour&lt;br&gt;10 Categories]
+    A --&gt; C[Non-Verbal Behaviour&lt;br&gt;10 Categories]
+    B --&gt; D[Teacher Talk&lt;br&gt;Categories 1-7]
+    B --&gt; E[Student Talk&lt;br&gt;Categories 8-9]
+    B --&gt; F[Silence/Confusion&lt;br&gt;Category 10]
+    D --&gt; G[Indirect Talk&lt;br&gt;Cat. 1-4]
+    D --&gt; H[Direct Talk&lt;br&gt;Cat. 5-7]
+    C --&gt; I[Congruent/Incongruent]
+    C --&gt; J[Responsive/Unresponsive]
+    C --&gt; K[Receptive/Inattentive]
+    C --&gt; L[Comfort/Distress]</code></pre>
+<hr />
+<h3 id="communication-skill">Communication Skill<a class="headerlink" href="#communication-skill" title="Permanent link">&para;</a></h3>
+<div class="admonition note">
+<p class="admonition-title">Definition</p>
+<p>The term <strong>communication</strong> has been derived from the Latin word <strong>"Communis"</strong> meaning <strong>"Common"</strong>.</p>
+</div>
+<blockquote>
+<p><strong>"Communication is a process of sharing or exchanging experiences, information, ideas, opinions, sentiments, thoughts and feelings etc. between the source of communication and the receiver through some mutually agreeable or known media (verbal or non-verbal)."</strong></p>
+<p><strong>Communication Skill</strong> could be defined as — <em>"We all use language to communicate, to express ourselves, to get our ideas across and to connect with the person to whom we are speaking. When a relationship is working, the act of communicating seems to flow relatively effortlessly. When a relationship is deteriorating, the act of communicating can be as frustrating as climbing a hill of sand."</em> — <strong>Chip Rose</strong>, Attorney and Mediator</p>
+</blockquote>
+<h3 id="classification-of-communication">Classification of Communication<a class="headerlink" href="#classification-of-communication" title="Permanent link">&para;</a></h3>
+<p>Communication can be broadly classified into <strong>two categories</strong>:</p>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Verbal Communication</strong></td>
+<td>Communication strategies in which both <strong>oral and written form</strong> of language is used</td>
+</tr>
+<tr>
+<td><strong>Non-Verbal Communication</strong></td>
+<td>Communication of feelings and thoughts through <strong>non-verbal means</strong> with or without making use of any verbal or written language</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h4 id="i-verbal-communication-strategy">(i) Verbal Communication Strategy<a class="headerlink" href="#i-verbal-communication-strategy" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Language</strong> is the <strong>key and base</strong> of any verbal communication.</li>
+<li>The use of language can take one of <strong>three forms</strong>:</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Form</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>Oral</strong></td>
+<td>Spoken language</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Written</strong></td>
+<td>Written language</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Oral + Written</strong></td>
+<td>Combined use of both</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>In classroom communication, a teacher writes on the <strong>blackboard</strong> and also makes use of language for <strong>explanation and exposition</strong> of the written contents.</li>
+<li>Oral form combined with written form of communication <strong>always proves more effective</strong> than any of these forms used separately.</li>
+</ul>
+<hr />
+<h4 id="ii-non-verbal-communication-strategy">(ii) Non-Verbal Communication Strategy<a class="headerlink" href="#ii-non-verbal-communication-strategy" title="Permanent link">&para;</a></h4>
+<div class="admonition note">
+<p class="admonition-title">Definition</p>
+<p><strong>Non-Verbal Communication</strong> refers to <em>"all external stimuli other than spoken or written words and including body motion, characteristics of appearance, characteristics of voice and use of space and distancing."</em> All these non-verbal cues taken together are known as <strong>body language</strong>.</p>
+</div>
+<ul>
+<li>Communication process can also be carried out <strong>without the use of any verbal means</strong> (written or spoken language).</li>
+<li>In normal situations, non-verbal media is generally used for <strong>lending strength and effectiveness</strong> to the verbal communication.</li>
+</ul>
+<h3 id="important-modes-of-non-verbal-communication">Important Modes of Non-Verbal Communication<a class="headerlink" href="#important-modes-of-non-verbal-communication" title="Permanent link">&para;</a></h3>
+<h4 id="1-facial-expressions">1. Facial Expressions<a class="headerlink" href="#1-facial-expressions" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Face and facial expressions may be said to be a <strong>true index of one's emotional and thinking behaviour</strong>.</li>
+<li>When one is <strong>perturbed</strong>, his face gives the identity of the level of his <strong>anxiety and stress</strong>.</li>
+<li>When one is in <strong>happy mood or joyful</strong>, his/her facial expression conveys the same to others.</li>
+<li>Facial expressions are one of the <strong>most important modes</strong> of non-verbal communication.</li>
+</ul>
+<h4 id="2-language-of-eye">2. Language of Eye<a class="headerlink" href="#2-language-of-eye" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Eyes, in a very <strong>forceful way</strong>, may convey all what is intended to be communicated.</li>
+<li><strong>Eye to eye contact</strong> forms the very basis of <strong>effective communication</strong>.</li>
+<li>In the classroom, the necessary <strong>interaction links</strong> between teacher and pupils are mostly maintained through <strong>eye language</strong>.</li>
+<li>The eye contact of a teacher with pupil may <strong>encourage or discourage</strong> giving response.</li>
+</ul>
+<h4 id="3-body-language-gestures-postures-movements">3. Body Language (Gestures, Postures, Movements)<a class="headerlink" href="#3-body-language-gestures-postures-movements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Our body has an impressive capacity for <strong>communicating our feelings, thoughts and actions</strong>.</li>
+<li>It includes various <strong>gestures, postures and movements</strong> of body parts.</li>
+<li>It could be effectively used by teachers and pupils in the classroom for <strong>healthy interaction</strong> in all types of teaching-learning situations.</li>
+</ul>
+<h4 id="4-sound-symbols">4. Sound Symbols<a class="headerlink" href="#4-sound-symbols" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Many of the <strong>sound symbols and vocal cues</strong> also prove an effective medium for the desired communication.</li>
+<li>For example, when a teacher narrates or explains something and the student responds simply by uttering the sound <strong>"hunch-hunch"</strong>, it may work well for <strong>maintaining communication</strong>.</li>
+</ul>
+<h4 id="5-symbolic-code-language">5. Symbolic Code Language<a class="headerlink" href="#5-symbolic-code-language" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Special <strong>code language</strong> prepared with the help of various <strong>gestures, postures and body movements</strong>.</li>
+<li>Can be used for <strong>communicating with deaf and dumb</strong>.</li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">Sub-skills of Communication</p>
+<p>Communication is a <strong>specialised skill</strong> consisting of sub-skills:</p>
+<ol>
+<li><strong>Active Listening</strong></li>
+<li><strong>Speaking</strong></li>
+<li><strong>Reading</strong></li>
+<li><strong>Writing</strong></li>
+</ol>
+</div>
+<table>
+<thead>
+<tr>
+<th>Mode of Non-Verbal Communication</th>
+<th>Key Feature</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Facial Expressions</strong></td>
+<td>True index of emotional and thinking behaviour</td>
+</tr>
+<tr>
+<td><strong>Language of Eye</strong></td>
+<td>Basis of effective communication; eye contact</td>
+</tr>
+<tr>
+<td><strong>Body Language</strong></td>
+<td>Gestures, postures, movements of body parts</td>
+</tr>
+<tr>
+<td><strong>Sound Symbols</strong></td>
+<td>Vocal cues like "hunch-hunch"</td>
+</tr>
+<tr>
+<td><strong>Symbolic Code Language</strong></td>
+<td>Gestures/postures for communicating with deaf and dumb</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="16-steps-in-pedagogical-analysis">1.6 Steps in Pedagogical Analysis<a class="headerlink" href="#16-steps-in-pedagogical-analysis" title="Permanent link">&para;</a></h2>
+<h3 id="meaning-of-pedagogical-analysis">Meaning of Pedagogical Analysis<a class="headerlink" href="#meaning-of-pedagogical-analysis" title="Permanent link">&para;</a></h3>
+<div class="admonition note">
+<p class="admonition-title">Definition</p>
+<p>Generally, the term <strong>pedagogy</strong> means the <strong>art as well as science of teaching method</strong>. The <strong>science</strong> deals with <strong>effectiveness of teaching</strong> and <strong>art</strong> relates to <strong>artistry</strong>. Similarly, the knowledge of teaching is achieved by <strong>practice and experience</strong> in the classroom.</p>
+</div>
+<blockquote>
+<p><strong>Pedagogical Analysis</strong> is the <strong>scientific and analytical study of teaching a topic</strong>. The sole objective of pedagogical analysis is to make the teaching-learning process more <strong>scientific, effective and impressive</strong>.</p>
+</blockquote>
+<h3 id="nature-of-teaching">Nature of Teaching<a class="headerlink" href="#nature-of-teaching" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Teaching is a <strong>complex phenomenon</strong> as its nature is <strong>artistic and scientific</strong>.</li>
+<li>Individuals can teach in their own way.</li>
+<li><strong>Imagination indicates</strong> and one can adopt <strong>analytic explanation</strong>.</li>
+<li>It involves <strong>bifurcating a topic into units and sub-units</strong> and other smaller units.</li>
+</ul>
+<h3 id="components-of-pedagogical-analysis">Components of Pedagogical Analysis<a class="headerlink" href="#components-of-pedagogical-analysis" title="Permanent link">&para;</a></h3>
+<p>Pedagogical Analysis is based on <strong>four essential pillars</strong> along with their <strong>relationships and interdependence</strong>, considered essential in the <strong>effective teaching-learning process</strong>.</p>
+<pre class="mermaid"><code>flowchart TD
+    A[Pedagogical Analysis] --&gt; B["Instructional Objectives&lt;br&gt;(Why to Teach)"]
+    A --&gt; C["Content Analysis&lt;br&gt;(What to Teach)"]
+    A --&gt; D["Learning Experience &amp;&lt;br&gt;Chosen Method&lt;br&gt;(How to Teach)"]
+    A --&gt; E["Evaluation Device&lt;br&gt;(What is Achieved /&lt;br&gt;Selection of Evaluation Device)"]</code></pre>
+<h3 id="four-fold-activities-of-pedagogical-analysis">Four-Fold Activities of Pedagogical Analysis<a class="headerlink" href="#four-fold-activities-of-pedagogical-analysis" title="Permanent link">&para;</a></h3>
+<div class="admonition important">
+<p class="admonition-title">Important</p>
+<p>To make the teaching-learning process more <strong>effective, systematic, scientific and impressive</strong>, we have to carry out these different activities of pedagogical analysis.</p>
+</div>
+<hr />
+<h3 id="i-unit-analysis-content-analysis">(I) Unit Analysis / Content Analysis<a class="headerlink" href="#i-unit-analysis-content-analysis" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Unit</strong> means a topic and <strong>analysis</strong> means dividing it into parts.</li>
+<li>Content analysis is <strong>not an easy task</strong>.</li>
+<li>In doing content analysis, a teacher should have <strong>sound knowledge</strong> of:<ul>
+<li><strong>Content</strong></li>
+<li><strong>Techniques</strong></li>
+<li><strong>Teaching maxims</strong></li>
+<li><strong>Nature of the subject matter</strong></li>
+</ul>
+</li>
+<li>Before teaching, a teacher has to <strong>divide the topic into smaller parts/units</strong>.</li>
+<li>During the time of dividing units into smaller and simpler sub-units, the teacher has to <strong>identify and write down teaching points</strong>.</li>
+<li>At the time of selecting teaching points, a teacher has to be:<ul>
+<li><strong>Vigilant</strong></li>
+<li><strong>Careful</strong></li>
+<li><strong>Skilful</strong></li>
+<li><strong>Intelligent</strong></li>
+<li><strong>Systematic in approach</strong></li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="ii-formulation-of-objectives">(II) Formulation of Objectives<a class="headerlink" href="#ii-formulation-of-objectives" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Pedagogical Analysis is the <strong>systematic and scientific analysis</strong> of the teaching and the content.</li>
+<li>A teacher has to formulate the <strong>instructional objectives in behavioural terms</strong> because the instructional objectives are the <strong>learning outcomes</strong>.</li>
+<li>It is the <strong>end product</strong> of the teaching-learning process.</li>
+<li><strong>Learning is change in behaviour</strong> — in <strong>Cognitive, Affective or Psychomotor domains</strong>.</li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">Teachers Should Know</p>
+<ul>
+<li><strong>Bloom's Taxonomy</strong> of teaching-learning objectives</li>
+<li><strong>Robert Mager's approach</strong></li>
+<li><strong>Robert Millar's approach</strong></li>
+<li><strong>RCEM approach</strong></li>
+<li>Good knowledge of <strong>psychological and educational principles</strong> of teaching-learning process</li>
+</ul>
+</div>
+<hr />
+<h3 id="iii-learning-experiences-and-chosen-method">(III) Learning Experiences and Chosen Method<a class="headerlink" href="#iii-learning-experiences-and-chosen-method" title="Permanent link">&para;</a></h3>
+<ul>
+<li>After confirming <strong>what to teach</strong> (subject matter) and <strong>why to teach</strong> (instructional objectives), the teacher has to choose the <strong>best methods, maxims, techniques, tactics, strategies and approaches</strong> to teach the particular subject matter.</li>
+<li>The teacher should have <strong>clear knowledge</strong> about pedagogy and the knowledge of using <strong>audio-visual aids</strong> effectively.</li>
+<li>For example, an English teacher has to select suitable methods:<ul>
+<li><strong>Direct Method</strong></li>
+<li><strong>Bilingual Method</strong></li>
+<li><strong>Translation Method</strong></li>
+<li>And the <strong>best approach</strong> for properly achieving learning outcomes.</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="iv-evaluation-device">(IV) Evaluation Device<a class="headerlink" href="#iv-evaluation-device" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Evaluation</strong> is the measurement of <strong>desired changes in the behaviour</strong> of the students.</li>
+<li>The total <strong>behavioural outcomes</strong> are measured with the help of <strong>evaluation devices</strong>.</li>
+<li><strong>Right evaluation is a tedious job</strong> — it requires a lot of <strong>skills and knowledge</strong> on the part of the teacher.</li>
+<li>After having taught the lesson, the teacher attempts to know <strong>how effective his teaching was</strong>.</li>
+</ul>
+<p><strong>Evaluation at the end of the lesson includes two aspects:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Aspect</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>(i) Recapitulation</strong></td>
+<td>The teacher asks certain questions on the basis of the lesson just taught. Questions may be asked from the whole class and evaluated.</td>
+</tr>
+<tr>
+<td><strong>(ii) Home Work</strong></td>
+<td>Assignments given after the lesson for reinforcement and practice.</td>
+</tr>
+</tbody>
+</table>
+<pre class="mermaid"><code>flowchart LR
+    A["(I) Content Analysis&lt;br&gt;What to Teach"] --&gt; B["(II) Formulation of Objectives&lt;br&gt;Why to Teach"]
+    B --&gt; C["(III) Learning Experiences&lt;br&gt;&amp; Chosen Method&lt;br&gt;How to Teach"]
+    C --&gt; D["(IV) Evaluation Device&lt;br&gt;What is Achieved"]
+    D --&gt;|Feedback| A</code></pre>
+<div class="admonition important">
+<p class="admonition-title">Summary Table: Four-Fold Activities</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Activity</th>
+<th>Key Question</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>(I) Unit/Content Analysis</strong></td>
+<td>What to teach?</td>
+<td>Dividing topic into units, sub-units, teaching points</td>
+</tr>
+<tr>
+<td><strong>(II) Formulation of Objectives</strong></td>
+<td>Why to teach?</td>
+<td>Behavioural objectives — Cognitive, Affective, Psychomotor</td>
+</tr>
+<tr>
+<td><strong>(III) Learning Experiences &amp; Method</strong></td>
+<td>How to teach?</td>
+<td>Methods, maxims, techniques, audio-visual aids</td>
+</tr>
+<tr>
+<td><strong>(IV) Evaluation Device</strong></td>
+<td>What is achieved?</td>
+<td>Recapitulation, homework, measuring behavioural outcomes</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="17-five-pedagogical-approaches">1.7 Five Pedagogical Approaches<a class="headerlink" href="#17-five-pedagogical-approaches" title="Permanent link">&para;</a></h2>
+<div class="admonition note">
+<p class="admonition-title">Introduction</p>
+<p><strong>Pedagogy</strong> or teaching students is the very basic function of teachers. It is their primary concern. They use tools like <strong>books, visuals</strong> and several types of <strong>teaching materials and instruments</strong>. Teaching has, of late, become a <strong>technology</strong> and not just any other work. For effective teaching, teachers must adopt <strong>5 pedagogical approaches</strong> to enable students to learn better.</p>
+</div>
+<h3 id="overview-of-five-pedagogical-approaches">Overview of Five Pedagogical Approaches<a class="headerlink" href="#overview-of-five-pedagogical-approaches" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">No.</th>
+<th>Approach</th>
+<th>Core Idea</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td><strong>Constructivist Approach</strong></td>
+<td>Learning by active knowledge construction</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td><strong>Collaborative Approach</strong></td>
+<td>Learning together by sharing skills and knowledge</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td><strong>Inquiry-Based Approach</strong></td>
+<td>Learning by asking questions and research</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td><strong>Integrative Approach</strong></td>
+<td>Connected, cross-curricular learning</td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td><strong>Reflective Approach</strong></td>
+<td>Teaching by thinking, analysing and improving methods</td>
+</tr>
+</tbody>
+</table>
+<pre class="mermaid"><code>flowchart TD
+    A[Five Pedagogical Approaches] --&gt; B[1. Constructivist Approach]
+    A --&gt; C[2. Collaborative Approach]
+    A --&gt; D[3. Inquiry-Based Approach]
+    A --&gt; E[4. Integrative Approach]
+    A --&gt; F[5. Reflective Approach]
+    B --&gt; B1[Active knowledge construction]
+    C --&gt; C1[Joint learning &amp; sharing]
+    D --&gt; D1[Questions, problems &amp; research]
+    E --&gt; E1[Integrated cross-curricular study]
+    F --&gt; F1[Thinking, analysing &amp; improving]</code></pre>
+<hr />
+<h3 id="1-constructivist-approach">1. Constructivist Approach<a class="headerlink" href="#1-constructivist-approach" title="Permanent link">&para;</a></h3>
+<ul>
+<li>This is based on <strong>constructivist learning theory</strong>.</li>
+<li>It is based on the theory that <strong>learning occurs only when learners are actively involved</strong> in the process of <strong>knowledge construction</strong>.</li>
+<li>As opposed to <strong>passively receiving information</strong>, learners are <strong>makers of meaning and knowledge</strong> with the guidance of the teacher.</li>
+<li><strong>Examples:</strong><ul>
+<li><strong>Project work</strong></li>
+<li><strong>Playway method</strong></li>
+<li><strong>Exploration</strong></li>
+<li><strong>Montessori approach</strong> — which uses <strong>didactic materials</strong> in constructive / developing knowledge</li>
+</ul>
+</li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">Key Idea</p>
+<p>Learners <strong>actively construct</strong> their own knowledge rather than passively receiving it from the teacher.</p>
+</div>
+<hr />
+<h3 id="2-collaborative-approach">2. Collaborative Approach<a class="headerlink" href="#2-collaborative-approach" title="Permanent link">&para;</a></h3>
+<ul>
+<li>In collaborative approach, <strong>2 or more students join together</strong> and learn something together.</li>
+<li>In this, they <strong>share the skills and abilities</strong> of co-learners by <strong>asking questions</strong> on the topic studied.</li>
+<li>Collaborative learning enables to develop <strong>joint learning</strong>, sharing each other's <strong>varied experiences and knowledge</strong> by <strong>actively interacting</strong> with each other.</li>
+<li>The knowledge and experience of individuals are <strong>varied and different</strong>.</li>
+<li>Thus, they <strong>share all such varied knowledge</strong> from one another.</li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">Key Idea</p>
+<p>Students learn <strong>from each other</strong> by sharing diverse knowledge and experiences through active interaction.</p>
+</div>
+<hr />
+<h3 id="3-inquiry-based-approach">3. Inquiry-Based Approach<a class="headerlink" href="#3-inquiry-based-approach" title="Permanent link">&para;</a></h3>
+<ul>
+<li>This starts by <strong>asking questions, problems and learning</strong>.</li>
+<li>It is <strong>not merely passive presenting</strong> of established and known knowledge.</li>
+<li>This could be <strong>improved</strong> by the role of <strong>facilitator</strong>, guiding whenever doubts arise.</li>
+<li><strong>Inquiry</strong> is the basic approach — mostly it would be <strong>problem-based</strong>.</li>
+<li>Knowledge is <strong>developed by research and analysis</strong> — new learning is created.</li>
+<li>In order to find solutions, there could be <strong>small-scale investigations and projects</strong>.</li>
+<li>This enables to develop <strong>thinking skills and analytical approaches</strong>.</li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">Key Idea</p>
+<p>Learning through <strong>questioning, investigation and research</strong> rather than passive reception of established knowledge.</p>
+</div>
+<hr />
+<h3 id="4-integrative-approach">4. Integrative Approach<a class="headerlink" href="#4-integrative-approach" title="Permanent link">&para;</a></h3>
+<ul>
+<li>If education takes place in <strong>independent bits of learning</strong>, it will <strong>not be practical and useful</strong>.</li>
+<li>This approach ensures <strong>integrated, connected knowledge across curricula</strong>.</li>
+<li>It is different at <strong>different levels</strong> — primary, secondary levels.</li>
+<li>Traditionally, subjects are taught as <strong>independent, disconnected subjects</strong>, but this will <strong>not bring out the interrelation</strong> among the subjects based on life experience.</li>
+<li><strong>Research studies have proved</strong> that subjects studied in an integrated manner are <strong>far better than independent study</strong> of subjects.</li>
+<li><strong>Life is not compartmentalised</strong> — it is <strong>integrated</strong>, and so when we study using an integrated approach, it enables students to <strong>understand life experiences</strong>.</li>
+<li><strong>Example:</strong> When reading and writing language studies are <strong>integrated with science</strong> or other subjects, it makes understanding <strong>better and clear</strong>.</li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">Key Idea</p>
+<p>Subjects should be taught in a <strong>connected, cross-curricular manner</strong> reflecting the integrated nature of real life.</p>
+</div>
+<hr />
+<h3 id="5-reflective-approach">5. Reflective Approach<a class="headerlink" href="#5-reflective-approach" title="Permanent link">&para;</a></h3>
+<ul>
+<li>In reflective teaching, the teacher is <strong>not approaching it as usual practice</strong>.</li>
+<li>Instead, the teacher will <strong>plan different, improved, useful ways and means</strong> of teaching.</li>
+<li>In this approach, teachers <strong>think and analyse</strong> how the present teaching is done and how it could be <strong>improved and made more effective</strong>.</li>
+<li>By such <strong>thinking and analysis</strong>, teachers could develop <strong>new approaches and methods</strong> based on their own <strong>research in practice</strong>.</li>
+<li>It also enables to introduce:<ul>
+<li><strong>Small group teaching</strong></li>
+<li><strong>Co-operative learning methods</strong></li>
+<li><strong>Identifying problem students</strong> — what are their problems and how they could be removed</li>
+</ul>
+</li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">Key Idea</p>
+<p>Teachers <strong>reflect on their own practice</strong>, analyse effectiveness, and continuously <strong>improve their teaching methods</strong>.</p>
+</div>
+<hr />
+<h3 id="conclusion-on-pedagogical-approaches">Conclusion on Pedagogical Approaches<a class="headerlink" href="#conclusion-on-pedagogical-approaches" title="Permanent link">&para;</a></h3>
+<blockquote>
+<p>By understanding all such approaches, a teacher can <strong>adopt one or more approaches</strong> of teaching in order to make teaching <strong>more effective, meaningful and varied</strong>. This will <strong>kindle the interest and attention</strong> of students to learn.</p>
+</blockquote>
+<div class="admonition important">
+<p class="admonition-title">Comparison Table: Five Pedagogical Approaches</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Approach</th>
+<th>Focus</th>
+<th>Role of Teacher</th>
+<th>Role of Student</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Constructivist</strong></td>
+<td>Active knowledge building</td>
+<td>Guide / Facilitator</td>
+<td>Active constructor of knowledge</td>
+<td>Project work, Montessori</td>
+</tr>
+<tr>
+<td><strong>Collaborative</strong></td>
+<td>Joint learning</td>
+<td>Organiser</td>
+<td>Co-learner, shares knowledge</td>
+<td>Group discussions, peer learning</td>
+</tr>
+<tr>
+<td><strong>Inquiry-Based</strong></td>
+<td>Questioning &amp; research</td>
+<td>Facilitator</td>
+<td>Investigator, problem-solver</td>
+<td>Research projects, investigations</td>
+</tr>
+<tr>
+<td><strong>Integrative</strong></td>
+<td>Cross-curricular connections</td>
+<td>Integrator</td>
+<td>Connects knowledge across subjects</td>
+<td>Language + Science integration</td>
+</tr>
+<tr>
+<td><strong>Reflective</strong></td>
+<td>Continuous improvement</td>
+<td>Reflective practitioner</td>
+<td>Beneficiary of improved methods</td>
+<td>Action research, self-evaluation</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="admonition note">
+<p class="admonition-title">Quick Revision: Topics 1.4 – 1.7</p>
+<ul>
+<li><strong>1.4</strong> — Computer-Based Teaching Model (Daniel Davis): Most complicated model; diagnosis + teaching side by side; introduced in 1950s at IBM.</li>
+<li><strong>1.5</strong> — Charles Galloway System: 10 verbal + 10 non-verbal categories; combines both dimensions; 7 assumptions; Communication Skill (verbal + non-verbal strategies).</li>
+<li><strong>1.6</strong> — Steps in Pedagogical Analysis: Scientific study of teaching; 4 pillars — Content Analysis, Objectives, Methods, Evaluation.</li>
+<li><strong>1.7</strong> — Five Pedagogical Approaches: Constructivist, Collaborative, Inquiry-based, Integrative, Reflective.</li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.sections", "navigation.expand", "navigation.top", "toc.integrate", "search.suggest", "search.highlight", "content.tabs.link"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>
